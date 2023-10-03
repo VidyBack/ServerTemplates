@@ -1,22 +1,24 @@
 {
   "name": "servertemplates",
+
   "version": "1.0.0",
-  "description": "",
+  "description": "for creating a backend API server using json-server with ready to deploy config for vercel",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js --port=8000",
     "watch": "json-server db.json --port=8000"
-    
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VidyBack/ServerTemplates.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/VidyBack/ServerTemplates/issues"
-  },
-  "homepage": "https://github.com/VidyBack/ServerTemplates#readme"
+  "dependencies": {
+    "clone": "^2.1.2",
+    "json-server": "^0.17.3"
+  }
+
+ 
+ 
+  
+  
+ 
 }

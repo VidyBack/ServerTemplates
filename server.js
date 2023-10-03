@@ -1,28 +1,17 @@
-const jsonServer = require('json-server')
-const clone = require('clone')
-const data = require('./db.json')
+// index.js
+const express = require('express')
+const app = express()
+const PORT = 4000
 
-const isProductionEnv = process.env.NODE_ENV === 'production';
-const server = jsonServer.create()
 
-// For mocking the POST request, POST request won't make any changes to the DB in production environment
-const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
-    _isFake: isProductionEnv
-})
-const middlewares = jsonServer.defaults()
-
-server.use(middlewares)
-
-server.use((req, res, next) => {
-    if (req.path !== '/')
-        router.db.setState(clone(data))
-    next()
+app.get('/home', (req, res) => {
+  res.status(200).json('Welcome, your app is working well');
 })
 
-server.use(router)
-server.listen(process.env.PORT || 8000, () => {
-    console.log('JSON Server is running')
-})
 
-// Export the Server API
-module.exports = server
+app.listen(PORT, () => {
+  console.log(`Server running at http://localhost:${PORT}`);
+});
+
+// Export the Express API
+module.exports = app

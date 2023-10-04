@@ -26,12 +26,6 @@ server.post('/your-endpoint', (req, res) => {
     res.status(200).json(newData);
   });
 
-server.use((req, res, next) => {
-    if (req.path !== '/')
-        router.db.setState(clone(data))
-    next()
-})
-
 server.use(router);
 
 const port = process.env.PORT || 3000;

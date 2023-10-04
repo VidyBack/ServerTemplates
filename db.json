@@ -3639,5 +3639,1686 @@
     "id": "-qRDV8Jc8BJ5G6ZY8Ocz9",
     "templateId": "-qRDV8Jc8BJ5G6ZY8Ocz9"
   }
+],
+"p_na_2_isMultipleTemplate_like=false&&type_like=Instagram_Posts_4:5":[
+  {
+    "id": "DpPY0Pf64_1M12aa",
+    "templateId": "DpPY0Pf64_1M12aa",
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bAX--_1663652120460_mixkit-savana-186.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-09-15T07:42:51.093Z",
+    "extraComps": [
+      {
+        "index": 7,
+        "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dvBm-_1694763123811_06-new-arrival-portrait-templat.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "06-new-arrival-portrait-templat",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FSqca_1694763123814_06-new-arrival-portrait-templat.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fxG4d_1694763123812_06-new-arrival-portrait-templat.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G08A-_1694763762557_06-new-arrival-portrait-templat-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_buw3S_1694763766305_06-new-arrival-portrait-templat-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Toys": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hboHV_1694763762560_06-new-arrival-portrait-templat-Toys.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1DILo_1694763766307_06-new-arrival-portrait-templat-Toys.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthFitness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7JKLq_1694763762562_06-new-arrival-portrait-templat-HealthFitness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EWnxC_1694763766310_06-new-arrival-portrait-templat-HealthFitness.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XFCx9_1694763762564_06-new-arrival-portrait-templat-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EkFfi_1694763766317_06-new-arrival-portrait-templat-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bioTH_1694763762565_06-new-arrival-portrait-templat-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_33QIB_1694763766319_06-new-arrival-portrait-templat-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_F2vBB_1694763762574_06-new-arrival-portrait-templat-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mjikV_1694763766321_06-new-arrival-portrait-templat-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TsvB7_1694763762575_06-new-arrival-portrait-templat-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xVSmH_1694763766324_06-new-arrival-portrait-templat-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cecTS_1694763762577_06-new-arrival-portrait-templat-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Q-YvB_1694763766376_06-new-arrival-portrait-templat-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rFWGG_1694763762579_06-new-arrival-portrait-templat-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oHsJS_1694763766378_06-new-arrival-portrait-templat-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mbQpR_1694763762580_06-new-arrival-portrait-templat-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CxM86_1694763766379_06-new-arrival-portrait-templat-Wearables.mp4",
+          "promoHeading": ""
+        }
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-09-04T07:24:51.961Z",
+    "extraComps": [
+      {
+        "index": 7,
+        "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9CHz5_1693811911662_04-new-arrival-portrait-template.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04-new-arrival-portrait-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ehxqi_1693811911664_04-new-arrival-portrait-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xzJSK_1693811911663_04-new-arrival-portrait-template.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.3,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NLT9V_1693812279877_04-new-arrival-portrait-template-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5hYOu_1693812283606_04-new-arrival-portrait-template-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Toys": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z6dXx_1693812279879_04-new-arrival-portrait-template-Toys.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-qcRB_1693812283608_04-new-arrival-portrait-template-Toys.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthFitness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_78GXC_1693812279880_04-new-arrival-portrait-template-HealthFitness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iPLQ5_1693812283618_04-new-arrival-portrait-template-HealthFitness.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Z37T__1693812279881_04-new-arrival-portrait-template-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PZjgv_1693812283625_04-new-arrival-portrait-template-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c-PiN_1693812279882_04-new-arrival-portrait-template-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QRRYg_1693812283627_04-new-arrival-portrait-template-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_W8wtN_1693812279883_04-new-arrival-portrait-template-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9g9PC_1693812283628_04-new-arrival-portrait-template-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gM3ep_1693812279884_04-new-arrival-portrait-template-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_In-rV_1693812283630_04-new-arrival-portrait-template-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JOTYE_1693812279903_04-new-arrival-portrait-template-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_M2007_1693812283668_04-new-arrival-portrait-template-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oZMs1_1693812279904_04-new-arrival-portrait-template-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UApZO_1693812283670_04-new-arrival-portrait-template-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Spr6k_1693812279905_04-new-arrival-portrait-template-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MqzRQ_1693812283671_04-new-arrival-portrait-template-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CdLYR_1693812279906_04-new-arrival-portrait-template-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cjQBj_1693812283672_04-new-arrival-portrait-template-Wearables.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "Nrwxn6NDe0uWl7wwO8s8n",
+    "templateId": "Nrwxn6NDe0uWl7wwO8s8n"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2023-09-15T07:02:22.384Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-xtDK_1694760998226_05-new-arrival-portrait-template.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "05-new-arrival-portrait-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ddX39_1694760999382_05-new-arrival-portrait-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_e7zwB_1694760999241_05-new-arrival-portrait-template.jpg",
+    "imageType": "Instagram Posts",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.3,
+    "isMultipleTemplate": false,
+    "id": "DpPY0Pf64_1MxxBfdaa",
+    "templateId": "DpPY0Pf64_1MxxBfdaa",
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Za-xe_1694761329709_05-new-arrival-portrait-template-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tgLz-_1694761333616_05-new-arrival-portrait-template-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Toys": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FBbd3_1694761329748_05-new-arrival-portrait-template-Toys.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OSc4u_1694761333621_05-new-arrival-portrait-template-Toys.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthFitness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L8nEq_1694761329755_05-new-arrival-portrait-template-HealthFitness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vyhfC_1694761333630_05-new-arrival-portrait-template-HealthFitness.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_azUdI_1694761329768_05-new-arrival-portrait-template-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JVgbp_1694761333632_05-new-arrival-portrait-template-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5iqp0_1694761329828_05-new-arrival-portrait-template-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_e1QiD_1694761333634_05-new-arrival-portrait-template-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BMnnj_1694761329829_05-new-arrival-portrait-template-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MS6Yr_1694761333636_05-new-arrival-portrait-template-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_E-T0w_1694761329830_05-new-arrival-portrait-template-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cI9wy_1694761333637_05-new-arrival-portrait-template-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_l_GwA_1694761329861_05-new-arrival-portrait-template-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BFsk8_1694761333664_05-new-arrival-portrait-template-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q4G4-_1694761329862_05-new-arrival-portrait-template-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iKlwL_1694761333683_05-new-arrival-portrait-template-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8JDbu_1694761329863_05-new-arrival-portrait-template-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_q1Epv_1694761333703_05-new-arrival-portrait-template-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PADjH_1694761329897_05-new-arrival-portrait-template-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9tERW_1694761333730_05-new-arrival-portrait-template-Wearables.mp4",
+          "promoHeading": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "DpPY0Pf64_1MnbDBfdaa",
+    "templateId": "DpPY0Pf64_1MnbDBfdaa",
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2023-09-15T06:38:08.643Z",
+    "extraComps": [
+      {
+        "index": 7,
+        "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_89Dsz_1694759488618_07-new-arrival-portrait-templat.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "07-new-arrival-portrait-templat",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wjx36_1694759488803_07-new-arrival-portrait-templat.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_M5fgX_1694759488714_07-new-arrival-portrait-templat.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-NazG_1694759879162_07-new-arrival-portrait-templat-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aguco_1694759883070_07-new-arrival-portrait-templat-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Toys": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WQscA_1694759879165_07-new-arrival-portrait-templat-Toys.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yH1Tk_1694759883084_07-new-arrival-portrait-templat-Toys.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthFitness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0bfj9_1694759879170_07-new-arrival-portrait-templat-HealthFitness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WJ_1S_1694759883122_07-new-arrival-portrait-templat-HealthFitness.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wytqv_1694759879172_07-new-arrival-portrait-templat-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IScEs_1694759883135_07-new-arrival-portrait-templat-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_slGoD_1694759879173_07-new-arrival-portrait-templat-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0H7YY_1694759883147_07-new-arrival-portrait-templat-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vqeBk_1694759879176_07-new-arrival-portrait-templat-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2QGls_1694759883148_07-new-arrival-portrait-templat-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kFkMv_1694759879177_07-new-arrival-portrait-templat-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yLRLr_1694759883150_07-new-arrival-portrait-templat-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CMJkS_1694759879179_07-new-arrival-portrait-templat-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-JDvx_1694759883152_07-new-arrival-portrait-templat-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2jqYD_1694759879220_07-new-arrival-portrait-templat-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0F8If_1694759883154_07-new-arrival-portrait-templat-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8JUWb_1694759879221_07-new-arrival-portrait-templat-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vKiL0_1694759883156_07-new-arrival-portrait-templat-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ebmS2_1694759879222_07-new-arrival-portrait-templat-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_31wKC_1694759883157_07-new-arrival-portrait-templat-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2023-03-02T12:18:59.851Z",
+    "extraComps": [
+      {
+        "index": 7,
+        "compId": "1666244855005_15-BrandOutro-post-square"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-4QWb_1677759526693_11-multiproduct-02-02-23.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "11-multiproduct-02-02-23",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kb7Th_1677759526696_11-multiproduct-02-02-23.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uv_WR_1677759526694_11-multiproduct-02-02-23.jpg",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "previews": [
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PYvTc_1677759533424_11-multiproduct-02-02-23-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Aq8WY_1677759534746_11-multiproduct-02-02-23-Footwear.mp4"
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GsQpq_1677759533426_11-multiproduct-02-02-23-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BxvtY_1677759534748_11-multiproduct-02-02-23-Jewellery.mp4"
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JbEFb_1677759533427_11-multiproduct-02-02-23-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SkydP_1677759534750_11-multiproduct-02-02-23-HomeDecor.mp4"
+        }
+      }
+    ],
+    "id": "GDz5rjdfv_NlUQHSBUqqF",
+    "templateId": "GDz5rjdfv_NlUQHSBUqqF",
+    "priorityNumber": true,
+    "isMultipleTemplate": false
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bAX--_1663652120460_mixkit-savana-186.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-06-08T12:25:05.723Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XVZE8_1686226983329_03-new-arrival-07-03-23.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-new-arrival-07-03-23",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VV-OT_1686226983547_03-new-arrival-07-03-23.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IeTY__1686226983488_03-new-arrival-07-03-23.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "previews": [
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XX-Ou_1686227099956_03-new-arrival-07-03-23-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gOh6V_1686227102264_03-new-arrival-07-03-23-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WHGM2_1686227099957_03-new-arrival-07-03-23-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ViQiL_1686227102266_03-new-arrival-07-03-23-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sPzk6_1686227099958_03-new-arrival-07-03-23-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xlEgo_1686227102268_03-new-arrival-07-03-23-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vcot-_1686227099960_03-new-arrival-07-03-23-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nqpC5_1686227102269_03-new-arrival-07-03-23-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "Q3WVxR9kY63HDhHDrJtmu",
+    "templateId": "Q3WVxR9kY63HDhHDrJtmu",
+    "isMultipleTemplate": false
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-06-08T09:20:17.166Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LX-iv_1686215937208_04-display-ads-portrait.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04-display-ads-portrait",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0RX8T_1686215937211_04-display-ads-portrait.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UOG2k_1686215937209_04-display-ads-portrait.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "previews": [
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iJpTj_1686216011872_04-display-ads-portrait-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vNHNX_1686216014152_04-display-ads-portrait-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C9HtB_1686216011873_04-display-ads-portrait-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cDkFw_1686216014154_04-display-ads-portrait-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hioup_1686216011875_04-display-ads-portrait-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TVrWM_1686216014156_04-display-ads-portrait-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "TZAJdd3fpkDmJ6Wg4e2oH",
+    "templateId": "TZAJdd3fpkDmJ6Wg4e2oH",
+    "isMultipleTemplate": false
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-06-08T07:07:39.050Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SsD6W_1686207921382_03-display-ads-portrait.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-display-ads-portrait",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_F9tmx_1686207921423_03-display-ads-portrait.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RAyNf_1686207921415_03-display-ads-portrait.jpg",
+    "imageType": "Instagram Stories",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "previews": [
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zLZpO_1686208053543_03-display-ads-portrait-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OEN3r_1686208055832_03-display-ads-portrait-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sfUvs_1686208053545_03-display-ads-portrait-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Z6t0Z_1686208055839_03-display-ads-portrait-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LlMDM_1686208053567_03-display-ads-portrait-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r54Q__1686208055841_03-display-ads-portrait-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fbzO3_1686208053568_03-display-ads-portrait-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zskuO_1686208055844_03-display-ads-portrait-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "8YAmE1EKxaUPYyinYgOlM",
+    "templateId": "8YAmE1EKxaUPYyinYgOlM",
+    "isMultipleTemplate": false
+  },
+  {
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EBxaw_1663652339012_mixkit-techno-fest-vibes-124.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2022-10-06T06:14:33.355Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6Vqjr_1665036868734_02-new arrival-06-10-22.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "02-New Arrival",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VP9oQ_1665036868737_02-new-arrival-1080x1350-updated_small_updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g6X7m_1665036868736_02-new-arrival-1080x1350-updated.jpg",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "id": "v-DvFxwMp44gLGe5ChWZd",
+    "templateId": "v-DvFxwMp44gLGe5ChWZd",
+    "musicName": "Mixkit Techno Fest Vibes",
+    "classes": [
+      "HomeDecor"
+    ],
+    "brandDisabled": true,
+    "version": 1,
+    "isMultipleTemplate": false
+  },
+  {
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2022-09-22T10:13:07.729Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_kWDzq_1663841578550_03-new-arrival-21-09-2022.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-New Arrival - post 4:5",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-EgfE_1663841578557_03_newarrival_1080x1350_26_08_22_small_updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tMBF0_1663841578553_03_newarrival_1080x1350_26_08_22.jpg",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "id": "lhu2gUe7HZZlIJhXRhGzF",
+    "templateId": "lhu2gUe7HZZlIJhXRhGzF",
+    "musicName": "Mixkit Baila Mi Amor",
+    "classes": [
+      "HomeDecor"
+    ],
+    "previews": [
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/footwear/01-footwear-1080x1350.jpg",
+          "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/footwear/01-footwear-1080x1350.mp4"
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/mobile-electronics/mobile-electronics1.jpg",
+          "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/mobile-electronics/mobile-electronics1.mp4"
+        }
+      }
+    ],
+    "brandDisabled": true,
+    "version": 1,
+    "isMultipleTemplate": false
+  },
+  {
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mhEDg_1663650539432_mixkit-alright-784.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2022-09-22T08:13:25.629Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2YdSf_1663834401448_04-newarrival-22-09-22.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04 - New Arrival",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-CJSL_1663834401455_04_newarrival_1080x1350_26_08_22_small_updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FE-eV_1663834401452_04_newarrival_1080x1350_26_08_22.jpg",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "id": "9EUfgPYjePzufyj1FhTH2",
+    "templateId": "9EUfgPYjePzufyj1FhTH2",
+    "musicName": "Mixkit Alright",
+    "classes": [
+      "Footwear"
+    ],
+    "brandDisabled": true,
+    "version": 1,
+    "isMultipleTemplate": false
+  },
+  {
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2022-09-22T06:13:33.008Z",
+    "extraComps": [],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eevKu_1663827209909_01-new-arrival-21-09-22.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "01- New Arrival - post 4:5",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_im3Jv_1663827209923_01-newarrival_small_updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YS3M-_1663827209915_01-newarrival.jpg",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "id": "XDPWjPXpPFY_sSWHPktKm",
+    "templateId": "XDPWjPXpPFY_sSWHPktKm",
+    "musicName": "Mixkit Its Love",
+    "classes": [
+      "HomeDecor"
+    ],
+    "previews": [
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/health-beauty/healthbeauty2.jpg",
+          "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/health-beauty/healthbeauty2.mp4"
+        }
+      }
+    ],
+    "brandDisabled": true,
+    "version": 1,
+    "isMultipleTemplate": false
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-09-04T10:34:37.917Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_RKIew_1693823431642_09-new-arrival-portrait.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "09-new-arrival-portrait",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XQ_Ma_1693823431655_09-new-arrival-portrait.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PmDuC_1693823431654_09-new-arrival-portrait.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VTZJw_1693823667806_09-new-arrival-portrait-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lo1d8_1693823671478_09-new-arrival-portrait-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PRO20_1693823667807_09-new-arrival-portrait-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xZ9uu_1693823671480_09-new-arrival-portrait-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h7j7L_1693823667809_09-new-arrival-portrait-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8WNp3_1693823671483_09-new-arrival-portrait-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0GzDM_1693823667810_09-new-arrival-portrait-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uSPbB_1693823671486_09-new-arrival-portrait-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Tm8rz_1693823667812_09-new-arrival-portrait-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9siLV_1693823671489_09-new-arrival-portrait-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sEXM__1693823667813_09-new-arrival-portrait-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8zZRP_1693823671491_09-new-arrival-portrait-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u74OQ_1693823667815_09-new-arrival-portrait-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nD9Ub_1693823671493_09-new-arrival-portrait-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JgpCu_1693823667817_09-new-arrival-portrait-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dHlbJ_1693823671495_09-new-arrival-portrait-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "910cct7mFrdZNqgG1VmSi",
+    "templateId": "910cct7mFrdZNqgG1VmSi"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-08-22T11:14:48.819Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PyCRn_1692702570464_07-new-arrival-1080x1350.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "07-new-arrival-1080x1350",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kG60p_1692702570472_07-new-arrival-1080x1350.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AtU50_1692702570469_07-new-arrival-1080x1350.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6vHbS_1692702880478_07-new-arrival-1080x1350-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dbyUc_1692702883577_07-new-arrival-1080x1350-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lhjfo_1692702880481_07-new-arrival-1080x1350-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_G5EtQ_1692702883579_07-new-arrival-1080x1350-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pwosz_1692702880483_07-new-arrival-1080x1350-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-y3BM_1692702883581_07-new-arrival-1080x1350-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fHuMC_1692702880485_07-new-arrival-1080x1350-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ehjgk_1692702883583_07-new-arrival-1080x1350-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rmdRm_1692702880486_07-new-arrival-1080x1350-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6-4-t_1692702883585_07-new-arrival-1080x1350-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Electronics": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L9Hg4_1692702880489_07-new-arrival-1080x1350-Electronics.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ruCJH_1692702883587_07-new-arrival-1080x1350-Electronics.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yKyGu_1692702880490_07-new-arrival-1080x1350-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BFFmv_1692702883589_07-new-arrival-1080x1350-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IEXbs_1692702880492_07-new-arrival-1080x1350-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gXsQv_1692702883591_07-new-arrival-1080x1350-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Furniture": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GdDGl_1692702880495_07-new-arrival-1080x1350-Furniture.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DsxaD_1692702883593_07-new-arrival-1080x1350-Furniture.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "b8XuQ9siWODNumstfhyNT",
+    "templateId": "b8XuQ9siWODNumstfhyNT"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-08-22T09:32:55.077Z",
+    "extraComps": [
+      {
+        "index": 8,
+        "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-AebZ_1692696353293_11-new-arrival.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "11-new-arrival",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ia1Kk_1692696353297_11-new-arrival.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tKa7z_1692696353295_11-new-arrival.jpg",
+    "imageType": "Instagram Stories",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZmNhI_1692696767085_11-new-arrival-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8dicM_1692696770460_11-new-arrival-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lmbf6_1692696767087_11-new-arrival-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_u4DhM_1692696770464_11-new-arrival-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__CJCf_1692696767089_11-new-arrival-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3hhON_1692696770466_11-new-arrival-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uThfi_1692696767090_11-new-arrival-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aa81v_1692696770469_11-new-arrival-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Electronics": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_myBfS_1692696767092_11-new-arrival-Electronics.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe___FVp_1692696770471_11-new-arrival-Electronics.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prcS2_1692696767093_11-new-arrival-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_98SVc_1692696770473_11-new-arrival-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PUK18_1692696767094_11-new-arrival-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iSGR5_1692696770476_11-new-arrival-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Furniture": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_53BFa_1692696767096_11-new-arrival-Furniture.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6V2ue_1692696770478_11-new-arrival-Furniture.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "j4s48HRMAix__jecl9GYB",
+    "templateId": "j4s48HRMAix__jecl9GYB"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-08-21T12:53:10.727Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0WtwW_1692622110817_08-new-arrival.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "08-new-arrival",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QWSZv_1692622110823_08-new-arrival.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vzr2P_1692622110821_08-new-arrival.jpg",
+    "imageType": "Instagram Stories",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xdd7w_1692622379534_08-new-arrival-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ybOfi_1692622386159_08-new-arrival-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_i-y0-_1692622379535_08-new-arrival-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YrYlr_1692622386161_08-new-arrival-Clothings.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_t_2cA_1692622379537_08-new-arrival-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c1tLo_1692622386163_08-new-arrival-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z1M3k_1692622379538_08-new-arrival-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Kb_mA_1692622386166_08-new-arrival-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Electronics": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zvJ8J_1692622379539_08-new-arrival-Electronics.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2BjB1_1692622386168_08-new-arrival-Electronics.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Uau_F_1692622379540_08-new-arrival-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D3RZm_1692622386169_08-new-arrival-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dAz4I_1692622379541_08-new-arrival-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Pw58G_1692622386171_08-new-arrival-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Furniture": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n077N_1692622379543_08-new-arrival-Furniture.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iyPRo_1692622386173_08-new-arrival-Furniture.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "VjErP2GU2MUaS6WWuAqaS",
+    "templateId": "VjErP2GU2MUaS6WWuAqaS"
+  }
 ]
+
+
 }

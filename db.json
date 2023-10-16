@@ -43736,6 +43736,188 @@
       "bgImageUrl": [
           ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jgUYu_1697183557252_old-old-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-10-13T10:42:02.486Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1666868563760_15-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_F92_R_1697193438649_26-new-arrival-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "26-new-arrival-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_na"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bjkxn_1697193438652_26-new-arrival-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jVYE6_1697193438651_26-new-arrival-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L3pgJ_1697193710120_26-new-arrival-story-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jDF2m_1697193714130_26-new-arrival-story-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HomeDecor": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LcaZ6_1697193710121_26-new-arrival-story-HomeDecor.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9nH0I_1697193714138_26-new-arrival-story-HomeDecor.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ui_9z_1697193710123_26-new-arrival-story-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_edFpl_1697193714141_26-new-arrival-story-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oWQL7_1697193710125_26-new-arrival-story-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__--bM_1697193714142_26-new-arrival-story-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1pJz-_1697193710126_26-new-arrival-story-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Zcdlb_1697193714144_26-new-arrival-story-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Electronics": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DDQ2I_1697193710128_26-new-arrival-story-Electronics.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AMrQZ_1697193714146_26-new-arrival-story-Electronics.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bbuk__1697193710129_26-new-arrival-story-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MvWIo_1697193714148_26-new-arrival-story-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "wW3z3Pk1RKhAJPi_1",
+      "templateId": "wW3z3Pk1RKhAJPi_1"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "id": "ghghgh12",
+    "templateId": "ghghgh12",
+    "bgVideoUrl": [
+        ""
+    ],
+    "fontUrl": [
+        ""
+    ],
+    "bgImageUrl": [
+        ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2q21Q_1696999904998_mixkit-africa-218.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": true,
+    "createdOn": "2023-10-12T10:39:02.467Z",
+    "extraComps": [
+        {
+            "index": 4,
+            "compId": "1688558464695_14-youtube-1920x1080"
+        }
+    ],
+    "widgetsDefinition": [
+        {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_skrWw_1697107138437_03-new-arrival-youtube.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+        }
+    ],
+    "type": "Youtube Videos",
+    "name": "03-new-arrival-youtube",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+        "p_na"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rFsW9_1697107138440_03-new-arrival-youtube.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iyDyg_1697107138439_03-new-arrival-youtube.jpg",
+    "imageType": "Youtube Videos",
+    "outroType": null,
+    "introType": null,
+    "Height": 1080,
+    "Width": 1920,
+    "height": 1080,
+    "width": 1920,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.5,
+    "isMultipleTemplate": false,
+    "previews": [],
+    "isDevOnly":true
+   
+},
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
       "fillEnabled": true,
       "forWebsites": [],

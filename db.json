@@ -51216,92 +51216,92 @@
   ],
   "p_features": [
     {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-          ""
-      ],
-      "fontUrl": [
-          ""
-      ],
-      "bgImageUrl": [
-          ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-10-18T11:13:34.291Z",
-      "extraComps": [
-          {
-              "index": 4,
-              "compId": "1688557660289_15-youtube-1920x1080"
-          }
-      ],
-      "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_RLZYY_1697627517263_01-features-youtube-template.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
-      ],
-      "type": "Youtube Videos",
-      "name": "01-features-youtube-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-          "p_features"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0md-P_1697627517266_01-features-youtube-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PX87l_1697627517265_01-features-youtube-template.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1920,
-      "height": 1080,
-      "width": 1920,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-          {
-              "Jobs": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2h25S_1697627604749_01-features-youtube-template-Jobs.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_d2-YV_1697627607285_01-features-youtube-template-Jobs.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Travel": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LMiEK_1697627604751_01-features-youtube-template-Travel.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_obF0M_1697627607286_01-features-youtube-template-Travel.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Automobile": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SjAE__1697627604753_01-features-youtube-template-Automobile.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mRXe9_1697627607288_01-features-youtube-template-Automobile.mp4",
-                  "promoHeading": ""
-              }
-          }
-      ],
-      "id": "B-3Yhh3WiyXluXAoLUL03_Cx",
-      "templateId": "B-3Yhh3WiyXluXAoLUL03_Cx"
-  },
+    "id": "B-3Yhh3WiyXluXAoLUL03_Cx",
+    "templateId": "B-3Yhh3WiyXluXAoLUL03_Cx",
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+        ""
+    ],
+    "fontUrl": [
+        ""
+    ],
+    "bgImageUrl": [
+        ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-10-18T12:04:28.618Z",
+    "extraComps": [
+        {
+            "index": 4,
+            "compId": "1688557660289_15-youtube-1920x1080"
+        }
+    ],
+    "widgetsDefinition": [
+        {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IiEcV_1697630581364_01-features-youtube-template.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+        }
+    ],
+    "type": "Youtube Videos",
+    "name": "01-features-youtube-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+        "p_features"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YsnMz_1697630581402_01-features-youtube-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pYDOM_1697630581400_01-features-youtube-template.jpg",
+    "imageType": "Instagram Posts",
+    "outroType": null,
+    "introType": null,
+    "Height": 1080,
+    "Width": 1920,
+    "height": 1080,
+    "width": 1920,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 0.4,
+    "isMultipleTemplate": false,
+    "previews": [
+        {
+            "Jobs": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7txMH_1697630662606_01-features-youtube-template-Jobs.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BqkLe_1697630665019_01-features-youtube-template-Jobs.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Travel": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hpc_0_1697630662642_01-features-youtube-template-Travel.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nCnUm_1697630665037_01-features-youtube-template-Travel.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Automobile": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G5YSA_1697630662644_01-features-youtube-template-Automobile.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bM0GX_1697630665039_01-features-youtube-template-Automobile.mp4",
+                "promoHeading": ""
+            }
+        }
+    ]
+},
     {
       "version": 2,
       "gifUrl": "",

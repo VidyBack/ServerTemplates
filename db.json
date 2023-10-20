@@ -31560,6 +31560,114 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f_ZA-_1696839215520_mixkit-city-of-sins-986.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-20T08:23:13.215Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JJUd4_1697789968039_10-display-ads-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Post 4:5",
+      "name": "10-display-ads-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bwHbn_1697789968044_10-display-ads-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LQvXs_1697789968041_10-display-ads-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5Vx8b_1697790186424_10-display-ads-portrait-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ONIYY_1697790190411_10-display-ads-portrait-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FB1UA_1697790186426_10-display-ads-portrait-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__HTgt_1697790190414_10-display-ads-portrait-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q4276_1697790186428_10-display-ads-portrait-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nWxC__1697790190417_10-display-ads-portrait-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_O38HD_1697790186429_10-display-ads-portrait-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rGf_G_1697790190419_10-display-ads-portrait-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Electronics": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Lykc__1697790186431_10-display-ads-portrait-Electronics.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dOFuD_1697790190421_10-display-ads-portrait-Electronics.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HomeDecor": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jKa-H_1697790186434_10-display-ads-portrait-HomeDecor.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aZJet_1697790190423_10-display-ads-portrait-HomeDecor.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "2SO2ogihkPw9_Y43Dk6yI",
+      "templateId": "2SO2ogihkPw9_Y43Dk6yI"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [

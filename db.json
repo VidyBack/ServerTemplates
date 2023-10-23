@@ -23957,6 +23957,149 @@
     }
   ],
   "p_mp": [
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2q21Q_1696999904998_mixkit-africa-218.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-23T08:53:18.367Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1669383412764_17-BrandOutro-Square-version-1"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mTJFe_1698050774667_07-most-popular-square-full-screen-template.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Posts",
+      "name": "07-most-popular-square-full-screen-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yEHmA_1698050774673_07-most-popular-square-full-screen-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T7kLK_1698050774670_07-most-popular-square-full-screen-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2iVGv_1698051184012_07-most-popular-square-full-screen-template-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gZldt_1698051188660_07-most-popular-square-full-screen-template-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C0b9w_1698051184014_07-most-popular-square-full-screen-template-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jxUYC_1698051188662_07-most-popular-square-full-screen-template-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Xe4tm_1698051184015_07-most-popular-square-full-screen-template-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UdrGv_1698051188665_07-most-popular-square-full-screen-template-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ma6Ar_1698051184017_07-most-popular-square-full-screen-template-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9ahwK_1698051188668_07-most-popular-square-full-screen-template-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BG_6r_1698051184018_07-most-popular-square-full-screen-template-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cEnOq_1698051188670_07-most-popular-square-full-screen-template-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L5w74_1698051184020_07-most-popular-square-full-screen-template-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eoewV_1698051188674_07-most-popular-square-full-screen-template-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Cnfnw_1698051184021_07-most-popular-square-full-screen-template-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Is6cZ_1698051188676_07-most-popular-square-full-screen-template-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_H8QDO_1698051184023_07-most-popular-square-full-screen-template-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HveoT_1698051188679_07-most-popular-square-full-screen-template-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UJhsb_1698051184025_07-most-popular-square-full-screen-template-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-1o9L_1698051188686_07-most-popular-square-full-screen-template-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KOIZh_1698051184026_07-most-popular-square-full-screen-template-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_C7-Mw_1698051188688_07-most-popular-square-full-screen-template-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HomeDecor": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SAANs_1698051184028_07-most-popular-square-full-screen-template-HomeDecor.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MNUTj_1698051188690_07-most-popular-square-full-screen-template-HomeDecor.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "lW_XfXrF_S15_XyZ2",
+      "templateId": "lW_XfXrF_S15_XyZ2"
+  },
   {
     "version": 1,
     "gifUrl": "",

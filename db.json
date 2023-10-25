@@ -60958,6 +60958,7 @@
   ],
   "p_forhire_job": [
     {
+      "isMultipleTemplate":false,
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -61022,6 +61023,7 @@
       "templateId": "XF-9EiMQxO6ODj7nhSZnn"
     },
     {
+      "isMultipleTemplate":false,
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -61086,6 +61088,7 @@
       "templateId": "Lwl9e1RX3QOaku8O09xfu"
     },
     {
+      "isMultipleTemplate":false,
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -61211,6 +61214,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
+      "isMultipleTemplate":false,
       "previews": [
         {
           "Healthcare": {
@@ -61297,6 +61301,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
+      "isMultipleTemplate":false,
       "previews": [
         {
           "Healthcare": {
@@ -61383,6 +61388,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
+      "isMultipleTemplate":false,
       "previews": [
         {
           "Healthcare": {
@@ -61470,8 +61476,266 @@
       "AddId": "",
       "volume": 0.3,
       "previews": [],
+      "isMultipleTemplate":false,
       "id": "7icH3O05AcdXydw_EyF_L",
       "templateId": "7icH3O05AcdXydw_EyF_L"
     }
-  ]
+  ],
+  "p_for_hire": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CQEf1_1663651901631_mixkit-nights-with-ga-581.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-06-30T10:28:47.902Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_roL3L_1688120923346_01-job-template-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-job-template-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_for_hire"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SY806_1688120923657_01-job-template-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zF9Fs_1688120923652_01-job-template-portrait.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "isMultipleTemplate":false,
+      "previews": [],
+      "id": "tnVf8ECrNRvpd5V3hSQez",
+      "templateId": "tnVf8ECrNRvpd5V3hSQez"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-06-28T13:01:26.480Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_iMV4B_1687957281921_02-job-template-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-job-template-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_for_hire"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2TzTK_1687957281924_02-job-template-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2IoMX_1687957281922_02-job-template-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "previews": [],
+      "isMultipleTemplate":false,
+      "id": "m4f43yFwhlxuSqQo7_zX0",
+      "templateId": "m4f43yFwhlxuSqQo7_zX0"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wZ1EQ_1666164712777_mixkit-at-the-playhouse-821.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-06-28T10:58:31.022Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bSW8n_1687949905457_01-job-template-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-job-template-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_for_hire"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lSYQ6_1687949905473_01-job-template-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gKqY8_1687949905470_01-job-template-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "previews": [],
+      "isMultipleTemplate":false,
+      "id": "ndFV4w4ZnsDoU599Bfjwa",
+      "templateId": "ndFV4w4ZnsDoU599Bfjwa"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-04-14T12:47:57.766Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cM3EM_1681476475497_01-jobs.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-jobs",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_for_hire"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8PBNp_1681476475501_01-jobs.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_428bp_1681476475499_01-jobs.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [],
+      "isMultipleTemplate":false,
+      "id": "Y3Udx2s7ZLILuERDSUdFu",
+      "templateId": "Y3Udx2s7ZLILuERDSUdFu"
+    }
+  ],
+  "p_jobs_ps": []
 }

@@ -60955,5 +60955,523 @@
       "templateId": "VOgWjcwVFw007z6rLJgES",
       "isMultipleTemplate": false
     }
+  ],
+  "p_forhire_job": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rWYxR_1666164681968_mixkit-a-sexy-assassin-1086.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-19T05:38:21.836Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SzdXo_1689745097833_02-jobsummary-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-jobsummary-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_forhire_job"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0ysbv_1689745097839_02-jobsummary-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EI_eE_1689745097836_02-jobsummary-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [],
+      "id": "XF-9EiMQxO6ODj7nhSZnn",
+      "templateId": "XF-9EiMQxO6ODj7nhSZnn"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-17T12:16:16.281Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LKgXj_1689596173692_01-job-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-job-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_forhire_job"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UNWHu_1689596173696_01-job-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ntU5Z_1689596173694_01-job-post.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.2,
+      "previews": [],
+      "id": "Lwl9e1RX3QOaku8O09xfu",
+      "templateId": "Lwl9e1RX3QOaku8O09xfu"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-17T09:07:24.069Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IGASj_1689584841433_01-job-1080x1350.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-job-1080x1350",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_forhire_job"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SyvHz_1689584841437_01-job-1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MlNLW_1689584841435_01-job-1080x1350.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [],
+      "id": "eOMl-xRlIIRP3AQovIiGU",
+      "templateId": "eOMl-xRlIIRP3AQovIiGU"
+    }
+  ],
+  "p_jobtitle": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-21T11:59:58.931Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_m8W1Z_1689940719481_01-job-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-job-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_jobtitle"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jW0kM_1689940719487_01-job-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5kHTy_1689940719484_01-job-post.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Miqv9_1689940794105_01-job-post-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y-AAE_1689940796712_01-job-post-Healthcare.mp4",
+            "promoHeading": "Health & Wellness"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LlpjN_1689940794106_01-job-post-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BBFfL_1689940796714_01-job-post-Politics.mp4",
+            "promoHeading": "Beyond the Podium"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_w8hcZ_1689940794108_01-job-post-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_crREa_1689940796715_01-job-post-Legal.mp4",
+            "promoHeading": "Legal Advisor"
+          }
+        }
+      ],
+      "id": "32Ir01t5SSkoEm6uY-jfq",
+      "templateId": "32Ir01t5SSkoEm6uY-jfq"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-21T10:28:19.038Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Miv53_1689935211237_01-job-nosummary-1080x1350.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-job-nosummary-1080x1350",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_jobtitle"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G8h75_1689935211241_01-job-nosummary-1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GOk6j_1689935211239_01-job-nosummary-1080x1350.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fpzVI_1689935293885_01-job-nosummary-1080x1350-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Pyw7x_1689935296167_01-job-nosummary-1080x1350-Healthcare.mp4",
+            "promoHeading": "Health & Wellness"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_s7ZZA_1689935293887_01-job-nosummary-1080x1350-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HBGPL_1689935296170_01-job-nosummary-1080x1350-Legal.mp4",
+            "promoHeading": "Legal Solutions"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8EnSP_1689935293889_01-job-nosummary-1080x1350-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c-c1O_1689935296173_01-job-nosummary-1080x1350-Politics.mp4",
+            "promoHeading": "Political Journey"
+          }
+        }
+      ],
+      "id": "DXyfgZ7qrfWZkUk1rYIAV",
+      "templateId": "DXyfgZ7qrfWZkUk1rYIAV"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-21T07:54:06.793Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_m9jLq_1689925944560_02-job-nosummary-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-job-nosummary-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_jobtitle"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GS4TG_1689925944567_02-job-nosummary-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qO6ks_1689925944563_02-job-nosummary-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0eZmb_1689926041998_02-job-nosummary-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_58Y_M_1689926044412_02-job-nosummary-story-Healthcare.mp4",
+            "promoHeading": "Health is Wealth"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kNnkF_1689926042000_02-job-nosummary-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8EyjO_1689926044414_02-job-nosummary-story-Legal.mp4",
+            "promoHeading": "Legal Consultation"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IYd36_1689926042001_02-job-nosummary-story-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1xYE9_1689926044416_02-job-nosummary-story-Politics.mp4",
+            "promoHeading": "Political Dynamics"
+          }
+        }
+      ],
+      "id": "YibfRDOFPadxnBzyCSb0Q",
+      "templateId": "YibfRDOFPadxnBzyCSb0Q"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-19T07:13:56.541Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_vXdh6_1689750833267_01-job-title-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-job-title-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_jobtitle"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_X8-Un_1689750833272_01-job-title-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_twWGq_1689750833269_01-job-title-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [],
+      "id": "7icH3O05AcdXydw_EyF_L",
+      "templateId": "7icH3O05AcdXydw_EyF_L"
+    }
   ]
 }

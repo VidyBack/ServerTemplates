@@ -10287,6 +10287,142 @@
       "bgImageUrl": [
           ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-25T12:59:40.414Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1667216241221_14-BrandOutro-post-4-5-New"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pTpSq_1698238251216_07-discount-in-price-portrait.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Post 4:5",
+      "name": "07-discount-in-price-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_dPr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_V2q29_1698238251219_07-discount-in-price-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_M2_vk_1698238251217_07-discount-in-price-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YpwEQ_1698238765976_07-discount-in-price-portrait-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2q27I_1698238770441_07-discount-in-price-portrait-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OmNRQ_1698238765978_07-discount-in-price-portrait-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FHlp3_1698238770443_07-discount-in-price-portrait-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_f0Onu_1698238765979_07-discount-in-price-portrait-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_O8xZt_1698238770444_07-discount-in-price-portrait-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0z6MO_1698238765980_07-discount-in-price-portrait-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cXIud_1698238770447_07-discount-in-price-portrait-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Jhu0M_1698238765982_07-discount-in-price-portrait-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Hhd7M_1698238770449_07-discount-in-price-portrait-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-kH5r_1698238765982_07-discount-in-price-portrait-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_potEI_1698238770450_07-discount-in-price-portrait-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CHDB1_1698238765984_07-discount-in-price-portrait-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DoFR6_1698238770452_07-discount-in-price-portrait-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9HAvy_1698238765985_07-discount-in-price-portrait-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qku0a_1698238770455_07-discount-in-price-portrait-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zltk8_1698238765986_07-discount-in-price-portrait-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lLQXz_1698238770499_07-discount-in-price-portrait-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LhQSa_1698238765987_07-discount-in-price-portrait-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mC3dW_1698238770501_07-discount-in-price-portrait-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "DpPY0Pf64_1_1MnbDB",
+      "templateId": "DpPY0Pf64_1_1MnbDB"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],

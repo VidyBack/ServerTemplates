@@ -53590,6 +53590,93 @@
   ],
   "p_features": [
     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-30T07:22:55.681Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1688558464695_14-youtube-1920x1080"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_MRhM9_1698650476691_02-features-youtube-template.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Youtube Videos",
+      "name": "02-features-youtube-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_features"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bDbga_1698650476708_02-features-youtube-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WPniX_1698650476697_02-features-youtube-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Automobile": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KA8fb_1698650566980_02-features-youtube-template-Automobile.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_td2No_1698650570231_02-features-youtube-template-Automobile.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jobs": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ewRDn_1698650566982_02-features-youtube-template-Jobs.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TZml2_1698650570234_02-features-youtube-template-Jobs.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Travel": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JBXjE_1698650566983_02-features-youtube-template-Travel.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_grSNr_1698650570237_02-features-youtube-template-Travel.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "3Yhh3WiyXl_0_a",
+    "templateId": "3Yhh3WiyXl_0_a"
+  },
+    {
     "id": "B-3Yhh3WiyXluXAoLUL031_Cx",
     "templateId": "B-3Yhh3WiyXluXAoLUL031_Cx",
     "version": 2,

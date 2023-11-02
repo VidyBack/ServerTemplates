@@ -15433,6 +15433,142 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-02T11:12:52.859Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZXDDn_1698923324627_01-discount-in-percentage-updatedd.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Post 4:5",
+      "name": "01-discount-in-percentage-updatedd",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GRRIf_1698923324639_01-discount-in-percentage-updatedd.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a__VB_1698923324637_01-discount-in-percentage-updatedd.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e5Pkz_1698923555687_01-discount-in-percentage-updatedd-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YkuyM_1698923559688_01-discount-in-percentage-updatedd-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ne81v_1698923555689_01-discount-in-percentage-updatedd-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_W9LPZ_1698923559689_01-discount-in-percentage-updatedd-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zepAP_1698923555781_01-discount-in-percentage-updatedd-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5OXBD_1698923559692_01-discount-in-percentage-updatedd-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prbmk_1698923555794_01-discount-in-percentage-updatedd-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_n-5Av_1698923559693_01-discount-in-percentage-updatedd-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eOPb-_1698923555795_01-discount-in-percentage-updatedd-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cepHR_1698923559694_01-discount-in-percentage-updatedd-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vn3qo_1698923555796_01-discount-in-percentage-updatedd-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gAElk_1698923559697_01-discount-in-percentage-updatedd-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ocFiS_1698923555797_01-discount-in-percentage-updatedd-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fla3j_1698923559698_01-discount-in-percentage-updatedd-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UZHR-_1698923555798_01-discount-in-percentage-updatedd-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Mfs9x_1698923559699_01-discount-in-percentage-updatedd-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7_jza_1698923555799_01-discount-in-percentage-updatedd-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hT1WP_1698923559702_01-discount-in-percentage-updatedd-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sf4nX_1698923555823_01-discount-in-percentage-updatedd-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_U4jgs_1698923559703_01-discount-in-percentage-updatedd-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "EXVOES2",
+      "templateId": "EXVOES2"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [

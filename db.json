@@ -33750,6 +33750,149 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-06T12:12:01.291Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "14-display-ads-story-thanksgiving",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IIWLl_1699272337933_14-display-ads-story-thanksgiving.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SXGhg_1699272337910_14-display-ads-story-thanksgiving.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Pm2cX_1699272709875_14-display-ads-story-thanksgiving-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YKSyp_1699272714463_14-display-ads-story-thanksgiving-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aA0A2_1699272709877_14-display-ads-story-thanksgiving-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SY70l_1699272714465_14-display-ads-story-thanksgiving-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d9dXX_1699272709879_14-display-ads-story-thanksgiving-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xY8qW_1699272714467_14-display-ads-story-thanksgiving-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uzi_d_1699272709880_14-display-ads-story-thanksgiving-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yWFSj_1699272714468_14-display-ads-story-thanksgiving-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uTcO4_1699272709973_14-display-ads-story-thanksgiving-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lvjDV_1699272714470_14-display-ads-story-thanksgiving-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qyJGS_1699272709974_14-display-ads-story-thanksgiving-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wbgJa_1699272714473_14-display-ads-story-thanksgiving-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FP3n4_1699272709975_14-display-ads-story-thanksgiving-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wR8G8_1699272714475_14-display-ads-story-thanksgiving-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jgsZi_1699272709976_14-display-ads-story-thanksgiving-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZQkii_1699272714477_14-display-ads-story-thanksgiving-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aT-ev_1699272709977_14-display-ads-story-thanksgiving-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PdnGF_1699272714478_14-display-ads-story-thanksgiving-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zahKt_1699272710148_14-display-ads-story-thanksgiving-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_g9H8z_1699272714480_14-display-ads-story-thanksgiving-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UG8Ow_1699272710150_14-display-ads-story-thanksgiving-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hDF_x_1699272714482_14-display-ads-story-thanksgiving-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "gihkPw9_3_k6yI2",
+      "templateId": "gihkPw9_3_k6yI2"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iRZ7T_1699246453171_mixkit-playful-10.mp3",
       "fillEnabled": true,
       "forWebsites": [],

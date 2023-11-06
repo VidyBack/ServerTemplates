@@ -33750,6 +33750,135 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iRZ7T_1699246453171_mixkit-playful-10.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-06T05:26:07.703Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aCxcr_1699247831915_13-display-ads-story-diwali.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "13-display-ads-story-diwali",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lf_9A_1699247831918_13-display-ads-story-diwali.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BiGlP_1699247831917_13-display-ads-story-diwali.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CZxZy_1699248357263_13-display-ads-story-diwali-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fZroG_1699248361601_13-display-ads-story-diwali-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_toUIe_1699248357264_13-display-ads-story-diwali-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Yd7uV_1699248361603_13-display-ads-story-diwali-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eyLfu_1699248357265_13-display-ads-story-diwali-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uHZa7_1699248361605_13-display-ads-story-diwali-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Mqmo1_1699248357267_13-display-ads-story-diwali-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2bmRM_1699248361606_13-display-ads-story-diwali-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LRQWi_1699248357268_13-display-ads-story-diwali-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_b-s5z_1699248361608_13-display-ads-story-diwali-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rW675_1699248357269_13-display-ads-story-diwali-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dh-2u_1699248361610_13-display-ads-story-diwali-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D1Okd_1699248357270_13-display-ads-story-diwali-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eCElR_1699248361611_13-display-ads-story-diwali-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YY9TP_1699248357271_13-display-ads-story-diwali-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cBLGc_1699248361613_13-display-ads-story-diwali-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Uj9W2_1699248357272_13-display-ads-story-diwali-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Tv0tU_1699248361615_13-display-ads-story-diwali-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "gihkPw9_2_k6yI2",
+      "templateId": "gihkPw9_2_k6yI2"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
       "fillEnabled": true,
       "forWebsites": [],

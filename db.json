@@ -25445,6 +25445,142 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QI10c_1685443290537_mixkit-vastness-184.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-09T05:14:32.374Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mQ7ZO_1699506620653_15-display-ads-story-blackfriday.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "15-display-ads-story-blackfriday",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AWbJZ_1699506620662_15-display-ads-story-blackfriday.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1P0zv_1699506620658_15-display-ads-story-blackfriday.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Z3SQ_1699506861234_15-display-ads-story-blackfriday-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lFLx5_1699506865111_15-display-ads-story-blackfriday-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JzIVp_1699506861236_15-display-ads-story-blackfriday-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UPYwn_1699506865115_15-display-ads-story-blackfriday-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VkzUb_1699506861237_15-display-ads-story-blackfriday-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LfvZ3_1699506865117_15-display-ads-story-blackfriday-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ikxXO_1699506861238_15-display-ads-story-blackfriday-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1W_C6_1699506865118_15-display-ads-story-blackfriday-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FL_Qd_1699506861239_15-display-ads-story-blackfriday-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bdcsf_1699506865120_15-display-ads-story-blackfriday-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zRcDs_1699506861240_15-display-ads-story-blackfriday-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xodrD_1699506865122_15-display-ads-story-blackfriday-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vUBKv_1699506861242_15-display-ads-story-blackfriday-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eRuvz_1699506865123_15-display-ads-story-blackfriday-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Rf4oz_1699506861243_15-display-ads-story-blackfriday-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_o0iNB_1699506865125_15-display-ads-story-blackfriday-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UswhV_1699506861244_15-display-ads-story-blackfriday-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8x0RY_1699506865126_15-display-ads-story-blackfriday-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_R2viL_1699506861245_15-display-ads-story-blackfriday-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CxUCa_1699506865127_15-display-ads-story-blackfriday-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "lW_XfXrF_S18_XyZ2",
+      "templateId": "lW_XfXrF_S18_XyZ2"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2q21Q_1696999904998_mixkit-africa-218.mp3",
       "fillEnabled": true,
       "forWebsites": [],

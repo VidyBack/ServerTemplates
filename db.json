@@ -15701,6 +15701,142 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-10T10:35:12.080Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zEquc_1699612247515_13-discount-in-percentage-cyber-monday-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "13-discount-in-percentage-cyber-monday-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YCkl-_1699612247518_13-discount-in-percentage-cyber-monday-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mzuRl_1699612247517_13-discount-in-percentage-cyber-monday-story.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Fln0u_1699612502128_13-discount-in-percentage-cyber-monday-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gaYsN_1699612506838_13-discount-in-percentage-cyber-monday-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4g3nk_1699612502132_13-discount-in-percentage-cyber-monday-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vDQAG_1699612506839_13-discount-in-percentage-cyber-monday-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3v920_1699612502134_13-discount-in-percentage-cyber-monday-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sBu3C_1699612506841_13-discount-in-percentage-cyber-monday-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SbWOG_1699612502136_13-discount-in-percentage-cyber-monday-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IK46d_1699612506843_13-discount-in-percentage-cyber-monday-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OTfml_1699612502137_13-discount-in-percentage-cyber-monday-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_F5Xz9_1699612506845_13-discount-in-percentage-cyber-monday-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3uWRf_1699612502139_13-discount-in-percentage-cyber-monday-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tHmLl_1699612506848_13-discount-in-percentage-cyber-monday-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e5_3H_1699612502141_13-discount-in-percentage-cyber-monday-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4pzah_1699612506851_13-discount-in-percentage-cyber-monday-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_k4aST_1699612502143_13-discount-in-percentage-cyber-monday-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UB63M_1699612506853_13-discount-in-percentage-cyber-monday-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUhFw_1699612502144_13-discount-in-percentage-cyber-monday-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HD6eK_1699612506855_13-discount-in-percentage-cyber-monday-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fSe7C_1699612502145_13-discount-in-percentage-cyber-monday-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UPIUP_1699612506857_13-discount-in-percentage-cyber-monday-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "EXVOES7",
+      "templateId": "EXVOES7"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -34127,6 +34263,142 @@
     }
   ],
   "p_ps": [
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-10T10:08:49.051Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1688557660289_15-youtube-1920x1080"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_UXaS5_1699610580517_03-display-ads-youtube.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Youtube Videos",
+      "name": "03-display-ads-youtube",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h7UjN_1699610580529_03-display-ads-youtube.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C0TjW_1699610580527_03-display-ads-youtube.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7FZmG_1699610915038_03-display-ads-youtube-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3rrZt_1699610919514_03-display-ads-youtube-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LGlCf_1699610915055_03-display-ads-youtube-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QU4IR_1699610919516_03-display-ads-youtube-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UmDnQ_1699610915056_03-display-ads-youtube-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wnB1R_1699610919518_03-display-ads-youtube-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n3RmH_1699610915057_03-display-ads-youtube-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__hZz0_1699610919520_03-display-ads-youtube-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2h6lR_1699610915058_03-display-ads-youtube-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Di7Fz_1699610919522_03-display-ads-youtube-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_H9ZQv_1699610915059_03-display-ads-youtube-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c0hA2_1699610919524_03-display-ads-youtube-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RT6Ju_1699610915061_03-display-ads-youtube-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KKeV9_1699610919526_03-display-ads-youtube-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ltDhE_1699610915062_03-display-ads-youtube-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ek35Y_1699610919528_03-display-ads-youtube-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3CH3A_1699610915063_03-display-ads-youtube-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pt0do_1699610919530_03-display-ads-youtube-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OTujX_1699610915064_03-display-ads-youtube-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_X7SNH_1699610919531_03-display-ads-youtube-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "gihkPw9_4_k6yI2",
+      "templateId": "gihkPw9_4_k6yI2"
+    },
     {
       "version": 1,
       "gifUrl": "",

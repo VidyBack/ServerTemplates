@@ -47933,6 +47933,149 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-17T11:56:12.495Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1666868629167_18-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CnLaf_1700221870213_21-new-arrival-soty-updated.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "21-new-arrival-soty-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_na"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nB7Rr_1700221870258_21-new-arrival-soty-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1WAVy_1700221870214_21-new-arrival-soty-updated.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nGzfN_1700222163177_21-new-arrival-soty-updated-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vOt4d_1700222167283_21-new-arrival-soty-updated-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PJdTy_1700222163179_21-new-arrival-soty-updated-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7YEMz_1700222167410_21-new-arrival-soty-updated-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_myL04_1700222163181_21-new-arrival-soty-updated-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4zbR6_1700222167605_21-new-arrival-soty-updated-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Perfumes": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_I98T0_1700222163234_21-new-arrival-soty-updated-Perfumes.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hfpCL_1700222167608_21-new-arrival-soty-updated-Perfumes.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ulm-w_1700222163236_21-new-arrival-soty-updated-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bcKEU_1700222167610_21-new-arrival-soty-updated-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_p4vBC_1700222163237_21-new-arrival-soty-updated-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Tyyaw_1700222167622_21-new-arrival-soty-updated-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__JmwQ_1700222163239_21-new-arrival-soty-updated-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ArO1j_1700222167624_21-new-arrival-soty-updated-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3gR5S_1700222163240_21-new-arrival-soty-updated-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UrRVT_1700222167627_21-new-arrival-soty-updated-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QdlTi_1700222163241_21-new-arrival-soty-updated-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yi61v_1700222167629_21-new-arrival-soty-updated-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EiKJX_1700222163243_21-new-arrival-soty-updated-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dK3Va_1700222167632_21-new-arrival-soty-updated-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hts4c_1700222163244_21-new-arrival-soty-updated-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pnviN_1700222167634_21-new-arrival-soty-updated-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "ghghgh12_7",
+      "templateId": "ghghgh12_7"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [

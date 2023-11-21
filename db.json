@@ -16049,6 +16049,135 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vpq8j_1666165302989_mixkit-rising-forest-471.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T07:06:14.664Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JW5k0_1700549737739_01-discount-in-percentage-black-friday-upto.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-discount-in-percentage-black-friday-upto",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p4M92_1700549737756_01-discount-in-percentage-black-friday-upto.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0Uw2q_1700549737751_01-discount-in-percentage-black-friday-upto.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WSByd_1700550365296_01-discount-in-percentage-black-friday-upto-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fN5Xl_1700550369171_01-discount-in-percentage-black-friday-upto-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PskTU_1700550365298_01-discount-in-percentage-black-friday-upto-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Fg-ae_1700550369174_01-discount-in-percentage-black-friday-upto-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3rlyQ_1700550365301_01-discount-in-percentage-black-friday-upto-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PnbrM_1700550369178_01-discount-in-percentage-black-friday-upto-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lJSXs_1700550365303_01-discount-in-percentage-black-friday-upto-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TIErc_1700550369181_01-discount-in-percentage-black-friday-upto-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ft3Rq_1700550365309_01-discount-in-percentage-black-friday-upto-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CoVid_1700550369185_01-discount-in-percentage-black-friday-upto-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tO4u__1700550365312_01-discount-in-percentage-black-friday-upto-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CJLoJ_1700550369189_01-discount-in-percentage-black-friday-upto-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MdQqv_1700550365315_01-discount-in-percentage-black-friday-upto-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2EXG1_1700550369193_01-discount-in-percentage-black-friday-upto-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fd9yW_1700550365317_01-discount-in-percentage-black-friday-upto-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-3Z4L_1700550369196_01-discount-in-percentage-black-friday-upto-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ag3JI_1700550365320_01-discount-in-percentage-black-friday-upto-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_l49tf_1700550369199_01-discount-in-percentage-black-friday-upto-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "EXVOES30",
+      "templateId": "EXVOES30"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],

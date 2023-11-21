@@ -16038,6 +16038,78 @@
   ],
   "p_dpercentage": [
     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-11-29T09:15:11.905Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666187039078_17- Brand Outro Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_OD-DD_1669713307202_10-discount-in-price.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "10 Discount in Price",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dPr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KAlET_1669713307207_10-discount-in-price_small.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I535V_1669713307205_10-discount-in-price.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "id": "fygpmMqd0mi7tfqCdyZVT",
+      "templateId": "fygpmMqd0mi7tfqCdyZVT",
+      "classes": [
+        "Clothings"
+      ],
+      "previews": [
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/mobile-electronics/mobile-electronics2.jpg",
+            "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/mobile-electronics/mobile-electronics2.mp4"
+          }
+        }
+      ],
+      "isMultipleTemplate": false
+    },
+    {
       "id": "EXVOES33",
       "templateId": "EXVOES33",
       "version": 1,

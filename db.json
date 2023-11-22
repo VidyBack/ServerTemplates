@@ -1,6 +1,142 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_4_cftyr",
+      "templateId": "mlpn_4_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XCsOe_1666164921547_mixkit-easy-times-20.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-11-22T09:07:12.419Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_d0VCA_1700643273597_05-festive-offers-square-valentines-day-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "05-festive-offers-square-valentines-day-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aF_rB_1700643273617_05-festive-offers-square-valentines-day-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_s5GI9_1700643273608_05-festive-offers-square-valentines-day-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gFfJU_1700644021627_05-festive-offers-square-valentines-day-template-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ko5dj_1700644025735_05-festive-offers-square-valentines-day-template-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vCi7L_1700644021629_05-festive-offers-square-valentines-day-template-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bpicA_1700644025737_05-festive-offers-square-valentines-day-template-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GOTLd_1700644021632_05-festive-offers-square-valentines-day-template-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_O7KQ7_1700644025739_05-festive-offers-square-valentines-day-template-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qMwUt_1700644021634_05-festive-offers-square-valentines-day-template-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DAPXI_1700644025740_05-festive-offers-square-valentines-day-template-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rzZP0_1700644021635_05-festive-offers-square-valentines-day-template-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4-rxg_1700644025742_05-festive-offers-square-valentines-day-template-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C0CdV_1700644021637_05-festive-offers-square-valentines-day-template-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mcaJg_1700644025743_05-festive-offers-square-valentines-day-template-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UU6t-_1700644021638_05-festive-offers-square-valentines-day-template-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__R_oU_1700644025745_05-festive-offers-square-valentines-day-template-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0LeHR_1700644021640_05-festive-offers-square-valentines-day-template-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kBlOB_1700644025747_05-festive-offers-square-valentines-day-template-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AYulL_1700644021643_05-festive-offers-square-valentines-day-template-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PcZy4_1700644025749_05-festive-offers-square-valentines-day-template-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JGgLn_1700644021646_05-festive-offers-square-valentines-day-template-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dk-Yr_1700644025751_05-festive-offers-square-valentines-day-template-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_3_cftyr",
       "templateId": "mlpn_3_cftyr",
       "version": 1,

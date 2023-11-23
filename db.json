@@ -1,6 +1,135 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_11_cftyr",
+      "templateId": "mlpn_11_cftyr",
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+        ""
+    ],
+    "fontUrl": [
+        ""
+    ],
+    "bgImageUrl": [
+        ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2023-11-23T08:28:18.213Z",
+    "extraComps": [
+        {
+            "index": 4,
+            "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+    ],
+    "widgetsDefinition": [
+        {
+            "mappingKeyMandatory": false,
+            "Height": "100%",
+            "Width": "100%",
+            "StartTime": 0,
+            "EndTime": -1,
+            "URLS": [],
+            "mappingKeyValue": "",
+            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_q3kgP_1700727493881_01-cybermonday-post.json",
+            "X": "0.0%",
+            "Y": "0.0%",
+            "type": "SVG_SINGLE",
+            "duration": 10
+        }
+    ],
+    "type": "Instagram Posts",
+    "name": "01-cybermonday-post",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+        "p_occasional"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_n8awl_1700727493896_01-cybermonday-post.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xhoGC_1700727493893_01-cybermonday-post.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1080,
+    "Width": 1080,
+    "height": 1080,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "volume": 1,
+    "isMultipleTemplate": false,
+    "previews": [
+        {
+            "HealthFitness": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bgOTF_1700728088785_01-cybermonday-post-HealthFitness.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eNMwV_1700728092423_01-cybermonday-post-HealthFitness.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Perfumes": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Igs1n_1700728088787_01-cybermonday-post-Perfumes.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XMTu4_1700728092426_01-cybermonday-post-Perfumes.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "BagPurse": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IMh6d_1700728088790_01-cybermonday-post-BagPurse.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PfyYV_1700728092429_01-cybermonday-post-BagPurse.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "HealthBeauty": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aR1Cf_1700728088791_01-cybermonday-post-HealthBeauty.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1xvla_1700728092432_01-cybermonday-post-HealthBeauty.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Footwear": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MaqO-_1700728088795_01-cybermonday-post-Footwear.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rJ5uh_1700728092434_01-cybermonday-post-Footwear.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Jewellery": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AURCj_1700728088797_01-cybermonday-post-Jewellery.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-VGCN_1700728092437_01-cybermonday-post-Jewellery.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Electronics": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_l94xk_1700728088799_01-cybermonday-post-Electronics.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QOBhf_1700728092439_01-cybermonday-post-Electronics.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "Wearables": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NpA4U_1700728088801_01-cybermonday-post-Wearables.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dP7Fj_1700728092440_01-cybermonday-post-Wearables.mp4",
+                "promoHeading": ""
+            }
+        },
+        {
+            "HomeDecor": {
+                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yD2oa_1700728088802_01-cybermonday-post-HomeDecor.jpg",
+                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JwJ7Q_1700728092442_01-cybermonday-post-HomeDecor.mp4",
+                "promoHeading": ""
+            }
+        }
+    ]
+},
+    {
       "id": "mlpn_10_cftyr",
       "templateId": "mlpn_10_cftyr",
       "version": 1,

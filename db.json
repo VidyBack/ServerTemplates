@@ -1,6 +1,135 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_13_cftyr",
+      "templateId": "mlpn_13_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XZA4S_1671198521738_hollidays-690-christmas.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-23T09:06:03.877Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eFuUa_1700729919538_07-multiple-products-Christmas-special-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "07-multiple-products-Christmas-special-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cSQpx_1700729919555_07-multiple-products-Christmas-special-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_biGAT_1700729919551_07-multiple-products-Christmas-special-multi.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.9,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ouuux_1700730353982_07-multiple-products-Christmas-special-multi-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1IsTK_1700730357429_07-multiple-products-Christmas-special-multi-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IMm66_1700730353983_07-multiple-products-Christmas-special-multi-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VEaT4_1700730357431_07-multiple-products-Christmas-special-multi-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_s7Yxj_1700730353985_07-multiple-products-Christmas-special-multi-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ss3tP_1700730357434_07-multiple-products-Christmas-special-multi-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vZDrp_1700730353987_07-multiple-products-Christmas-special-multi-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NQ9mw_1700730357437_07-multiple-products-Christmas-special-multi-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SwPj5_1700730353989_07-multiple-products-Christmas-special-multi-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bVSFx_1700730357440_07-multiple-products-Christmas-special-multi-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IhbHE_1700730353990_07-multiple-products-Christmas-special-multi-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_s_IcD_1700730357444_07-multiple-products-Christmas-special-multi-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__Mgye_1700730353991_07-multiple-products-Christmas-special-multi-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hUN0L_1700730357447_07-multiple-products-Christmas-special-multi-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_riY-3_1700730353993_07-multiple-products-Christmas-special-multi-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Vm-la_1700730357450_07-multiple-products-Christmas-special-multi-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h6V3Q_1700730353995_07-multiple-products-Christmas-special-multi-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IMsqB_1700730357451_07-multiple-products-Christmas-special-multi-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_12_cftyr",
       "templateId": "mlpn_12_cftyr",
       "version": 1,

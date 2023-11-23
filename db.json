@@ -1,6 +1,135 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_17_cftyr",
+      "templateId": "mlpn_17_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-23T11:53:47.673Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Chjaq_1700740082850_02-thanks-giving.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-thanks-giving",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8-iwW_1700740082856_02-thanks-giving.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LJLmZ_1700740082853_02-thanks-giving.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wf68u_1700740412990_02-thanks-giving-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BX1dt_1700740420896_02-thanks-giving-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Bdnt7_1700740412992_02-thanks-giving-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pe5md_1700740420898_02-thanks-giving-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1JfuK_1700740412995_02-thanks-giving-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tmZiR_1700740420901_02-thanks-giving-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VwVvF_1700740412997_02-thanks-giving-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BezHO_1700740420903_02-thanks-giving-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S16BW_1700740413000_02-thanks-giving-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_69WfE_1700740420906_02-thanks-giving-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1A5sT_1700740413003_02-thanks-giving-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yyCsO_1700740420909_02-thanks-giving-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BHI-j_1700740413005_02-thanks-giving-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Mu2yy_1700740420911_02-thanks-giving-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7LyoR_1700740413007_02-thanks-giving-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1buGE_1700740420915_02-thanks-giving-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bogWd_1700740413009_02-thanks-giving-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5djxz_1700740420919_02-thanks-giving-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_13_cftyr",
       "templateId": "mlpn_13_cftyr",
       "version": 1,
@@ -1701,135 +1830,6 @@
     }
   ],
   "p_fest": [
-    {
-      "id": "mlpn_17_cftyr",
-      "templateId": "mlpn_17_cftyr",
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-          ""
-      ],
-      "fontUrl": [
-          ""
-      ],
-      "bgImageUrl": [
-          ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-11-23T11:53:47.673Z",
-      "extraComps": [
-          {
-              "index": 4,
-              "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-          }
-      ],
-      "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Chjaq_1700740082850_02-thanks-giving.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
-      ],
-      "type": "Instagram Posts",
-      "name": "02-thanks-giving",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-          "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8-iwW_1700740082856_02-thanks-giving.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LJLmZ_1700740082853_02-thanks-giving.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "isMultipleTemplate": false,
-      "previews": [
-          {
-              "HealthFitness": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wf68u_1700740412990_02-thanks-giving-HealthFitness.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BX1dt_1700740420896_02-thanks-giving-HealthFitness.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Perfumes": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Bdnt7_1700740412992_02-thanks-giving-Perfumes.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pe5md_1700740420898_02-thanks-giving-Perfumes.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "BagPurse": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1JfuK_1700740412995_02-thanks-giving-BagPurse.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tmZiR_1700740420901_02-thanks-giving-BagPurse.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HealthBeauty": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VwVvF_1700740412997_02-thanks-giving-HealthBeauty.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BezHO_1700740420903_02-thanks-giving-HealthBeauty.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Footwear": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S16BW_1700740413000_02-thanks-giving-Footwear.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_69WfE_1700740420906_02-thanks-giving-Footwear.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Jewellery": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1A5sT_1700740413003_02-thanks-giving-Jewellery.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yyCsO_1700740420909_02-thanks-giving-Jewellery.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Electronics": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BHI-j_1700740413005_02-thanks-giving-Electronics.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Mu2yy_1700740420911_02-thanks-giving-Electronics.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Wearables": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7LyoR_1700740413007_02-thanks-giving-Wearables.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1buGE_1700740420915_02-thanks-giving-Wearables.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HomeDecor": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bogWd_1700740413009_02-thanks-giving-HomeDecor.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5djxz_1700740420919_02-thanks-giving-HomeDecor.mp4",
-                  "promoHeading": ""
-              }
-          }
-      ]
-  },
     {
       "id": "mlpn_16_cftyr",
       "templateId": "mlpn_16_cftyr",

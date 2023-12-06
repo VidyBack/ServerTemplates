@@ -63947,6 +63947,135 @@
   ],
   "p_nts": [
     {
+      "id": "1qFPtl39_0_T2EU6N",
+      "templateId": "1qFPtl39_0_T2EU6N",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-18T08:02:57.811Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ComFi_1695023881230_01-news-finance-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-news-finance-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nts"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YiDwI_1695023881236_01-news-finance-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lu7je_1695023881233_01-news-finance-post.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uf9Vn_1695024167855_01-news-finance-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4KHqe_1695024171337_01-news-finance-post-Automobile.mp4",
+            "promoHeading": "Future Mobility"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sZ8R1_1695024167860_01-news-finance-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XtDmB_1695024171339_01-news-finance-post-Bunglow.mp4",
+            "promoHeading": "Housing Finance"
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ag2LO_1695024167863_01-news-finance-post-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DPmf4_1695024171341_01-news-finance-post-Healthcare.mp4",
+            "promoHeading": "Vaccine News"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jiEpZ_1695024167865_01-news-finance-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r-EbR_1695024171343_01-news-finance-post-Travel.mp4",
+            "promoHeading": "Luxury Bliss"
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DqF6x_1695024167868_01-news-finance-post-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Do7iZ_1695024171346_01-news-finance-post-Technology.mp4",
+            "promoHeading": "Data Insights"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_f-zNZ_1695024167869_01-news-finance-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_emNlM_1695024171348_01-news-finance-post-Food.mp4",
+            "promoHeading": "Quick Bites"
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xT00O_1695024167871_01-news-finance-post-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SD7vI_1695024171350_01-news-finance-post-Sports.mp4",
+            "promoHeading": "Sports Entry"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FeSu7_1695024167872_01-news-finance-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AqBxT_1695024171352_01-news-finance-post-Finance.mp4",
+            "promoHeading": "Market Updates"
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_b_vEz_1695024167874_01-news-finance-post-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3KORL_1695024171354_01-news-finance-post-Jobs.mp4",
+            "promoHeading": "Job Fairs"
+          }
+        }
+      ]
+    },
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [

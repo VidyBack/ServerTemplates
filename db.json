@@ -70548,6 +70548,71 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-07T11:57:47.311Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzp_M_1701950261216_01-tips-portrait-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-tips-portrait-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P46dX_1701950261232_01-tips-portrait-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zJzT9_1701950261230_01-tips-portrait-updated.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "laWh_0_EZPT44O",
+      "templateId": "laWh_0_EZPT44O"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
       "fillEnabled": true,
       "forWebsites": [],

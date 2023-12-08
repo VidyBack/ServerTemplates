@@ -73179,11 +73179,82 @@
   ],
   "p_tgtldata": [
     {
+      "id": "787_6yuyu",
+      "templateId": "787_6yuyu",
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T10:59:20.408Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZtWQE_1702033158166_02-multi-topgainers.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-multi-topgainers",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1rdB_1702033158171_02-multi-topgainers.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6MaWu_1702033158169_02-multi-topgainers.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73215,7 +73286,9 @@
       "name": "01-multiple-graph-post",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3OphE_1702023017894_01-multiple-graph-post.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Qp9b5_1702023017893_01-multiple-graph-post.jpg",
       "imageType": "Instagram Posts",
@@ -73234,16 +73307,21 @@
       "id": "78789+97456yuyu",
       "templateId": "78789+97456yuyu",
       "previews": []
-    }
-    ,
+    },
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
       "id": "6544654hfdjdjk",
       "templateId": "6544654hfdjdjk",
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73275,7 +73353,9 @@
       "name": "01-topgainer-multiple-finance-post-updated-heading",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9wTLw_1702023339120_01-topgainer-multiple-finance-post-updated-heading.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w5P3J_1702023339118_01-topgainer-multiple-finance-post-updated-heading.jpg",
       "imageType": "Instagram Posts",
@@ -73292,16 +73372,21 @@
       "volume": 1,
       "isMultipleTemplate": true,
       "previews": []
-    }
-,    
+    },
     {
       "version": 2,
       "id": "DpPY440Pf64_QM44nbD123",
       "templateId": "DpPY440Pf64_QM44nbD123",
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73333,7 +73418,9 @@
       "name": "01-topgainer-finance-post-updated",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A823v_1702021849716_01-topgainer-finance-post-updated.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_H9cNg_1702021849714_01-topgainer-finance-post-updated.jpg",
       "imageType": "Instagram Posts",
@@ -73351,6 +73438,5 @@
       "isMultipleTemplate": false,
       "previews": []
     }
-    
   ]
 }

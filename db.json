@@ -73176,6 +73176,64 @@
     ,
     {
       "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "id": "6544654hfdjdjk",
+      "templateId": "6544654hfdjdjk",
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T08:15:41.765Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_1vpaD_1702023339114_01-topgainer-multiple-finance-post-updated-heading.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-topgainer-multiple-finance-post-updated-heading",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_tgtldata"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9wTLw_1702023339120_01-topgainer-multiple-finance-post-updated-heading.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w5P3J_1702023339118_01-topgainer-multiple-finance-post-updated-heading.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    }
+,    
+    {
+      "version": 2,
       "id": "DpPY440Pf64_QM44nbD123",
       "templateId": "DpPY440Pf64_QM44nbD123",
       "gifUrl": "",

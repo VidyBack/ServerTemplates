@@ -73118,6 +73118,64 @@
   "p_tgtldata": [
     {
       "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T08:10:20.325Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_OuKJr_1702023017891_01-multiple-graph-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-multiple-graph-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_tgtldata"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3OphE_1702023017894_01-multiple-graph-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Qp9b5_1702023017893_01-multiple-graph-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "id": "78789+97456yuyu",
+      "templateId": "78789+97456yuyu",
+      "previews": []
+    }
+    ,
+    {
+      "version": 2,
       "id": "DpPY440Pf64_QM44nbD123",
       "templateId": "DpPY440Pf64_QM44nbD123",
       "gifUrl": "",

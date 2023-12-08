@@ -73051,7 +73051,69 @@
       "templateId": "kve4-7BHDJ8j1EvLPVJEL"
     }
   ],
-  "p_mfdata": [],
+  "p_mfdata": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-13T12:45:59.264Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HnHfm_1694609156795_01-finance-stock-post-final-dynamic-final.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-stock-post-final-dynamic-final",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_mfdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0SDC__1694609156798_01-finance-stock-post-final-dynamic-final.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2LEDH_1694609156797_01-finance-stock-post-final-dynamic-final.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "isToggleTemplate": true,
+      "id": "DpPY0Pf64_QMnbD123",
+      "templateId": "DpPY0Pf64_QMnbD123"
+    }
+  ],
   "p_cryptCurr": [],
   "p_tgtldata": []
 }

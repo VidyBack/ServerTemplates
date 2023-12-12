@@ -64077,6 +64077,79 @@
   ],
   "p_nts": [
     {
+      "id": "1qFPtl39_5_T2EU6N",
+      "templateId": "1qFPtl39_5_T2EU6N",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DI53s_1685442818151_mixkit-irenko-177.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T11:56:49.661Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_J1oGn_1702382202109_01-news-summary-template-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-news-summary-template-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nts"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_j16zk_1702382202120_01-news-summary-template-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_u8Y11_1702382202116_01-news-summary-template-square.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "u-vyUDw24ALAg_r7J21Xqw12",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d4H8d_1702382206523_01-news-summary-template-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oM6hJ_1702382207780_01-news-summary-template-square-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "1qFPtl39_4_T2EU6N",
       "templateId": "1qFPtl39_4_T2EU6N",
       "version": 2,

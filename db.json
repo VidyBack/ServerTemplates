@@ -65999,6 +65999,298 @@
   ],
   "p_nbn": [
     {
+      "id": "9sKUW_3_s2HCKj",
+      "templateId": "9sKUW_3_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T11:35:19.014Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1688558464695_14-youtube-1920x1080"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fKJWa_1702380911192_03-breaking-news-story-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-breaking-news-story-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CeFmN_1702380911208_03-breaking-news-story-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8GRXl_1702380911205_03-breaking-news-story-updated.jpg",
+      "imageType": "Youtube Videos",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "Z1UN2egWeGx9UrV3x1ikzA",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jkiQm_1702380915484_03-breaking-news-story-updated-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_At2nu_1702380917180_03-breaking-news-story-updated-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "9sKUW_2_s2HCKj",
+      "templateId": "9sKUW_2_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DI53s_1685442818151_mixkit-irenko-177.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T11:26:35.165Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XhQK7_1702380388512_02-breaking-news-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-breaking-news-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ou8Xh_1702380388516_02-breaking-news-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VY0hS_1702380388513_02-breaking-news-square.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "ZUN112egWeGx9UrV3x1ikzA",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lhBQL_1702380391321_02-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_T72jH_1702380392578_02-breaking-news-square-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "9sKUW_1_s2HCKj",
+      "templateId": "9sKUW_1_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T11:00:44.227Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YJ5oa_1702378835570_03-breaking-news-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-breaking-news-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5AE9Y_1702378835590_03-breaking-news-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oPQFY_1702378835586_03-breaking-news-square.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "9sKUWxXx_yVzzH1s2HCKj",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IhFT2_1702378840674_03-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tgFdx_1702378842189_03-breaking-news-square-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "9sKUW_0_s2HCKj",
+      "templateId": "9sKUW_0_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QI10c_1685443290537_mixkit-vastness-184.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T11:21:17.758Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_AgpRV_1702380071644_01-breaking-news-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-breaking-news-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KQSam_1702380071648_01-breaking-news-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__dpQ9_1702380071646_01-breaking-news-square.jpg",
+      "imageType": "Youtube Videos",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "V5WDisyVoO97oa5Bwrxu3",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7135G_1702380074481_01-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rRWR3_1702380075697_01-breaking-news-square-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [

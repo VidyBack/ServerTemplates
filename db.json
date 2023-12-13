@@ -66215,6 +66215,79 @@
   ],
   "p_nbn": [
     {
+      "id": "9sKUW_7_s2HCKj",
+      "templateId": "9sKUW_7_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-13T06:19:54.723Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868607828_17-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_hstGU_1702448386549_04-breaking-news-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-breaking-news-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GouCT_1702448386617_04-breaking-news-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VuqyJ_1702448386600_04-breaking-news-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "_BELq2-abmgyCDjJGUzCC",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__xkcw_1702448390806_04-breaking-news-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CXkau_1702448392280_04-breaking-news-story-Finance.mp4",
+            "promoHeading": "Investment News"
+          }
+        }
+      ]
+    },
+    {
       "id": "9sKUW_6_s2HCKj",
       "templateId": "9sKUW_6_s2HCKj",
       "version": 2,

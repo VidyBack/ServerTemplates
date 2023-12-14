@@ -64220,225 +64220,6 @@
   ],
   "p_nts": [
     {
-      "id": "1qFPtl39_4_T2EU6N",
-      "templateId": "1qFPtl39_4_T2EU6N",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GIojw_1685442768327_mixkit-home-551.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T10:04:47.377Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1666868522840_13-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PB-av_1702461879252_02-news-summary-template-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "02-news-summary-template-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nts"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yRALg_1702461879436_02-news-summary-template-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Sx4k7_1702461879433_02-news-summary-template-story.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "czJydLAvPc5LXNZFEx8Vr2",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0dbw3_1702461883710_02-news-summary-template-story-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qv0u6_1702461885161_02-news-summary-template-story-Pharma.mp4",
-            "promoHeading": "Drug Updates"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1qFPtl39_3_T2EU6N",
-      "templateId": "1qFPtl39_3_T2EU6N",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T10:10:21.214Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1667216241221_14-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sP35T_1702462210990_01-news-summary-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-news-summary-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nts"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xlFbc_1702462211260_01-news-summary-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VhWOu_1702462211249_01-news-summary-portrait.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "qFP123tl39ahtIm7eoT2EU6N",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glISt_1702462216429_01-news-summary-portrait-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gt-8b_1702462217889_01-news-summary-portrait-Pharma.mp4",
-            "promoHeading": "Healthcare News"
-          }
-        }
-      ]
-    },
-    {
-      "id": "1qFPtl39_2_T2EU6N",
-      "templateId": "1qFPtl39_2_T2EU6N",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DI53s_1685442818151_mixkit-irenko-177.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T10:20:00.068Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_nhOcH_1702462786516_01-news-summary-template-square.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-news-summary-template-square",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nts"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oMFOP_1702462786519_01-news-summary-template-square.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CMcOz_1702462786517_01-news-summary-template-square.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "u-vyUDw24ALAg_r7J21Xqw12",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mXzO__1702462793505_01-news-summary-template-square-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_skP5w_1702462794731_01-news-summary-template-square-Pharma.mp4",
-            "promoHeading": "Health Advances"
-          }
-        }
-      ]
-    },
-    {
       "id": "1qFPtl39_1_T2EU6N",
       "templateId": "1qFPtl39_1_T2EU6N",
       "version": 2,
@@ -64702,6 +64483,13 @@
       "AddId": "",
       "volume": 0.3,
       "previews": [
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glISt_1702462216429_01-news-summary-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gt-8b_1702462217889_01-news-summary-portrait-Pharma.mp4",
+            "promoHeading": "Healthcare News"
+          }
+        },
         {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GC-ye_1690971937132_01-news-summary-portrait-Automobile.jpg",
@@ -65592,6 +65380,13 @@
       "templateId": "u-vyUDw24ALAg_r7J21Xqw12",
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mXzO__1702462793505_01-news-summary-template-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_skP5w_1702462794731_01-news-summary-template-square-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
+        },
+        {
           "Travel": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wv9hW_1690544517649_01-news-summary-template-square-Travel.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bf0gP_1690544519891_01-news-summary-template-square-Travel.mp4",
@@ -65873,6 +65668,13 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0dbw3_1702461883710_02-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qv0u6_1702461885161_02-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Updates"
+          }
+        },
+        {
           "Bunglow": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFfN8_1690546582682_02-news-summary-template-story-Bunglow.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cpCvj_1690546585123_02-news-summary-template-story-Bunglow.mp4",
@@ -65925,225 +65727,6 @@
     }
   ],
   "p_nbn": [
-    {
-      "id": "9sKUW_10_s2HCKj",
-      "templateId": "9sKUW_10_s2HCKj",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T08:41:02.947Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1666868607828_17-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cOxA3_1702456855319_04-breaking-news-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "04-breaking-news-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nbn"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VDOqz_1702456855383_04-breaking-news-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2_b3U_1702456855372_04-breaking-news-story.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "_BELq2-abmgyCDjJGUzCC",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tL3WA_1702456859654_04-breaking-news-story-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe____CQ_1702456860896_04-breaking-news-story-Pharma.mp4",
-            "promoHeading": "Drug Approvals"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9sKUW_9_s2HCKj",
-      "templateId": "9sKUW_9_s2HCKj",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QI10c_1685443290537_mixkit-vastness-184.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T08:49:27.792Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rk9Yo_1702457347954_01-breaking-news-square.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-breaking-news-square",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nbn"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kwzP-_1702457350579_01-breaking-news-square.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_S3xVv_1702457350242_01-breaking-news-square.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "V5WDisyVoO97oa5Bwrxu3",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_maQ3V_1702457362294_01-breaking-news-square-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_If0LP_1702457365189_01-breaking-news-square-Pharma.mp4",
-            "promoHeading": "Research News"
-          }
-        }
-      ]
-    },
-    {
-      "id": "9sKUW_8_s2HCKj",
-      "templateId": "9sKUW_8_s2HCKj",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-13T09:02:11.259Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SarXl_1702458121402_01-breaking-news-portrait-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-breaking-news-portrait-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nbn"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KQio0_1702458121613_01-breaking-news-portrait-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nHylD_1702458121606_01-breaking-news-portrait-updated.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "c12zJydLAvPc5LXNZFEx8Vr2",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Phhw_1702458127178_01-breaking-news-portrait-updated-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5By6n_1702458128797_01-breaking-news-portrait-updated-Pharma.mp4",
-            "promoHeading": "Health Advances"
-          }
-        }
-      ]
-    },
     {
       "id": "9sKUW_7_s2HCKj",
       "templateId": "9sKUW_7_s2HCKj",
@@ -66668,6 +66251,13 @@
       "volume": 0.4,
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Phhw_1702458127178_01-breaking-news-portrait-updated-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5By6n_1702458128797_01-breaking-news-portrait-updated-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
+        },
+        {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_orym0_1690787569881_01-breaking-news-portrait-updated-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jEvxs_1690787575444_01-breaking-news-portrait-updated-Automobile.mp4",
@@ -67162,6 +66752,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rRWR3_1702380075697_01-breaking-news-square-Finance.mp4",
             "promoHeading": ""
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_maQ3V_1702457362294_01-breaking-news-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_If0LP_1702457365189_01-breaking-news-square-Pharma.mp4",
+            "promoHeading": "Research News"
+          }
         }
       ],
       "id": "V5WDisyVoO97oa5Bwrxu3",
@@ -67540,6 +67137,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__xkcw_1702448390806_04-breaking-news-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CXkau_1702448392280_04-breaking-news-story-Finance.mp4",
             "promoHeading": "Investment News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tL3WA_1702456859654_04-breaking-news-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe____CQ_1702456860896_04-breaking-news-story-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
           }
         }
       ],

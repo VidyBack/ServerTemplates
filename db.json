@@ -74048,6 +74048,8 @@
       "previews": []
     },
     {
+      "id": "DpPY440Pfmki__l3",
+      "templateId": "DpPY440Pfmki__l3",
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -74063,7 +74065,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-15T12:05:17.822Z",
+      "createdOn": "2023-12-15T12:43:14.072Z",
       "extraComps": [],
       "widgetsDefinition": [
         {
@@ -74074,7 +74076,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sCybn_1702641915164_02-template-for-all-post.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yY0gt_1702644191724_02-template-for-all-post.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -74088,76 +74090,14 @@
       "category": [
         "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jLN_H_1702641915169_02-template-for-all-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LUmEa_1702641915166_02-template-for-all-post.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_os7P-_1702644191727_02-template-for-all-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-M9sp_1702644191725_02-template-for-all-post.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
       "Height": 1080,
       "Width": 1080,
       "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "DpPY440P_mki__l3",
-      "templateId": "DpPY440P_mki__l3"
-    },
-    {
-      "id": "DpPY440Pfmki__l3",
-      "templateId": "DpPY440Pfmki__l3",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-15T11:13:56.636Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Dq9Dk_1702638834627_01-template-for-all-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-template-for-all-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_financeGeneric"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PFMxh_1702638834630_01-template-for-all-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vx_6d_1702638834629_01-template-for-all-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
       "width": 1080,
       "introId": null,
       "outroId": null,

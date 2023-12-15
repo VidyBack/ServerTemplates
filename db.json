@@ -73928,16 +73928,18 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "DpPY440Pf64_Qpll3",
+      "templateId": "DpPY440Pf64_Qpll3",
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
-          ""
+        ""
       ],
       "fontUrl": [
-          ""
+        ""
       ],
       "bgImageUrl": [
-          ""
+        ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
       "fillEnabled": true,
@@ -73946,27 +73948,27 @@
       "createdOn": "2023-12-15T06:23:50.228Z",
       "extraComps": [],
       "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B3Jrs_1702621427147_01-finance-temall-for-all-story.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B3Jrs_1702621427147_01-finance-temall-for-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
       ],
       "type": "Instagram Stories",
       "name": "01-finance-temall-for-all-story",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-          "p_financeGeneric"
+        "p_financeGeneric"
       ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W51Dl_1702621427151_01-finance-temall-for-all-story.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFfxj_1702621427149_01-finance-temall-for-all-story.jpg",
@@ -73984,6 +73986,6 @@
       "volume": 1,
       "isMultipleTemplate": false,
       "previews": []
-  }
+    }
   ]
 }

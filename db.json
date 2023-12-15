@@ -73988,110 +73988,50 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "DpPY440Pfmkis873",
+      "templateId": "DpPY440Pfmkis873",
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
-        ""
+          ""
       ],
       "fontUrl": [
-        ""
+          ""
       ],
       "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-08T12:01:02.548Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wYptQ_1702036859805_01-mutual-funds-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-mutual-funds-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_financeGeneric"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KcfGv_1702036859809_01-mutual-funds-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nlxFR_1702036859807_01-mutual-funds-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "DpPY0Pf64_0",
-      "templateId": "DpPY0Pf64_0"
-    },
-    {
-      "id": "DpPY440Pf64_Qpll3",
-      "templateId": "DpPY440Pf64_Qpll3",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
+          ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-15T06:23:50.228Z",
+      "createdOn": "2023-12-15T10:38:09.514Z",
       "extraComps": [],
       "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B3Jrs_1702621427147_01-finance-temall-for-all-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lNntS_1702636687249_01-finance-temall-for-all-story.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
       ],
       "type": "Instagram Stories",
       "name": "01-finance-temall-for-all-story",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-        "p_financeGeneric"
+          "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W51Dl_1702621427151_01-finance-temall-for-all-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFfxj_1702621427149_01-finance-temall-for-all-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iX_Fy_1702636687252_01-finance-temall-for-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BKBgi_1702636687250_01-finance-temall-for-all-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -74106,6 +74046,6 @@
       "volume": 1,
       "isMultipleTemplate": false,
       "previews": []
-    }
+  }
   ]
 }

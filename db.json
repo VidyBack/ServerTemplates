@@ -74023,7 +74023,7 @@
             "duration": 10
         }
     ],
-    "type": "Post 4:5",
+    "type": "Instagram Stories",
     "name": "01-finance-temall-for-all-story",
     "brandEnabled": false,
     "brandType": "X1",
@@ -74046,6 +74046,64 @@
     "volume": 1,
     "isMultipleTemplate": false,
     "previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2023-12-15T11:13:56.636Z",
+	"extraComps": [],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Dq9Dk_1702638834627_01-template-for-all-post.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "01-template-for-all-post",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_financeGeneric"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PFMxh_1702638834630_01-template-for-all-post.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vx_6d_1702638834629_01-template-for-all-post.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"isMultipleTemplate": false,
+	"previews": []
 }
   ]
 }

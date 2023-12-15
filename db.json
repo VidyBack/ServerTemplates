@@ -73999,66 +73999,6 @@
       "bgImageUrl": [
           ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-15T10:42:40.946Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_jpSsk_1702636958415_01-finance-temall-for-all-story.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-finance-temall-for-all-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-          "p_financeGeneric"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8Efm0_1702636958418_01-finance-temall-for-all-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9pOZj_1702636958417_01-finance-temall-for-all-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "DpPY440Pfmkis873",
-      "templateId": "DpPY440Pfmkis873"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-          ""
-      ],
-      "fontUrl": [
-          ""
-      ],
-      "bgImageUrl": [
-          ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
       "fillEnabled": true,
       "forWebsites": [],

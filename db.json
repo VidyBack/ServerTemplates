@@ -73928,6 +73928,71 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "787_1_6yuyu",
+      "templateId": "787_1_6yuyu",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-11T12:16:00.548Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_iLiEY_1702296958081_03-multi-topgainers.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-multi-topgainers",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_--3qR_1702296958086_03-multi-topgainers.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ULSjl_1702296958084_03-multi-topgainers.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
       "id": "DpPY440Pf64_Qpll3",
       "templateId": "DpPY440Pf64_Qpll3",
       "version": 2,

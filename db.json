@@ -61792,1015 +61792,7 @@
       "isMultipleTemplate": false
     }
   ],
-  "p_nauto_quote": [
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-01T12:21:05.861Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_EeatT_1690892323832_02-portrait_1080x1350.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "02-portrait_1080x1350",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dzd8l_1690892323839_02-portrait_1080x1350.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iUQFY_1690892323836_02-portrait_1080x1350.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OtvR7_1690892455039_02-portrait_1080x1350-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fOGiP_1690892459339_02-portrait_1080x1350-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-dmitry-zvolskiy-1637859.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VmFyg_1690892455041_02-portrait_1080x1350-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lS1ST_1690892459342_02-portrait_1080x1350-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-andré-fuck-13055532.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SayuD_1690892455042_02-portrait_1080x1350-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6v8OE_1690892459344_02-portrait_1080x1350-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alba-chiara-oldoini-2567550.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kTTt0_1690892455044_02-portrait_1080x1350-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0Gp0t_1690892459347_02-portrait_1080x1350-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-6419742.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "nf48f7fdhe839w2d",
-      "templateId": "nf48f7fdhe839w2d"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-02T05:48:54.332Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_hYcno_1690955178202_03-portrait_1080x1350.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "03-portrait_1080x1350",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p0VTs_1690955178220_03-portrait_1080x1350.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qO7NQ_1690955178216_03-portrait_1080x1350.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_coKNE_1690955327167_03-portrait_1080x1350-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IDwbc_1690955329241_03-portrait_1080x1350-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-dante-juhasz-14840237.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5aSFY_1690955327169_03-portrait_1080x1350-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8rXBQ_1690955329244_03-portrait_1080x1350-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-keegan-checks-12715490.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h4hty_1690955327171_03-portrait_1080x1350-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KhbdS_1690955329247_03-portrait_1080x1350-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-8601390.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ppzf3_1690955327173_03-portrait_1080x1350-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dYj6c_1690955329249_03-portrait_1080x1350-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vecislavas-popa-1571463.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jfcYY_1690955327174_03-portrait_1080x1350-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QrIfZ_1690955329251_03-portrait_1080x1350-Accessories.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-cottonbro-studio-4009607.jpg-Accessories-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "nf49f7fdhe839w2d",
-      "templateId": "nf49f7fdhe839w2d"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-01T08:27:18.880Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Kbr-t_1690878261852_03-quote-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "03-quote-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MLE_y_1690878261855_03-quote-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JnSk2_1690878261854_03-quote-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1DVjX_1690878431911_03-quote-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EXYdB_1690878433936_03-quote-story-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-315755.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vEei4_1690878431912_03-quote-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J3wKX_1690878433939_03-quote-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yurii-hlei-1545743.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_htyvZ_1690878431914_03-quote-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kWGbe_1690878433943_03-quote-story-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ja-norlin-photography-2491640.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xDWDa_1690878431917_03-quote-story-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ma9pU_1690878433945_03-quote-story-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-minmin-kp-2554603.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4HLk3_1690878431918_03-quote-story-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tAx-w_1690878433948_03-quote-story-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-thirdman-8485714.jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "QwtnQBZVABIGsebvrjUOy",
-      "templateId": "QwtnQBZVABIGsebvrjUOy"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-01T11:03:12.219Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Nk9wR_1690887642395_01-portrait_1080x1350.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-portrait_1080x1350",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_sktvP_1690887642402_01-portrait_1080x1350.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MUYgl_1690887642399_01-portrait_1080x1350.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qviJv_1690887785197_01-portrait_1080x1350-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-Cz2B_1690887787263_01-portrait_1080x1350-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-auto-records-11191239.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IylWd_1690887785199_01-portrait_1080x1350-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_u60gu_1690887787266_01-portrait_1080x1350-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alba-chiara-oldoini-2567550.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2K5UZ_1690887785201_01-portrait_1080x1350-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_etmj9_1690887787270_01-portrait_1080x1350-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vecislavas-popa-1571463.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UPxLg_1690887785203_01-portrait_1080x1350-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GbkJQ_1690887787273_01-portrait_1080x1350-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3743537.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "sqym3NqJxHvx1w-bnc6-b",
-      "templateId": "sqym3NqJxHvx1w-bnc6-b"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kxKOH_1666165483564_mixkit-when-in-love-44.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-31T10:36:48.618Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1666868588418_16-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cK4wd_1690799745569_02-quote-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "02-quote-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_s4rIR_1690799745574_02-quote-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A2AfJ_1690799745571_02-quote-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OjHAx_1690799794956_02-quote-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HEH5K_1690799796490_02-quote-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10553202.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6iWO9_1690799794957_02-quote-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-a-Qm_1690799796492_02-quote-story-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ja-norlin-photography-2491640.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "3a2eWUAXfKaM9Pnk6aC-A",
-      "templateId": "3a2eWUAXfKaM9Pnk6aC-A"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-31T10:29:25.128Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1666868588418_16-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cJhz3_1690799299268_01-quote-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-quote-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Y2Nqu_1690799299275_01-quote-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IoeYw_1690799299271_01-quote-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QacAw_1690799354497_01-quote-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jmiR__1690799356126_01-quote-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kkBRD_1690799354499_01-quote-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8nxeP_1690799356128_01-quote-story-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlad-bagacian-1212053.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "3OvEpbx10dTjAwbtIPKbc",
-      "templateId": "3OvEpbx10dTjAwbtIPKbc"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IMQIR_1663664027810_Showcase Me.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-04T10:31:41.656Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7PMPT_1691144911851_05-quote-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "05-quote-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2dhx3_1691144911854_05-quote-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JbawP_1691144911853_05-quote-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Education": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xPrni_1691145093221_05-quote-post-Education.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZHWHL_1691145095403_05-quote-post-Education.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-koshevayak-4170628.jpg-Education-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_59HHg_1691145093223_05-quote-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jnpnw_1691145095406_05-quote-post-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alan-vega-12319774.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UPpxs_1691145093225_05-quote-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Nho7u_1691145095408_05-quote-post-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zns-food&natureart-8992924.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_94Qox_1691145093226_05-quote-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1M4oB_1691145095412_05-quote-post-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Xbp7Z_1691145093228_05-quote-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0HRue_1691145095416_05-quote-post-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-164522.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aAeFo_1691145093231_05-quote-post-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ScMF9_1691145095419_05-quote-post-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-adrien-olichon-3767172.jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "TD_CAV5RX9sju_QZY9VTR",
-      "templateId": "TD_CAV5RX9sju_QZY9VTR"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-04T09:18:00.110Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-reQG_1691140522848_03-quote-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "03-quote-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QeAIa_1691140522850_03-quote-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7O6Ie_1691140522849_03-quote-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Education": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_StdpX_1691140673130_03-quote-post-Education.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KJk30_1691140675137_03-quote-post-Education.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ketut-subiyanto-4126743.jpg-Education-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IKAZs_1691140673131_03-quote-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OSLZq_1691140675140_03-quote-post-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-a-barry-3733685.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ln2sQ_1691140673132_03-quote-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Kgpnf_1691140675145_03-quote-post-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zns-food&natureart-8992924.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S0su8_1691140673134_03-quote-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uNIYV_1691140675148_03-quote-post-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-lars-britschgi-6814482.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bWsPS_1691140673136_03-quote-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WCfwv_1691140675149_03-quote-post-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-curtis-adams-5008399.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FYLLx_1691140673137_03-quote-post-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jJxMU_1691140675151_03-quote-post-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-sora-shimazaki-5668767 (2).jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "0mt6jBeCNl9QvNAdXS88U",
-      "templateId": "0mt6jBeCNl9QvNAdXS88U"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-04T07:46:22.350Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mGwwT_1691135013921_02-quote-post-no-intro.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "02-quote-post-no-intro",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hjN40_1691135013925_02-quote-post-no-intro.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f1AqJ_1691135013923_02-quote-post-no-intro.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Education": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jsjJ-_1691135175480_02-quote-post-no-intro-Education.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fuyR6_1691135177491_02-quote-post-no-intro-Education.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yaroslav-shuraev-9489771.jpg-Education-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Iw6zq_1691135175482_02-quote-post-no-intro-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jp_WC_1691135177494_02-quote-post-no-intro-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-auto-records-10549262.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nUX8__1691135175485_02-quote-post-no-intro-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7pcoG_1691135177497_02-quote-post-no-intro-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-skyler-ewing-6057399.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rqtYW_1691135175488_02-quote-post-no-intro-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8j1OD_1691135177499_02-quote-post-no-intro-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-minmin-kp-2554603.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Iq_32_1691135175489_02-quote-post-no-intro-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1gE8z_1691135177502_02-quote-post-no-intro-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3323687.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "xedWuOzDIbQ_5s1AiQdF8",
-      "templateId": "xedWuOzDIbQ_5s1AiQdF8"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-08-04T06:49:08.468Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ghN9c_1691131595824_01-quote-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-quote-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xuoj1_1691131595827_01-quote-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_q7h1O_1691131595825_01-quote-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_y7hid_1691131739903_01-quote-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oUq9K_1691131742899_01-quote-post-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-jane-doan-892649.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0tfj8_1691131739905_01-quote-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__prjS_1691131742901_01-quote-post-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-hyundai-motor-group-12163946.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dQ32J_1691131739908_01-quote-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XmBYa_1691131742903_01-quote-post-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-curtis-adams-6835055.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U1ZbB_1691131739909_01-quote-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eZSr6_1691131742905_01-quote-post-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oziel-gomez-7566890.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Education": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hAxrX_1691131739911_01-quote-post-Education.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XTMnw_1691131742908_01-quote-post-Education.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlada-karpovich-4050320.jpg-Education-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "avlpWeH2OUJFSWe8WHDQW",
-      "templateId": "avlpWeH2OUJFSWe8WHDQW"
-    }
-  ],
+  
   "p_stkdata": [
     {
       "version": 2,
@@ -70600,7 +69592,7 @@
       "isMultipleTemplate": false
     }
   ],
-  "p_nauto_tip": [
+  "p_nauto_quote": [
     {
       "version": 2,
       "gifUrl": "",
@@ -70613,11 +69605,11 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-07T11:57:47.311Z",
+      "createdOn": "2023-08-01T12:21:05.861Z",
       "extraComps": [
         {
           "index": 2,
@@ -70633,7 +69625,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzp_M_1701950261216_01-tips-portrait-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_EeatT_1690892323832_02-portrait_1080x1350.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -70641,14 +69633,14 @@
         }
       ],
       "type": "Post 4:5",
-      "name": "01-tips-portrait-updated",
+      "name": "02-portrait_1080x1350",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-        "p_nauto_tip"
+        "p_nauto_quote"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P46dX_1701950261232_01-tips-portrait-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zJzT9_1701950261230_01-tips-portrait-updated.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dzd8l_1690892323839_02-portrait_1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iUQFY_1690892323836_02-portrait_1080x1350.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -70660,12 +69652,1019 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 1,
+      "volume": 0.4,
       "isMultipleTemplate": false,
-      "previews": [],
-      "id": "laWh_0_EZPT44O",
-      "templateId": "laWh_0_EZPT44O"
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OtvR7_1690892455039_02-portrait_1080x1350-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fOGiP_1690892459339_02-portrait_1080x1350-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-dmitry-zvolskiy-1637859.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VmFyg_1690892455041_02-portrait_1080x1350-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lS1ST_1690892459342_02-portrait_1080x1350-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-andré-fuck-13055532.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SayuD_1690892455042_02-portrait_1080x1350-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6v8OE_1690892459344_02-portrait_1080x1350-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alba-chiara-oldoini-2567550.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kTTt0_1690892455044_02-portrait_1080x1350-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0Gp0t_1690892459347_02-portrait_1080x1350-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-6419742.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "nf48f7fdhe839w2d",
+      "templateId": "nf48f7fdhe839w2d"
     },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-02T05:48:54.332Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_hYcno_1690955178202_03-portrait_1080x1350.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "03-portrait_1080x1350",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p0VTs_1690955178220_03-portrait_1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qO7NQ_1690955178216_03-portrait_1080x1350.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_coKNE_1690955327167_03-portrait_1080x1350-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IDwbc_1690955329241_03-portrait_1080x1350-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-dante-juhasz-14840237.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5aSFY_1690955327169_03-portrait_1080x1350-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8rXBQ_1690955329244_03-portrait_1080x1350-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-keegan-checks-12715490.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h4hty_1690955327171_03-portrait_1080x1350-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KhbdS_1690955329247_03-portrait_1080x1350-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-8601390.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ppzf3_1690955327173_03-portrait_1080x1350-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dYj6c_1690955329249_03-portrait_1080x1350-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vecislavas-popa-1571463.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jfcYY_1690955327174_03-portrait_1080x1350-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QrIfZ_1690955329251_03-portrait_1080x1350-Accessories.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-cottonbro-studio-4009607.jpg-Accessories-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_imiyx_1702973092101_03-portrait_1080x1350-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7e8yt_1702973093328_03-portrait_1080x1350-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "nf49f7fdhe839w2d",
+      "templateId": "nf49f7fdhe839w2d"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-01T08:27:18.880Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Kbr-t_1690878261852_03-quote-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-quote-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MLE_y_1690878261855_03-quote-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JnSk2_1690878261854_03-quote-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1DVjX_1690878431911_03-quote-story-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EXYdB_1690878433936_03-quote-story-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-315755.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vEei4_1690878431912_03-quote-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J3wKX_1690878433939_03-quote-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yurii-hlei-1545743.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_htyvZ_1690878431914_03-quote-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kWGbe_1690878433943_03-quote-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ja-norlin-photography-2491640.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xDWDa_1690878431917_03-quote-story-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ma9pU_1690878433945_03-quote-story-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-minmin-kp-2554603.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4HLk3_1690878431918_03-quote-story-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tAx-w_1690878433948_03-quote-story-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-thirdman-8485714.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_i-0bE_1702972838704_03-quote-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tUmzX_1702972839937_03-quote-story-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "QwtnQBZVABIGsebvrjUOy",
+      "templateId": "QwtnQBZVABIGsebvrjUOy"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-01T11:03:12.219Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Nk9wR_1690887642395_01-portrait_1080x1350.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-portrait_1080x1350",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_sktvP_1690887642402_01-portrait_1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MUYgl_1690887642399_01-portrait_1080x1350.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qviJv_1690887785197_01-portrait_1080x1350-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-Cz2B_1690887787263_01-portrait_1080x1350-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-auto-records-11191239.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IylWd_1690887785199_01-portrait_1080x1350-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_u60gu_1690887787266_01-portrait_1080x1350-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alba-chiara-oldoini-2567550.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2K5UZ_1690887785201_01-portrait_1080x1350-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_etmj9_1690887787270_01-portrait_1080x1350-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vecislavas-popa-1571463.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UPxLg_1690887785203_01-portrait_1080x1350-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GbkJQ_1690887787273_01-portrait_1080x1350-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3743537.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Gyzmc_1702973346149_01-portrait_1080x1350-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uBHhd_1702973347352_01-portrait_1080x1350-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "sqym3NqJxHvx1w-bnc6-b",
+      "templateId": "sqym3NqJxHvx1w-bnc6-b"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kxKOH_1666165483564_mixkit-when-in-love-44.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-31T10:36:48.618Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cK4wd_1690799745569_02-quote-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-quote-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_s4rIR_1690799745574_02-quote-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A2AfJ_1690799745571_02-quote-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OjHAx_1690799794956_02-quote-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HEH5K_1690799796490_02-quote-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10553202.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6iWO9_1690799794957_02-quote-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-a-Qm_1690799796492_02-quote-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ja-norlin-photography-2491640.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ASvmo_1702972625958_02-quote-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8dZ3A_1702972627166_02-quote-story-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "3a2eWUAXfKaM9Pnk6aC-A",
+      "templateId": "3a2eWUAXfKaM9Pnk6aC-A"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-31T10:29:25.128Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cJhz3_1690799299268_01-quote-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-quote-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Y2Nqu_1690799299275_01-quote-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IoeYw_1690799299271_01-quote-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QacAw_1690799354497_01-quote-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jmiR__1690799356126_01-quote-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kkBRD_1690799354499_01-quote-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8nxeP_1690799356128_01-quote-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlad-bagacian-1212053.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-FYlb_1702971503130_01-quote-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EpE8t_1702971504513_01-quote-story-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "3OvEpbx10dTjAwbtIPKbc",
+      "templateId": "3OvEpbx10dTjAwbtIPKbc"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IMQIR_1663664027810_Showcase Me.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-04T10:31:41.656Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7PMPT_1691144911851_05-quote-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "05-quote-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2dhx3_1691144911854_05-quote-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JbawP_1691144911853_05-quote-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xPrni_1691145093221_05-quote-post-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZHWHL_1691145095403_05-quote-post-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-koshevayak-4170628.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_59HHg_1691145093223_05-quote-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jnpnw_1691145095406_05-quote-post-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alan-vega-12319774.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UPpxs_1691145093225_05-quote-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Nho7u_1691145095408_05-quote-post-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zns-food&natureart-8992924.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_94Qox_1691145093226_05-quote-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1M4oB_1691145095412_05-quote-post-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Xbp7Z_1691145093228_05-quote-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0HRue_1691145095416_05-quote-post-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-164522.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aAeFo_1691145093231_05-quote-post-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ScMF9_1691145095419_05-quote-post-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-adrien-olichon-3767172.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WvqOf_1702975247325_05-quote-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ln--G_1702975248520_05-quote-post-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "TD_CAV5RX9sju_QZY9VTR",
+      "templateId": "TD_CAV5RX9sju_QZY9VTR"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-04T09:18:00.110Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-reQG_1691140522848_03-quote-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-quote-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QeAIa_1691140522850_03-quote-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7O6Ie_1691140522849_03-quote-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_StdpX_1691140673130_03-quote-post-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KJk30_1691140675137_03-quote-post-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ketut-subiyanto-4126743.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IKAZs_1691140673131_03-quote-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OSLZq_1691140675140_03-quote-post-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-a-barry-3733685.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ln2sQ_1691140673132_03-quote-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Kgpnf_1691140675145_03-quote-post-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zns-food&natureart-8992924.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S0su8_1691140673134_03-quote-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uNIYV_1691140675148_03-quote-post-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-lars-britschgi-6814482.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bWsPS_1691140673136_03-quote-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WCfwv_1691140675149_03-quote-post-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-curtis-adams-5008399.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FYLLx_1691140673137_03-quote-post-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jJxMU_1691140675151_03-quote-post-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-sora-shimazaki-5668767 (2).jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFm9-_1702974947147_03-quote-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yf731_1702974948745_03-quote-post-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "0mt6jBeCNl9QvNAdXS88U",
+      "templateId": "0mt6jBeCNl9QvNAdXS88U"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-04T07:46:22.350Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mGwwT_1691135013921_02-quote-post-no-intro.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-quote-post-no-intro",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hjN40_1691135013925_02-quote-post-no-intro.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f1AqJ_1691135013923_02-quote-post-no-intro.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CywRC_1702974007822_02-quote-post-no-intro-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PzqWy_1702974008999_02-quote-post-no-intro-Finance.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jsjJ-_1691135175480_02-quote-post-no-intro-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fuyR6_1691135177491_02-quote-post-no-intro-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yaroslav-shuraev-9489771.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Iw6zq_1691135175482_02-quote-post-no-intro-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jp_WC_1691135177494_02-quote-post-no-intro-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-auto-records-10549262.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nUX8__1691135175485_02-quote-post-no-intro-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7pcoG_1691135177497_02-quote-post-no-intro-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-skyler-ewing-6057399.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rqtYW_1691135175488_02-quote-post-no-intro-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8j1OD_1691135177499_02-quote-post-no-intro-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-minmin-kp-2554603.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Iq_32_1691135175489_02-quote-post-no-intro-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1gE8z_1691135177502_02-quote-post-no-intro-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3323687.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "xedWuOzDIbQ_5s1AiQdF8",
+      "templateId": "xedWuOzDIbQ_5s1AiQdF8"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-04T06:49:08.468Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ghN9c_1691131595824_01-quote-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-quote-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xuoj1_1691131595827_01-quote-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_q7h1O_1691131595825_01-quote-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_y7hid_1691131739903_01-quote-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oUq9K_1691131742899_01-quote-post-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-jane-doan-892649.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0tfj8_1691131739905_01-quote-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__prjS_1691131742901_01-quote-post-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-hyundai-motor-group-12163946.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dQ32J_1691131739908_01-quote-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XmBYa_1691131742903_01-quote-post-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-curtis-adams-6835055.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U1ZbB_1691131739909_01-quote-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eZSr6_1691131742905_01-quote-post-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oziel-gomez-7566890.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hAxrX_1691131739911_01-quote-post-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XTMnw_1691131742908_01-quote-post-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlada-karpovich-4050320.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vp2z5_1702973626710_01-quote-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dwZlt_1702973627961_01-quote-post-Finance.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "avlpWeH2OUJFSWe8WHDQW",
+      "templateId": "avlpWeH2OUJFSWe8WHDQW"
+    }
+  ],
+"p_nauto_tip": [
     {
       "version": 2,
       "gifUrl": "",
@@ -70742,6 +70741,14 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0z_h6_1690804845469_02-tips-portrait-Food.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-4109954.jpg-Food-DomainImage.jpg",
             "promoHeading": "Cooking Basics"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bLXaX_1702971060716_02-tips-portrait-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HWXTP_1702971061936_02-tips-portrait-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bLXaX_1702971060716_02-tips-portrait-Finance.jpg",
+            "promoHeading": ""
           }
         }
       ],
@@ -70823,6 +70830,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vmzyE_1690802357346_03-tips-story-Food.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-valeria-boltneva-1860204.jpg-Food-DomainImage.jpg",
             "promoHeading": "Budget-Friendly Food Tips"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6cJbS_1702968293348_03-tips-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r4fHZ_1702968294992_03-tips-story-Finance.mp4",
+            "promoHeading": ""
           }
         }
       ],
@@ -70906,6 +70920,13 @@
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-wendy-wei-4067053.jpg-Food-DomainImage.jpg",
             "promoHeading": "Healthy Eating Hacks"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WEGqz_1702967864171_02-tips-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5C3Qn_1702967865356_02-tips-story-Finance.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "id": "B5cfd-7CiH1TcwQRP2Sqd",
@@ -70988,91 +71009,17 @@
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-416471.jpg-Food-DomainImage.jpg",
             "promoHeading": "Budget-Friendly Food Tips"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c4__m_1702967526353_01-tips-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c5Eu-_1702967528052_01-tips-story-Finance.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "id": "BrdUpGKMVUrEocEza0kh_",
       "templateId": "BrdUpGKMVUrEocEza0kh_",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-14T04:45:00.826Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1669380976064_17-BrandOutro-4-5-version-1"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_p6kuV_1689309855160_01-tips-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-tips-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xkOUm_1689309855169_01-tips-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lt8FY_1689309855165_01-tips-portrait.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8iQ59_1689309893233_01-tips-portrait-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y98hi_1689309895404_01-tips-portrait-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-kam-pratt-3457780.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Automobile/pexels-kam-pratt-3457780.jpg"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_T7_Gj_1689309893235_01-tips-portrait-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VUo1M_1689309895406_01-tips-portrait-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-solodsha-7664107.jpg-Food-DomainImage.jpg",
-            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Food/pexels-solodsha-7664107.jpg"
-          }
-        }
-      ],
-      "id": "LMRr2JkwNy71dtl-8AYnb",
-      "templateId": "LMRr2JkwNy71dtl-8AYnb",
       "isMultipleTemplate": false
     },
     {
@@ -71160,6 +71107,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GwLB-_1685341680528_04-tips-Food.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LN7c3_1685341682550_04-tips-Food.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zn’s-food&natureart-8992924.jpg-Food-DomainImage.jpg"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_199-9_1702970260191_04-tips-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IIz7F_1702970262192_04-tips-Finance.mp4",
+            "promoHeading": ""
           }
         }
       ],
@@ -71256,6 +71210,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fvlIu_1685104486647_03-automobile-tips-post-Bunglow.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-164522.jpg-Bunglow-DomainImage.jpg",
             "promoHeading": "Helpful Tip"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LE3nP_1702970082152_03-automobile-tips-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Cl3TO_1702970084042_03-automobile-tips-post-Finance.mp4",
+            "promoHeading": ""
           }
         }
       ],
@@ -71354,6 +71315,13 @@
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gianni-🎸-🇨🇭🇮🇹-9156107.jpg-Bunglow-DomainImage.jpg",
             "promoHeading": ""
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CLCsE_1702969773320_02-tip-post-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1o5jq_1702969774565_02-tip-post-Finance.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "id": "NarAyJobqjqRRPrDfZXk8",
@@ -71450,6 +71418,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PFv6i_1685100560494_01-tip-Bunglow.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-259588 (1).jpg-Bunglow-DomainImage.jpg",
             "promoHeading": "Today's Tip"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yVwbh_1702969418085_01-tip-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MAK4r_1702969419962_01-tip-Finance.mp4",
+            "promoHeading": ""
           }
         }
       ],

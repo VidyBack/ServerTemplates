@@ -2103,6 +2103,266 @@
   ],
   "p_fest": [
     {
+      "id": "mlpn_20_cftyr",
+      "templateId": "mlpn_20_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-raising-me-higher-34-[AudioTrimmer.com].aac",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-19T10:27:04.781Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1669380914434_18-BrandOutro-4-5-version-1"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5e0Me_1702981620690_18-new-year-greeting-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "18-new-year-greeting-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h94tp_1702981620693_18-new-year-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BRgJ-_1702981620692_18-new-year-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "mlpn_19_cftyr",
+      "templateId": "mlpn_19_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vrYmr_1662719532741_Funky Fit.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-19T10:47:53.310Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pcyEF_1702982868964_13-new-year-greeting-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "13-new-year-greeting-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LiKzM_1702982868968_13-new-year-greeting-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YRFUA_1702982868966_13-new-year-greeting-square.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "mlpn_18_cftyr",
+      "templateId": "mlpn_18_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_i57ch_1702905724733_mixkit-holidays-2-691.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-18T13:24:12.972Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Uslj7_1702905848864_17-christmas-greeting-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "17-christmas-greeting-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UyStr_1702905848868_17-christmas-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9gJfi_1702905848866_17-christmas-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "mlpn_17_cftyr",
+      "templateId": "mlpn_17_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fvKv2_1702894851475_mixkit-christmas-stars-866.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-18T10:34:11.700Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8QnWj_1702895646885_25-xmas-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "25-xmas-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z8Bsk_1702895646911_25-xmas-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XH1rl_1702895646908_25-xmas-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "mlpn_16_cftyr",
       "templateId": "mlpn_16_cftyr",
       "version": 1,
@@ -17986,6 +18246,149 @@
     }
   ],
   "p_dpercentage": [
+    {
+      "id": "EXVOES41",
+      "templateId": "EXVOES41",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qD8oC_1702275443569_mixkit-hip-hop-01-737-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T13:26:01.645Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216241221_14-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_1Co_9_1702387348606_10-discount-in-perentage-portrait-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "10-discount-in-perentage-portrait-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tmIQq_1702387348614_10-discount-in-perentage-portrait-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EwUHQ_1702387348612_10-discount-in-perentage-portrait-updated.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sCmLG_1702387552500_10-discount-in-perentage-portrait-updated-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_p7k2V_1702387555966_10-discount-in-perentage-portrait-updated-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L5Hd2_1702387552502_10-discount-in-perentage-portrait-updated-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qfo5a_1702387555968_10-discount-in-perentage-portrait-updated-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BylCj_1702387552503_10-discount-in-perentage-portrait-updated-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6EPeb_1702387555970_10-discount-in-perentage-portrait-updated-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nGh6X_1702387552504_10-discount-in-perentage-portrait-updated-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4dLcr_1702387555972_10-discount-in-perentage-portrait-updated-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iN8e-_1702387552506_10-discount-in-perentage-portrait-updated-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FOwQn_1702387555974_10-discount-in-perentage-portrait-updated-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D2Xjk_1702387552507_10-discount-in-perentage-portrait-updated-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_03Bz3_1702387555976_10-discount-in-perentage-portrait-updated-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EPAAf_1702387552508_10-discount-in-perentage-portrait-updated-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iR5Jl_1702387555978_10-discount-in-perentage-portrait-updated-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U2CYR_1702387552510_10-discount-in-perentage-portrait-updated-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GjUVC_1702387555979_10-discount-in-perentage-portrait-updated-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ik0Cz_1702387552511_10-discount-in-perentage-portrait-updated-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tSnhd_1702387555980_10-discount-in-perentage-portrait-updated-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hR8Zq_1702387552512_10-discount-in-perentage-portrait-updated-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ydd-t_1702387555982_10-discount-in-perentage-portrait-updated-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BoNHd_1702387552513_10-discount-in-perentage-portrait-updated-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_719of_1702387555984_10-discount-in-perentage-portrait-updated-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
     {
       "id": "EXVOES40",
       "templateId": "EXVOES40",
@@ -61795,6 +62198,136 @@
   
   "p_stkdata": [
     {
+      "id": "DpPY00_1_bDwe",
+      "templateId": "DpPY00_1_bDwe",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T08:54:13.341Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_EJIb3_1702371250832_04-finance-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "04-finance-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J_RTX_1702371250834_04-finance-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_diVjd_1702371250833_04-finance-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "DpPY00_0_bDwe",
+      "templateId": "DpPY00_0_bDwe",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-12T08:41:07.302Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rlmSC_1702370464801_04-finance-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "04-finance-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QUdfo_1702370464804_04-finance-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9mn2m_1702370464802_04-finance-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -63004,135 +63537,6 @@
       "previews": []
     },
     {
-      "id": "1qFPtl39_0_T2EU6N",
-      "templateId": "1qFPtl39_0_T2EU6N",
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-09-18T08:02:57.811Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ComFi_1695023881230_01-news-finance-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-news-finance-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nts"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YiDwI_1695023881236_01-news-finance-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lu7je_1695023881233_01-news-finance-post.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uf9Vn_1695024167855_01-news-finance-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4KHqe_1695024171337_01-news-finance-post-Automobile.mp4",
-            "promoHeading": "Future Mobility"
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sZ8R1_1695024167860_01-news-finance-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XtDmB_1695024171339_01-news-finance-post-Bunglow.mp4",
-            "promoHeading": "Housing Finance"
-          }
-        },
-        {
-          "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ag2LO_1695024167863_01-news-finance-post-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DPmf4_1695024171341_01-news-finance-post-Healthcare.mp4",
-            "promoHeading": "Vaccine News"
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jiEpZ_1695024167865_01-news-finance-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r-EbR_1695024171343_01-news-finance-post-Travel.mp4",
-            "promoHeading": "Luxury Bliss"
-          }
-        },
-        {
-          "Technology": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DqF6x_1695024167868_01-news-finance-post-Technology.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Do7iZ_1695024171346_01-news-finance-post-Technology.mp4",
-            "promoHeading": "Data Insights"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_f-zNZ_1695024167869_01-news-finance-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_emNlM_1695024171348_01-news-finance-post-Food.mp4",
-            "promoHeading": "Quick Bites"
-          }
-        },
-        {
-          "Sports": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xT00O_1695024167871_01-news-finance-post-Sports.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SD7vI_1695024171350_01-news-finance-post-Sports.mp4",
-            "promoHeading": "Sports Entry"
-          }
-        },
-        {
-          "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FeSu7_1695024167872_01-news-finance-post-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AqBxT_1695024171352_01-news-finance-post-Finance.mp4",
-            "promoHeading": "Market Updates"
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_b_vEz_1695024167874_01-news-finance-post-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3KORL_1695024171354_01-news-finance-post-Jobs.mp4",
-            "promoHeading": "Job Fairs"
-          }
-        }
-      ]
-    },
-    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -63261,9 +63665,9 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gkc4-_1690968479403_04-news-summary-template-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BB7T0_1690968482932_04-news-summary-template-story-Finance.mp4",
-            "promoHeading": "Crypto News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6uOGH_1702451387942_04-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nGt9e_1702451389267_04-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Tax Updates"
           }
         }
       ]
@@ -63331,6 +63735,13 @@
       "AddId": "",
       "volume": 0.3,
       "previews": [
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glISt_1702462216429_01-news-summary-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gt-8b_1702462217889_01-news-summary-portrait-Pharma.mp4",
+            "promoHeading": "Healthcare News"
+          }
+        },
         {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GC-ye_1690971937132_01-news-summary-portrait-Automobile.jpg",
@@ -63804,9 +64215,9 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_r8zy4_1690782533340_07-news-summary-template-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uJriD_1690782539314_07-news-summary-template-story-Finance.mp4",
-            "promoHeading": "Tax Updates"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wTi0l_1702453965946_07-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1iUNK_1702453967328_07-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Investment News"
           }
         }
       ],
@@ -64029,6 +64440,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_849l6_1690542941115_03-news-summary-template-story-Bunglow.mp4",
             "promoHeading": "Market Updates"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jBf9Z_1702450775169_03-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FT7Sv_1702450776612_03-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Wealth Insights"
+          }
         }
       ],
       "id": "tbmDqBxR9Dfz462qmDQDO",
@@ -64138,6 +64556,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RJrke_1690542186599_06-news-summary-template-story-Food.mp4",
             "promoHeading": "Savory News"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4fsun_1702453439398_06-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kCQNu_1702453440601_06-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Investment News"
+          }
         }
       ],
       "id": "IEssQKMEAeO4imNEaoiep",
@@ -64207,6 +64632,13 @@
       "templateId": "u-vyUDw24ALAg_r7J21Xqw12",
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mXzO__1702462793505_01-news-summary-template-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_skP5w_1702462794731_01-news-summary-template-square-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
+        },
+        {
           "Travel": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wv9hW_1690544517649_01-news-summary-template-square-Travel.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bf0gP_1690544519891_01-news-summary-template-square-Travel.mp4",
@@ -64250,114 +64682,6 @@
         }
       ],
       "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-28T12:41:33.031Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666868588418_16-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5UdsP_1690547759090_04-news-summary-template-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "04-news-summary-template-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nts"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_y7vak_1690547759097_04-news-summary-template-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C02c5_1690547759095_04-news-summary-template-story.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0ldv1_1690548084006_04-news-summary-template-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gthhl_1690548089373_04-news-summary-template-story-Bunglow.mp4",
-            "promoHeading": "Market Updates"
-          }
-        },
-        {
-          "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Nlo4P_1690548084008_04-news-summary-template-story-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D7rji_1690548089375_04-news-summary-template-story-Healthcare.mp4",
-            "promoHeading": "Public Health"
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RYWaz_1690548084010_04-news-summary-template-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bdMd0_1690548089378_04-news-summary-template-story-Automobile.mp4",
-            "promoHeading": "Auto Updates"
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IDmae_1690548084015_04-news-summary-template-story-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XF0b8_1690548089386_04-news-summary-template-story-Travel.mp4",
-            "promoHeading": "Luxury Bliss"
-          }
-        },
-        {
-          "Technology": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FaEnV_1690548084019_04-news-summary-template-story-Technology.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ysKcn_1690548089388_04-news-summary-template-story-Technology.mp4",
-            "promoHeading": "Data Insights"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SkB1__1690548084021_04-news-summary-template-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zWsbA_1690548089391_04-news-summary-template-story-Food.mp4",
-            "promoHeading": "Tasty Bites"
-          }
-        }
-      ],
-      "id": "cymqAaxsgGvfvu04uU5i-",
-      "templateId": "cymqAaxsgGvfvu04uU5i-"
     },
     {
       "version": 2,
@@ -64596,6 +64920,13 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0dbw3_1702461883710_02-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qv0u6_1702461885161_02-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Updates"
+          }
+        },
+        {
           "Bunglow": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFfN8_1690546582682_02-news-summary-template-story-Bunglow.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cpCvj_1690546585123_02-news-summary-template-story-Bunglow.mp4",
@@ -64636,11 +64967,91 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N0HXM_1690546585139_02-news-summary-template-story-Automobile.mp4",
             "promoHeading": ""
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_i03i7_1702450264274_02-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Q5Muy_1702450265696_02-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Tax Updates"
+          }
         }
       ]
     }
   ],
   "p_nbn": [
+    {
+      "id": "9sKUW_7_s2HCKj",
+      "templateId": "9sKUW_7_s2HCKj",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-13T06:19:54.723Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868607828_17-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_hstGU_1702448386549_04-breaking-news-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-breaking-news-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nbn"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GouCT_1702448386617_04-breaking-news-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VuqyJ_1702448386600_04-breaking-news-story.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "_BELq2-abmgyCDjJGUzCC",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__xkcw_1702448390806_04-breaking-news-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CXkau_1702448392280_04-breaking-news-story-Finance.mp4",
+            "promoHeading": "Investment News"
+          }
+        }
+      ]
+    },
     {
       "version": 2,
       "gifUrl": "",
@@ -64768,8 +65179,8 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mcb3T_1690881933420_03-breaking-news-square-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PR-OC_1690881937351_03-breaking-news-square-Finance.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Zlah0_1702446896301_03-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c443I_1702446897522_03-breaking-news-square-Finance.mp4",
             "promoHeading": "Market Updates"
           }
         }
@@ -65017,6 +65428,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MG4N1_1690779699985_02-breaking-news-square-Bunglow.mp4",
             "promoHeading": "Rental Insights"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lhBQL_1702380391321_02-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_T72jH_1702380392578_02-breaking-news-square-Finance.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -65085,6 +65503,13 @@
       "volume": 0.4,
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Phhw_1702458127178_01-breaking-news-portrait-updated-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5By6n_1702458128797_01-breaking-news-portrait-updated-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
+        },
+        {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_orym0_1690787569881_01-breaking-news-portrait-updated-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jEvxs_1690787575444_01-breaking-news-portrait-updated-Automobile.mp4",
@@ -65149,9 +65574,9 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IEcm1_1690787569893_01-breaking-news-portrait-updated-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8r4se_1690787575460_01-breaking-news-portrait-updated-Finance.mp4",
-            "promoHeading": "Wealth Insights"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BqyAw_1702445906242_01-breaking-news-portrait-updated-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QGJOW_1702445907462_01-breaking-news-portrait-updated-Finance.mp4",
+            "promoHeading": "Market Updates"
           }
         }
       ],
@@ -65285,15 +65710,17 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_so3yD_1690789092475_04-breaking-news-portrait-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_68EcG_1690789096438_04-breaking-news-portrait-Finance.mp4",
-            "promoHeading": "Tax Updates"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7vPy2_1702446344566_04-breaking-news-portrait-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSi_w_1702446345780_04-breaking-news-portrait-Finance.mp4",
+            "promoHeading": "Wealth Insights"
           }
         }
       ],
       "isMultipleTemplate": false
     },
     {
+      "id": "V5WDisyokj1a5Bwrxu3",
+      "templateId": "V5WDisyokj1a5Bwrxu3",
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -65308,11 +65735,11 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LKrhA_1685443242642_mixkit-tapis-615.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-07-31T07:25:28.803Z",
+      "pro": false,
+      "createdOn": "2023-12-13T11:01:29.162Z",
       "extraComps": [
         {
-          "index": 4,
+          "index": 3,
           "compId": "1667216269635_15-BrandOutro-post-4-5-New"
         }
       ],
@@ -65325,7 +65752,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_OSu-f_1690788079653_03-breaking-news-portrait.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gWoV7_1702464786520_03-breaking-news-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -65339,8 +65766,8 @@
       "category": [
         "p_nbn"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2PDbd_1690788080173_03-breaking-news-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h3F08_1690788080139_03-breaking-news-portrait.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YvvQO_1702464786743_03-breaking-news-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_29ddD_1702464786727_03-breaking-news-portrait.jpg",
       "imageType": "1200x800",
       "outroType": null,
       "introType": null,
@@ -65353,81 +65780,121 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.4,
-      "id": "c45zJydLAvPc5LXNZFEx8Vr2",
-      "templateId": "c45zJydLAvPc5LXNZFEx8Vr2",
+      "isMultipleTemplate": false,
       "previews": [
         {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_49Se9_1690788319388_03-breaking-news-portrait-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qmMg0_1690788323691_03-breaking-news-portrait-Automobile.mp4",
-            "promoHeading": "Auto Shows"
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MEYkH_1702465274640_03-breaking-news-portrait-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_q0Fzz_1702465279668_03-breaking-news-portrait-Finance.mp4",
+            "promoHeading": "Wealth Insights"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1SWiC_1702465274664_03-breaking-news-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HN-CV_1702465279671_03-breaking-news-portrait-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
           }
         },
         {
           "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pzCkp_1690788319389_03-breaking-news-portrait-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BNPdk_1690788323692_03-breaking-news-portrait-Bunglow.mp4",
-            "promoHeading": "Rental Insights"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MM-Sq_1702465274665_03-breaking-news-portrait-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iGDvb_1702465279672_03-breaking-news-portrait-Bunglow.mp4",
+            "promoHeading": "Housing Finance"
           }
         },
         {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jl_FQ_1690788319443_03-breaking-news-portrait-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SxZtn_1690788323695_03-breaking-news-portrait-Travel.mp4",
-            "promoHeading": "Epic Escapes"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_J5b7q_1690788319444_03-breaking-news-portrait-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DOOeT_1690788323696_03-breaking-news-portrait-Food.mp4",
-            "promoHeading": "Savory News"
-          }
-        },
-        {
-          "Technology": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PPbJv_1690788319453_03-breaking-news-portrait-Technology.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GNQqW_1690788323698_03-breaking-news-portrait-Technology.mp4",
-            "promoHeading": "Tech News"
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rJO0g_1702465274666_03-breaking-news-portrait-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kIaa7_1702465279673_03-breaking-news-portrait-Automobile.mp4",
+            "promoHeading": "Auto Industry"
           }
         },
         {
           "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S16F6_1690788319456_03-breaking-news-portrait-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yZ6e0_1690788323700_03-breaking-news-portrait-Healthcare.mp4",
-            "promoHeading": "Health Tech"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_b4cbw_1702465274667_03-breaking-news-portrait-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xgOJ7_1702465279675_03-breaking-news-portrait-Healthcare.mp4",
+            "promoHeading": "Public Health"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pWBvx_1702465274668_03-breaking-news-portrait-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qrnBf_1702465279677_03-breaking-news-portrait-Food.mp4",
+            "promoHeading": "Savory News"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7IxjG_1702465274669_03-breaking-news-portrait-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kADKv_1702465279679_03-breaking-news-portrait-Travel.mp4",
+            "promoHeading": "Luxury Bliss"
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_X2ZIy_1702465274670_03-breaking-news-portrait-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_f67SR_1702465279681_03-breaking-news-portrait-Technology.mp4",
+            "promoHeading": "News Today"
           }
         },
         {
           "Sports": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Xwtii_1690788319457_03-breaking-news-portrait-Sports.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SgZSF_1690788323883_03-breaking-news-portrait-Sports.mp4",
-            "promoHeading": "Begin Competing"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_q2U_2_1702465274671_03-breaking-news-portrait-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-kXbo_1702465279682_03-breaking-news-portrait-Sports.mp4",
+            "promoHeading": "Sport Insight"
           }
         },
         {
           "Politics": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xPoyN_1690788319458_03-breaking-news-portrait-Politics.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RfLTc_1690788323886_03-breaking-news-portrait-Politics.mp4",
-            "promoHeading": "Election News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dd0Xv_1702465274672_03-breaking-news-portrait-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UXNtF_1702465279684_03-breaking-news-portrait-Politics.mp4",
+            "promoHeading": "Power Struggles"
           }
         },
         {
           "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gkqxf_1690788319459_03-breaking-news-portrait-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3k9-7_1690788323888_03-breaking-news-portrait-Jobs.mp4",
-            "promoHeading": "Workforce News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_clCM4_1702465274673_03-breaking-news-portrait-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fHeed_1702465279686_03-breaking-news-portrait-Jobs.mp4",
+            "promoHeading": "Job Updates"
           }
         },
         {
-          "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_teyPa_1690788319460_03-breaking-news-portrait-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WR74P_1690788323890_03-breaking-news-portrait-Finance.mp4",
-            "promoHeading": "Crypto News"
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ipfwd_1702465274674_03-breaking-news-portrait-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1zmge_1702465279687_03-breaking-news-portrait-Entertainment.mp4",
+            "promoHeading": "Red Carpet"
+          }
+        },
+        {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OJwY3_1702465274684_03-breaking-news-portrait-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XTAfX_1702465279688_03-breaking-news-portrait-FMCG.mp4",
+            "promoHeading": "Shop Updates"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1Kk72_1702465274685_03-breaking-news-portrait-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pXJUA_1702465279690_03-breaking-news-portrait-NGO.mp4",
+            "promoHeading": "NGO Impact"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EHrcY_1702465274686_03-breaking-news-portrait-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LF56O_1702465279691_03-breaking-news-portrait-Legal.mp4",
+            "promoHeading": "Legal Advice"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YgaXO_1702465274711_03-breaking-news-portrait-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VzEKh_1702465279693_03-breaking-news-portrait-Education.mp4",
+            "promoHeading": "STEM Insights"
           }
         }
-      ],
-      "isMultipleTemplate": false
+      ]
     },
     {
       "version": 2,
@@ -65529,6 +65996,20 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tipl1_1688800377314_01-breaking-news-square-Healthcare.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VL-zl_1688800379466_01-breaking-news-square-Healthcare.mp4",
             "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7135G_1702380074481_01-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rRWR3_1702380075697_01-breaking-news-square-Finance.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_maQ3V_1702457362294_01-breaking-news-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_If0LP_1702457365189_01-breaking-news-square-Pharma.mp4",
+            "promoHeading": "Research News"
           }
         }
       ],
@@ -65905,9 +66386,16 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cgquQ_1690876725346_04-breaking-news-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BS0iV_1690876728916_04-breaking-news-story-Finance.mp4",
-            "promoHeading": "Tax Updates"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__xkcw_1702448390806_04-breaking-news-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CXkau_1702448392280_04-breaking-news-story-Finance.mp4",
+            "promoHeading": "Investment News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tL3WA_1702456859654_04-breaking-news-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe____CQ_1702456860896_04-breaking-news-story-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
           }
         }
       ],
@@ -73039,6 +73527,198 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T12:01:02.548Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wYptQ_1702036859805_01-mutual-funds-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-mutual-funds-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_mfdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KcfGv_1702036859809_01-mutual-funds-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nlxFR_1702036859807_01-mutual-funds-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "DpPY0Pf64_0",
+      "templateId": "DpPY0Pf64_0"
+    }
+  ],
+  "p_cryptCurr": [
+    {
+      "id": "z40Pf64_QM_0_D123",
+      "templateId": "z40Pf64_QM_0_D123",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-11T07:02:15.752Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mNU5e_1702278133283_01-finance-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_cryptCurr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8n1tC_1702278133288_01-finance-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4-Akb_1702278133286_01-finance-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "id": "z40Pf64_QM44nbD123",
+      "templateId": "z40Pf64_QM44nbD123",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T07:50:52.091Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2XNs8_1702021849713_01-topgainer-finance-post-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-topgainer-finance-post-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A823v_1702021849716_01-topgainer-finance-post-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_H9cNg_1702021849714_01-topgainer-finance-post-updated.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73089,14 +73769,274 @@
       "templateId": "DpPY0Pf64_QMnbD123"
     }
   ],
-  "p_cryptCurr": [],
   "p_tgtldata": [
+    {
+      "id": "DpPY440Pf64_Qpll3",
+      "templateId": "DpPY440Pf64_Qpll3",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-15T06:23:50.228Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_B3Jrs_1702621427147_01-finance-temall-for-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-finance-temall-for-all-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W51Dl_1702621427151_01-finance-temall-for-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFfxj_1702621427149_01-finance-temall-for-all-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "787_1_6yuyu",
+      "templateId": "787_1_6yuyu",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-11T12:16:00.548Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_iLiEY_1702296958081_03-multi-topgainers.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-multi-topgainers",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_--3qR_1702296958086_03-multi-topgainers.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ULSjl_1702296958084_03-multi-topgainers.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
+      "id": "787_0_6yuyu",
+      "templateId": "787_0_6yuyu",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T12:31:21.981Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_1zjeW_1702038678834_03-multi-topgainers.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-multi-topgainers",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_puD13_1702038678840_03-multi-topgainers.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rUIyK_1702038678837_03-multi-topgainers.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
+      "id": "787_6yuyu",
+      "templateId": "787_6yuyu",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-08T10:59:20.408Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZtWQE_1702033158166_02-multi-topgainers.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-multi-topgainers",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_tgtldata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1rdB_1702033158171_02-multi-topgainers.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6MaWu_1702033158169_02-multi-topgainers.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73128,7 +74068,9 @@
       "name": "01-multiple-graph-post",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3OphE_1702023017894_01-multiple-graph-post.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Qp9b5_1702023017893_01-multiple-graph-post.jpg",
       "imageType": "Instagram Posts",
@@ -73147,16 +74089,21 @@
       "id": "78789+97456yuyu",
       "templateId": "78789+97456yuyu",
       "previews": []
-    }
-    ,
+    },
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
       "id": "6544654hfdjdjk",
       "templateId": "6544654hfdjdjk",
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2QtMg_1689060063446_music-classic-n.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73188,7 +74135,9 @@
       "name": "01-topgainer-multiple-finance-post-updated-heading",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9wTLw_1702023339120_01-topgainer-multiple-finance-post-updated-heading.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w5P3J_1702023339118_01-topgainer-multiple-finance-post-updated-heading.jpg",
       "imageType": "Instagram Posts",
@@ -73205,16 +74154,21 @@
       "volume": 1,
       "isMultipleTemplate": true,
       "previews": []
-    }
-,    
+    },
     {
       "version": 2,
       "id": "DpPY440Pf64_QM44nbD123",
       "templateId": "DpPY440Pf64_QM44nbD123",
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -73246,7 +74200,9 @@
       "name": "01-topgainer-finance-post-updated",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_tgtldata"],
+      "category": [
+        "p_tgtldata"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A823v_1702021849716_01-topgainer-finance-post-updated.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_H9cNg_1702021849714_01-topgainer-finance-post-updated.jpg",
       "imageType": "Instagram Posts",
@@ -73264,6 +74220,312 @@
       "isMultipleTemplate": false,
       "previews": []
     }
-    
+  ],
+  "p_financeGeneric": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-18T10:55:00.996Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9l62h_1702896898352_01-finance-all-multi-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-finance-all-multi-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Khf2l_1702896898356_01-finance-all-multi-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FwJR6_1702896898354_01-finance-all-multi-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "DpPY44_0_dl3",
+      "templateId": "DpPY44_0_dl3"
+    },
+    {
+      "id": "DpPY440Plcdl3",
+      "templateId": "DpPY440Plcdl3",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-15T13:16:52.483Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aB8XW_1702646210236_01-template-for-all-post-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-template-for-all-post-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Dyint_1702646210239_01-template-for-all-post-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CDuCw_1702646210237_01-template-for-all-post-multi.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
+      "id": "DpPY440Pfmkillll3",
+      "templateId": "DpPY440Pfmkillll3",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-15T10:54:57.526Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FLHEo_1702637694998_01-finance-temall-for-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-finance-temall-for-all-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Zlvo6_1702637695001_01-finance-temall-for-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RMpgn_1702637695000_01-finance-temall-for-all-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "DpPY440_ki__l3",
+      "templateId": "DpPY440_ki__l3",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-15T12:46:56.439Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_KplhJ_1702644414128_01-template-for-all-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-template-for-all-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cVmVO_1702644414131_01-template-for-all-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZYtIg_1702644414130_01-template-for-all-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-15T13:02:26.399Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6w63Y_1702645344053_02-template-for-all-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-template-for-all-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1I9J7_1702645344055_02-template-for-all-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_X60ID_1702645344054_02-template-for-all-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "DpPY440Pfmki__l3",
+      "templateId": "DpPY440Pfmki__l3"
+    }
   ]
 }

@@ -1,6 +1,142 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_22_cftyrs",
+      "templateId": "mlpn_22_cftyrs",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-20T10:24:53.967Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868543799_14-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_052C4_1703067331546_07-festive-offer-new-year-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "07-festive-offer-new-year-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4LDRh_1703067331630_07-festive-offer-new-year-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w_7PX_1703067331605_07-festive-offer-new-year-story.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zFgl7_1703067871976_07-festive-offer-new-year-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-YTbE_1703067881178_07-festive-offer-new-year-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FmvYy_1703067872031_07-festive-offer-new-year-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WTnae_1703067881180_07-festive-offer-new-year-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ycyaE_1703067872088_07-festive-offer-new-year-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bH8dP_1703067881182_07-festive-offer-new-year-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4ak02_1703067872090_07-festive-offer-new-year-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ql8XA_1703067881184_07-festive-offer-new-year-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8DcFV_1703067872115_07-festive-offer-new-year-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NIEet_1703067881185_07-festive-offer-new-year-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P4wrF_1703067872136_07-festive-offer-new-year-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZpA6X_1703067881187_07-festive-offer-new-year-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0faht_1703067872138_07-festive-offer-new-year-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WN5fk_1703067881188_07-festive-offer-new-year-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n7adC_1703067872139_07-festive-offer-new-year-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4o8JE_1703067881190_07-festive-offer-new-year-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wWt9r_1703067872141_07-festive-offer-new-year-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JmIS1_1703067881191_07-festive-offer-new-year-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pwtTN_1703067872142_07-festive-offer-new-year-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YlOAC_1703067881192_07-festive-offer-new-year-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_21_cftyrs",
       "templateId": "mlpn_21_cftyrs",
       "version": 1,
@@ -72341,7 +72477,7 @@
           "Finance": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yVwbh_1702969418085_01-tip-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MAK4r_1702969419962_01-tip-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/finance-images/post/pexels-саша-алалыкин-16886243.jpg",
+            "imgUrl": "https://cdn.hootout.com/finance-images/post/pexels-img-16886243.jpg",
             "promoHeading": ""
           }
         }

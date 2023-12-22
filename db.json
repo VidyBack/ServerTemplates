@@ -64152,6 +64152,184 @@
   ],
   "p_nts": [
     {
+      "id": "1qFPtl39_2_T2EU6N",
+      "templateId": "1qFPtl39_2_T2EU6N",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LKg7O_1663651233959_mixkit-dance-zero-740.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-22T11:50:05.163Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_BlduW_1703245463146_03-news-summary-template-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-news-summary-template-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nts"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iSmbT_1703245463176_03-news-summary-template-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_D2KVL_1703245463175_03-news-summary-template-square.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FntpO_1703245791346_03-news-summary-template-square-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cxdvg_1703245796155_03-news-summary-template-square-FMCG.mp4",
+            "promoHeading": "Store Closures"
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_33tCQ_1703245791348_03-news-summary-template-square-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ha80u_1703245796172_03-news-summary-template-square-Automobile.mp4",
+            "promoHeading": "Auto Shows"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_a6TRL_1703245791350_03-news-summary-template-square-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_C6TXm_1703245796176_03-news-summary-template-square-Bunglow.mp4",
+            "promoHeading": "Rental Insights"
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sbudS_1703245791352_03-news-summary-template-square-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_d6awL_1703245796180_03-news-summary-template-square-Sports.mp4",
+            "promoHeading": "Game Updates"
+          }
+        },
+        {
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8kZUW_1703245791354_03-news-summary-template-square-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ck9ec_1703245796185_03-news-summary-template-square-Entertainment.mp4",
+            "promoHeading": "Celebrity Buzz"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_99Lqz_1703245791378_03-news-summary-template-square-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_A1SXg_1703245796189_03-news-summary-template-square-Education.mp4",
+            "promoHeading": "School News"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_gqar__1703245791438_03-news-summary-template-square-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qmi7q_1703245796193_03-news-summary-template-square-Travel.mp4",
+            "promoHeading": "Tasty Journeys"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nDskj_1703245791440_03-news-summary-template-square-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tWmsB_1703245796198_03-news-summary-template-square-Food.mp4",
+            "promoHeading": "Healthy Eats"
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9j3C1_1703245791440_03-news-summary-template-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9IrSS_1703245796199_03-news-summary-template-square-Finance.mp4",
+            "promoHeading": "Tax Updates"
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5ZxcX_1703245791441_03-news-summary-template-square-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UFRyO_1703245796201_03-news-summary-template-square-Jobs.mp4",
+            "promoHeading": "Remote Work"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FtiHJ_1703245791448_03-news-summary-template-square-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2kmdp_1703245796202_03-news-summary-template-square-NGO.mp4",
+            "promoHeading": "Volunteer News"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WRzfY_1703245791468_03-news-summary-template-square-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N4w5F_1703245796203_03-news-summary-template-square-Politics.mp4",
+            "promoHeading": "Political Buzz"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0uABU_1703245791469_03-news-summary-template-square-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Kp3eD_1703245796205_03-news-summary-template-square-Legal.mp4",
+            "promoHeading": "Case Highlights"
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lOma3_1703245791471_03-news-summary-template-square-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GxJgU_1703245796206_03-news-summary-template-square-Technology.mp4",
+            "promoHeading": "AI Advancements"
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_80pY2_1703245791472_03-news-summary-template-square-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aneUo_1703245796208_03-news-summary-template-square-Healthcare.mp4",
+            "promoHeading": "Health Updates"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oEPAK_1703245791474_03-news-summary-template-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_coNhV_1703245796209_03-news-summary-template-square-Pharma.mp4",
+            "promoHeading": "Drug Updates"
+          }
+        }
+      ]
+    },
+    {
       "id": "1qFPtl39_1_T2EU6N",
       "templateId": "1qFPtl39_1_T2EU6N",
       "version": 2,

@@ -75243,8 +75243,8 @@
       "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Soft/mixkit-island-beat-250.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-12-21T10:47:34.818Z",
+      "pro": false,
+      "createdOn": "2023-12-27T07:23:42.132Z",
       "extraComps": [
         {
           "index": 2,
@@ -75260,7 +75260,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-ODXp_1703155652544_02-finance-all-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9NvQ6_1703661819624_02-finance-all-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -75274,8 +75274,8 @@
       "category": [
         "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KTJLZ_1703155652547_02-finance-all-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TGtyo_1703155652546_02-finance-all-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_sOpsG_1703661819629_02-finance-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lZPYB_1703661819627_02-finance-all-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,

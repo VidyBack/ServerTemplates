@@ -75097,6 +75097,71 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "DpPYlllppp3_2",
+      "templateId": "DpPYlllppp3_2",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Soft/mixkit-island-beat-250.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-27T07:59:15.397Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_WqfSs_1703663953109_02-finance-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-finance-all-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NR8Cv_1703663953112_02-finance-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_44vIS_1703663953110_02-finance-all-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "DpPYlllppp3_1",
       "templateId": "DpPYlllppp3_1",
       "version": 2,

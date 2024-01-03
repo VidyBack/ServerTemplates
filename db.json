@@ -2811,6 +2811,71 @@
   ],
   "p_fest": [
     {
+      "id": "mlpn_23_cftyr",
+      "templateId": "mlpn_23_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Soft/mixkit-motivation-gets-in-the-way-519.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-03T05:08:49.528Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe__sMqq_1704258525943_16-republic-day-festive-greeting-squaree.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "16-republic-day-festive-greeting-squaree",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a3yyb_1704258526058_16-republic-day-festive-greeting-squaree.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RKmpX_1704258525990_16-republic-day-festive-greeting-squaree.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "mlpn_22_cftyr",
       "templateId": "mlpn_22_cftyr",
       "version": 1,

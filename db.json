@@ -77714,5 +77714,267 @@
       "id": "DpPY440Pfmki__l3",
       "templateId": "DpPY440Pfmki__l3"
     }
+  ],
+  "p_au_pc": [
+    {
+      "id": "Dw7vs_3_zqL",
+      "templateId": "Dw7vs_3_zqL",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7LVxM_1688385916360_fables_01_01_aesop.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-04T07:51:25.335Z",
+      "extraComps": [
+        {
+          "index": 1,
+          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r0QEK_1704354681811_06-podcast-post-spotify-approval.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "06-podcast-post-spotify-approval",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DQXQH_1704354681814_06-podcast-post-spotify-approval.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FdkpJ_1704354681813_06-podcast-post-spotify-approval.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "Dw7vs_2_zqL",
+      "templateId": "Dw7vs_2_zqL",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7LVxM_1688385916360_fables_01_01_aesop.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-04T07:49:32.007Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_MzLHf_1704354568891_05-podcast-post-spotify.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "05-podcast-post-spotify",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RFoK1_1704354568975_05-podcast-post-spotify.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XdvP2_1704354568974_05-podcast-post-spotify.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "Dw7vs_1_zqL",
+      "templateId": "Dw7vs_1_zqL",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7LVxM_1688385916360_fables_01_01_aesop.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-04T07:43:40.631Z",
+      "extraComps": [
+        {
+          "index": 1,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_siApM_1704354218237_04-podcast-story-spotify-approval.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-podcast-story-spotify-approval",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gvyks_1704354218241_04-podcast-story-spotify-approval.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lhKJW_1704354218239_04-podcast-story-spotify-approval.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "Dw7vs_0_zqL",
+      "templateId": "Dw7vs_0_zqL",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7LVxM_1688385916360_fables_01_01_aesop.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-04T07:27:31.403Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IkNXV_1704353247017_03-podcast-story-spotify-transcription.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-podcast-story-spotify-transcription",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JYlYk_1704353247022_03-podcast-story-spotify-transcription.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pr-8x_1704353247020_03-podcast-story-spotify-transcription.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    }
   ]
 }

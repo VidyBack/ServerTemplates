@@ -75845,6 +75845,71 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "DpPYlllppp3_16",
+      "templateId": "DpPYlllppp3_16",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fT8Vt_1697804337367_edited-follow-me-home-350.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-05T08:11:24.472Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1703752833435_01 Finance Story Brand outro"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ffVkP_1704442281763_03-finance-multi-all-story-updated-new.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-finance-multi-all-story-updated-new",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E7RtE_1704442281767_03-finance-multi-all-story-updated-new.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h5a4c_1704442281765_03-finance-multi-all-story-updated-new.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
       "id": "DpPYlllppp3_15",
       "templateId": "DpPYlllppp3_15",
       "version": 2,

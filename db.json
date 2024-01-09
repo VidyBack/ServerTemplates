@@ -75845,6 +75845,71 @@
   ],
   "p_financeGeneric": [
     {
+      "id": "DpPYlllppp3_24",
+      "templateId": "DpPYlllppp3_24",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-09T10:28:32.413Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1703752833435_01 Finance Story Brand outro"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_69aKs_1704796108651_05-finance-multi-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "05-finance-multi-all-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_financeGeneric"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FXMy7_1704796108654_05-finance-multi-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_e6sXs_1704796108653_05-finance-multi-all-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
       "id": "DpPYlllppp3_23",
       "templateId": "DpPYlllppp3_23",
       "version": 2,

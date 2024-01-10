@@ -71558,6 +71558,71 @@
   ],
   "p_nauto_quote": [
     {
+      "id": "nf48f7fdhe839w2d_2",
+      "templateId": "nf48f7fdhe839w2d_2",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ep7mP_1685442288659_mixkit-classical-4-711.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-10T11:30:01.923Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gBqOJ_1704886198156_01-portrait_1080x1350.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-portrait_1080x1350",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_quote"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NhJ97_1704886198164_01-portrait_1080x1350.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Mfky_1704886198159_01-portrait_1080x1350.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "sqym3NqJxHvx1w-bnc6-b",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "nf48f7fdhe839w2d_1",
       "templateId": "nf48f7fdhe839w2d_1",
       "version": 2,

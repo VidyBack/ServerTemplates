@@ -75983,6 +75983,64 @@
   ],
   "p_financeGeneric": [
     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-13T08:11:45.453Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1703765224044_01-finance-4x5-portrait-brand-outro"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7iLhN_1705133501462_03-finance-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "03-finance-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_financeGeneric"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YJzih_1705133501474_03-finance-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HommB_1705133501473_03-finance-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "id": "DpPYlllppp3_2624",
+      "templateId": "DpPYlllppp3_2624",
+      "previews": []
+    },
+    
+    {
       "id": "DpPYlllppp3_26",
       "templateId": "DpPYlllppp3_26",
       "version": 2,

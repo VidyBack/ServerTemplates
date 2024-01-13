@@ -76096,6 +76096,60 @@
       "templateId": "yetwqytwu52",
       "previews": []
     },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zAHi_1662719586550_Lonerism.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-13T12:57:32.122Z",
+      "extraComps": [
+        { "index": 2, "compId": "1703752833435_01 Finance Story Brand outro" }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_u5IEF_1705150649093_04-finance-all-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-finance-all-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_financeGeneric"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cKJVt_1705150649122_04-finance-all-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CUTV0_1705150649105_04-finance-all-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "id": "djshghsgfhds5656",
+      "templateId": "djshghsgfhds5656",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     
     {
       "id": "DpPYlllppp3_26",

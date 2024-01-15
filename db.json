@@ -2811,6 +2811,71 @@
   ],
   "p_fest": [
     {
+      "id": "mlpn_28_cftyr",
+      "templateId": "mlpn_28_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-15T11:48:32.943Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe__dmjH_1705319307110_41-makar-sakranti-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "41-makar-sakranti-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6yPUk_1705319307121_41-makar-sakranti-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cuSFp_1705319307119_41-makar-sakranti-festive-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "mlpn_27_cftyr",
       "templateId": "mlpn_27_cftyr",
       "version": 1,

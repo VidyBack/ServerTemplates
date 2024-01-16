@@ -2813,15 +2813,26 @@
     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
       "createdOn": "2024-01-15T13:05:30.104Z",
-      "extraComps": [{ "index": 3, "compId": "1666868629167_18-BrandOutro-Story" }],
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
       "widgetsDefinition": [
         {
           "mappingKeyMandatory": false,
@@ -2842,7 +2853,9 @@
       "name": "41-makar-sakranti-festive-greeting",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_fest"],
+      "category": [
+        "p_fest"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aotLj_1705323926459_41-makar-sakranti-festive-greeting.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qRE9A_1705323926458_41-makar-sakranti-festive-greeting.jpg",
       "imageType": "Instagram Stories",
@@ -2862,7 +2875,6 @@
       "templateId": "gfdkhgjkhdfjk555",
       "previews": []
     },
-    
     {
       "id": "mlpn_28_cftyr",
       "templateId": "mlpn_28_cftyr",
@@ -43144,6 +43156,71 @@
     }
   ],
   "p_ps": [
+    {
+      "id": "gihkPw9_5_k6yI2",
+      "templateId": "gihkPw9_5_k6yI2",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qD8oC_1702275443569_mixkit-hip-hop-01-737-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-16T07:22:10.212Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705389346749_19- brand outro-post-wth-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_M-cog_1705389726541_13-display-ads-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "13-display-ads-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ATMJm_1705389726553_13-display-ads-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_deq2L_1705389726551_13-display-ads-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     {
       "version": 1,
       "gifUrl": "",

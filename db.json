@@ -2811,6 +2811,136 @@
   ],
   "p_fest": [
     {
+      "id": "mlpn_32_cftyr",
+      "templateId": "mlpn_32_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Am050_1705389444280_break-away-85.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-17T11:02:28.400Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7REKz_1705489343225_15-valentines-festive-greeting-square-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "15-valentines-festive-greeting-square-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_whQr-_1705489343248_15-valentines-festive-greeting-square-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UwnyY_1705489343239_15-valentines-festive-greeting-square-updated.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "mlpn_31_cftyr",
+      "templateId": "mlpn_31_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Dns9X_1705389881974_sensual-pop-289.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-17T11:07:50.906Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868522840_13-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fh-vV_1705489666803_39-valentines-day-festive-greeting-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "39-valentines-day-festive-greeting-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9l-SJ_1705489666806_39-valentines-day-festive-greeting-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oLXcm_1705489666804_39-valentines-day-festive-greeting-updated.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "mlpn_30_cftyr",
       "templateId": "mlpn_30_cftyr",
       "version": 1,

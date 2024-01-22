@@ -14525,6 +14525,149 @@
   ],
   "p_dPr": [
     {
+      "id": "DpPY0Pf64_4_1MnbDB",
+      "templateId": "DpPY0Pf64_4_1MnbDB",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qD8oC_1702275443569_mixkit-hip-hop-01-737-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-22T06:01:53.487Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705660689130_21 Youtube Outro"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_jDGPj_1705903056880_03-discounted-price-youtube-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Youtube Videos",
+      "name": "03-discounted-price-youtube-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dPr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7kkog_1705903056887_03-discounted-price-youtube-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dlsye_1705903056885_03-discounted-price-youtube-template.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_O1kOz_1705903300301_03-discounted-price-youtube-template-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-0UZl_1705903303997_03-discounted-price-youtube-template-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tfWOm_1705903300302_03-discounted-price-youtube-template-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HjgKe_1705903303999_03-discounted-price-youtube-template-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zRdS0_1705903300303_03-discounted-price-youtube-template-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IW75O_1705903304000_03-discounted-price-youtube-template-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GzU8a_1705903300305_03-discounted-price-youtube-template-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QLR3O_1705903304002_03-discounted-price-youtube-template-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TuKYh_1705903300306_03-discounted-price-youtube-template-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LsL81_1705903304004_03-discounted-price-youtube-template-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uTMxh_1705903300308_03-discounted-price-youtube-template-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_O_C29_1705903304005_03-discounted-price-youtube-template-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_x-Mz__1705903300309_03-discounted-price-youtube-template-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KWPFe_1705903304007_03-discounted-price-youtube-template-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NRkbK_1705903300310_03-discounted-price-youtube-template-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ohvg8_1705903304008_03-discounted-price-youtube-template-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8Bqe5_1705903300311_03-discounted-price-youtube-template-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uWlGc_1705903304010_03-discounted-price-youtube-template-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Y4Sr-_1705903300312_03-discounted-price-youtube-template-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KTQOq_1705903304011_03-discounted-price-youtube-template-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zZl_H_1705903300313_03-discounted-price-youtube-template-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qsp-L_1705903304014_03-discounted-price-youtube-template-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [

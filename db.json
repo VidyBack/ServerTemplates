@@ -14668,6 +14668,149 @@
   ],
   "p_dPr": [
     {
+      "id": "DpPY0Pf64_5_1MnbDB",
+      "templateId": "DpPY0Pf64_5_1MnbDB",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bZX6e_1696574207413_mixkit-our-nights-627.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-22T08:44:52.250Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705660689130_21 Youtube Outro"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aHBZY_1705912778433_04-discounted-price-youtube-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Youtube Videos",
+      "name": "04-discounted-price-youtube-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dPr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RMhor_1705912778446_04-discounted-price-youtube-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5GpzQ_1705912778444_04-discounted-price-youtube-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QH8yN_1705913081655_04-discounted-price-youtube-template-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OUcKQ_1705913085615_04-discounted-price-youtube-template-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MAe03_1705913081656_04-discounted-price-youtube-template-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XJoDl_1705913085618_04-discounted-price-youtube-template-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3YkuX_1705913081658_04-discounted-price-youtube-template-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_se6mm_1705913085620_04-discounted-price-youtube-template-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GBgox_1705913081659_04-discounted-price-youtube-template-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1wnOA_1705913085621_04-discounted-price-youtube-template-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_53P8c_1705913081660_04-discounted-price-youtube-template-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3LeZ2_1705913085623_04-discounted-price-youtube-template-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7g3Sm_1705913081661_04-discounted-price-youtube-template-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_acQJe_1705913085625_04-discounted-price-youtube-template-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hVpbQ_1705913081662_04-discounted-price-youtube-template-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6Rn-B_1705913085627_04-discounted-price-youtube-template-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ad3t4_1705913081663_04-discounted-price-youtube-template-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Mu1Di_1705913085629_04-discounted-price-youtube-template-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e9Pvq_1705913081664_04-discounted-price-youtube-template-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YdPCu_1705913085631_04-discounted-price-youtube-template-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_syGd8_1705913081665_04-discounted-price-youtube-template-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KvpHL_1705913085633_04-discounted-price-youtube-template-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mi3qX_1705913081666_04-discounted-price-youtube-template-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qqMf0_1705913085635_04-discounted-price-youtube-template-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "DpPY0Pf64_4_1MnbDB",
       "templateId": "DpPY0Pf64_4_1MnbDB",
       "version": 1,

@@ -2815,6 +2815,7 @@
       "templateId": "mlpn_32_cftyr",
       "version": 1,
       "gifUrl": "",
+      "month":["january","febuary"],
       "bgVideoUrl": [
         ""
       ],

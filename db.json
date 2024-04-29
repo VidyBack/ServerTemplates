@@ -637,6 +637,138 @@
   "p_fest": [
     {"version":1,"gifUrl":"", "id":"mlpn_307_cftyrs","templateId":"mlpn_307_cftyrs","month":"april","bgVideoUrl":[""],"fontUrl":[""],"bgImageUrl":[""],"bgMusicUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_Am050_1705389444280_break-away-85.mp3","fillEnabled":true,"forWebsites":[],"pro":false,"createdOn":"2024-04-05T05:29:10.841Z","extraComps":[{"index":3,"compId":"1705396727541_20-brand-outro-story-design 2"}],"widgetsDefinition":[{"mappingKeyMandatory":false,"Height":"100%","Width":"100%","StartTime":0,"EndTime":-1,"URLS":[],"mappingKeyValue":"","URL":"https://cdn.hootout.com/VidyBack-videos/vbe_xg0Sw_1712294943751_45-gudi-padwa-festive-greeting.json","X":"0.0%","Y":"0.0%","type":"SVG_SINGLE","duration":10}],"type":"Instagram Stories","name":"45-gudi-padwa-festive-greeting","brandEnabled":false,"brandType":"X1","category":["p_fest"],"vidUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_qw-Y8_1712294943952_45-gudi-padwa-festive-greeting.mp4","thumbUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_kH1PU_1712294943914_45-gudi-padwa-festive-greeting.jpg","imageType":"Instagram Stories","outroType":null,"introType":null,"Height":1920,"Width":1080,"height":1920,"width":1080,"introId":null,"outroId":null,"isTransparent":false,"AddId":"","volume":0.5,"isMultipleTemplate":false,"previews":[]},
     {
+      "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_401_cftyrs","templateId":"mlpn_401_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-22T11:19:50.343Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_z9tDW_1713784784600_49-earth-day-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "49-earth-day-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JeGTn_1713784784618_49-earth-day-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5AgzZ_1713784784612_49-earth-day-festive-greeting.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "april",
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_400_cftyrs","templateId":"mlpn_400_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-29T08:46:55.811Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NsbOF_1714380409900_50-memorial-day-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "50-memorial-day-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uOWbt_1714380410010_50-memorial-day-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PbcUh_1714380410008_50-memorial-day-festive-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.9,
+      "noBlur": false,
+      "month": "may",
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id":"mlpn_350_cftyrs","templateId":"mlpn_350_cftyrs",
       "version": 1,
       "gifUrl": "",

@@ -2,6 +2,151 @@
   "p_occasional": [
     {
       "version": 1,
+      "id":"mlpn_320_cftyrs","templateId":"mlpn_320_cftyrs",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yR4Zv_1697449864692_Outside.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-30T08:52:16.903Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8WjFT_1714466858389_12-festive-offers-memorial-day-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "12-festive-offers-memorial-day-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-XQ1X_1714466859479_12-festive-offers-memorial-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lAk-B_1714466859334_12-festive-offers-memorial-day-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": true,
+      "month": "may",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GduLZ_1714467126039_12-festive-offers-memorial-day-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8VvgN_1714467130302_12-festive-offers-memorial-day-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d7Mg9_1714467126040_12-festive-offers-memorial-day-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MSEFN_1714467130303_12-festive-offers-memorial-day-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yFfua_1714467126041_12-festive-offers-memorial-day-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_M_mXt_1714467130330_12-festive-offers-memorial-day-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u4Fkq_1714467126042_12-festive-offers-memorial-day-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N0_oY_1714467130332_12-festive-offers-memorial-day-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rsMIs_1714467126056_12-festive-offers-memorial-day-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Zd-Rs_1714467130334_12-festive-offers-memorial-day-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C9oZ2_1714467126057_12-festive-offers-memorial-day-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6-5YZ_1714467130336_12-festive-offers-memorial-day-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4Zfns_1714467126132_12-festive-offers-memorial-day-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-IOP8_1714467130338_12-festive-offers-memorial-day-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_E9W7P_1714467126144_12-festive-offers-memorial-day-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_w7Yet_1714467130339_12-festive-offers-memorial-day-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_752TP_1714467126165_12-festive-offers-memorial-day-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Rwqd5_1714467130391_12-festive-offers-memorial-day-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3tU2S_1714467126254_12-festive-offers-memorial-day-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_z25aS_1714467130392_12-festive-offers-memorial-day-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_a4u5K_1714467126265_12-festive-offers-memorial-day-story-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5ispB_1714467130394_12-festive-offers-memorial-day-story-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    }
+,    
+    {
+      "version": 1,
       "gifUrl": "",
       "id":"mlpn_312_cftyrs","templateId":"mlpn_312_cftyrs",
 
@@ -744,7 +889,7 @@
         }
       ]
     },
-
+   
 
 
     {"version":1,"gifUrl":"","id":"mlpn_300_cftyrs","templateId":"mlpn_300_cftyrs","bgVideoUrl":[""],"fontUrl":[""],"bgImageUrl":[""],"month":"april","bgMusicUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_LAvAW_1702275324168_mixkit-blindfolded-194-updated.mp3.mp3","fillEnabled":true,"forWebsites":[],"pro":false,"createdOn":"2024-03-26T13:40:53.570Z","extraComps":[{"index":4,"compId":"1705396727541_20-brand-outro-story-design 2"}],"widgetsDefinition":[{"mappingKeyMandatory":false,"Height":"100%","Width":"100%","StartTime":0,"EndTime":-1,"URLS":[],"mappingKeyValue":"","URL":"https://cdn.hootout.com/VidyBack-videos/vbe_E-h0S_1711460130609_09-festive-offer-world-health-day.json","X":"0.0%","Y":"0.0%","type":"SVG_SINGLE","duration":10}],"type":"Instagram Stories","name":"09-festive-offer-world-health-day","brandEnabled":false,"brandType":"X1","category":["p_occasional"],"vidUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_6tCEi_1711460130638_09-festive-offer-world-health-day.mp4","thumbUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_rWV5k_1711460130623_09-festive-offer-world-health-day.jpg","imageType":"Instagram Posts","outroType":null,"introType":null,"Height":1920,"Width":1080,"height":1920,"width":1080,"introId":null,"outroId":null,"isTransparent":false,"AddId":"","volume":0.4,"isMultipleTemplate":false,"previews":[{"Accessories":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_Zvhfx_1711460443222_09-festive-offer-world-health-day-Accessories.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_g0R0u_1711460448158_09-festive-offer-world-health-day-Accessories.mp4","promoHeading":""}},{"Toys":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_h6Bb9_1711460443224_09-festive-offer-world-health-day-Toys.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_uwyYN_1711460448373_09-festive-offer-world-health-day-Toys.mp4","promoHeading":""}},{"Perfumes":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_f18-7_1711460443225_09-festive-offer-world-health-day-Perfumes.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_R-I7c_1711460448375_09-festive-offer-world-health-day-Perfumes.mp4","promoHeading":""}},{"BagPurse":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_dM5OH_1711460443226_09-festive-offer-world-health-day-BagPurse.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_Jatf8_1711460448376_09-festive-offer-world-health-day-BagPurse.mp4","promoHeading":""}},{"MobileElec":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_yPtgu_1711460443228_09-festive-offer-world-health-day-MobileElec.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_hLwld_1711460448378_09-festive-offer-world-health-day-MobileElec.mp4","promoHeading":""}},{"Clothings":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_XIFvs_1711460443253_09-festive-offer-world-health-day-Clothings.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_PMA2d_1711460448380_09-festive-offer-world-health-day-Clothings.mp4","promoHeading":""}},{"Footwear":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_51X3E_1711460443254_09-festive-offer-world-health-day-Footwear.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_1Ue9S_1711460448381_09-festive-offer-world-health-day-Footwear.mp4","promoHeading":""}},{"Jewellery":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_WhIrd_1711460443255_09-festive-offer-world-health-day-Jewellery.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_1i8Mh_1711460448382_09-festive-offer-world-health-day-Jewellery.mp4","promoHeading":""}},{"Wearables":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_wbVVP_1711460443256_09-festive-offer-world-health-day-Wearables.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_rGG57_1711460448384_09-festive-offer-world-health-day-Wearables.mp4","promoHeading":""}},{"HomeDecor":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_31gg__1711460443257_09-festive-offer-world-health-day-HomeDecor.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_nP61G_1711460448385_09-festive-offer-world-health-day-HomeDecor.mp4","promoHeading":""}}]}
@@ -780,6 +925,72 @@
       "id":"mlpn_1_cftyr","templateId":"mlpn_1_cftyr","month":"december"},
       {"id":"mlpn_011_cftyr","templateId":"mlpn_011_cftyr","version":1,"gifUrl":"","bgVideoUrl":[""],"fontUrl":[""],"bgImageUrl":[""],"bgMusicUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_XZA4S_1671198521738_hollidays-690-christmas.mp3","fillEnabled":true,"forWebsites":[],"pro":false,"createdOn":"2023-11-23T07:16:24.289Z","extraComps":[{"index":4,"compId":"1666868563760_15-BrandOutro-Story"}],"widgetsDefinition":[{"mappingKeyMandatory":false,"Height":"100%","Width":"100%","StartTime":0,"EndTime":-1,"URLS":[],"mappingKeyValue":"","URL":"https://cdn.hootout.com/VidyBack-videos/vbe_iWrLY_1700723248521_07-multiple-products-Christmas-special-multi.json","X":"0.0%","Y":"0.0%","type":"SVG_SINGLE","duration":10}],"type":"Instagram Stories","name":"07-multiple-products-Christmas-special-multi","brandEnabled":false,"brandType":"X1","category":["p_occasional"],"vidUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_5Bxjp_1700723248526_07-multiple-products-Christmas-special-multi.mp4","thumbUrl":"https://cdn.hootout.com/VidyBack-videos/vbe_SYOyN_1700723248524_07-multiple-products-Christmas-special-multi.jpg","imageType":"Instagram Stories","outroType":null,"introType":null,"Height":1920,"Width":1080,"height":1920,"width":1080,"introId":null,"outroId":null,"isTransparent":false,"AddId":"","volume":1,"isMultipleTemplate":false,"previews":[{"HealthFitness":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_ZX0u7_1700723775223_07-multiple-products-Christmas-special-multi-HealthFitness.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_tn8sa_1700723778785_07-multiple-products-Christmas-special-multi-HealthFitness.mp4","promoHeading":""}},{"Perfumes":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_EetRM_1700723775226_07-multiple-products-Christmas-special-multi-Perfumes.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_Nd6S3_1700723778787_07-multiple-products-Christmas-special-multi-Perfumes.mp4","promoHeading":""}},{"BagPurse":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_O4YwD_1700723775228_07-multiple-products-Christmas-special-multi-BagPurse.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_CrLhW_1700723778789_07-multiple-products-Christmas-special-multi-BagPurse.mp4","promoHeading":""}},{"HealthBeauty":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_eD_FE_1700723775230_07-multiple-products-Christmas-special-multi-HealthBeauty.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_aq8eV_1700723778792_07-multiple-products-Christmas-special-multi-HealthBeauty.mp4","promoHeading":""}},{"Clothings":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_LFctg_1700723775232_07-multiple-products-Christmas-special-multi-Clothings.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_K5hWF_1700723778795_07-multiple-products-Christmas-special-multi-Clothings.mp4","promoHeading":""}},{"Footwear":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_4020Q_1700723775233_07-multiple-products-Christmas-special-multi-Footwear.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_Kc2zH_1700723778797_07-multiple-products-Christmas-special-multi-Footwear.mp4","promoHeading":""}},{"Jewellery":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_knDbO_1700723775235_07-multiple-products-Christmas-special-multi-Jewellery.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_T9jx2_1700723778799_07-multiple-products-Christmas-special-multi-Jewellery.mp4","promoHeading":""}},{"Electronics":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_qrz7M_1700723775237_07-multiple-products-Christmas-special-multi-Electronics.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_gzLyU_1700723778801_07-multiple-products-Christmas-special-multi-Electronics.mp4","promoHeading":""}},{"Wearables":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_NYkb3_1700723775238_07-multiple-products-Christmas-special-multi-Wearables.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_K5s-O_1700723778803_07-multiple-products-Christmas-special-multi-Wearables.mp4","promoHeading":""}},{"HomeDecor":{"thumbnail":"https://cdn.hootout.com/VidyBack-videos/vbe_2V1Xr_1700723775240_07-multiple-products-Christmas-special-multi-HomeDecor.jpg","preview":"https://cdn.hootout.com/VidyBack-videos/vbe_i5d5B_1700723778804_07-multiple-products-Christmas-special-multi-HomeDecor.mp4","promoHeading":""}}],"month":"march"}],
   "p_fest": [
+    {
+      "version": 1,
+      "id":"mlpn_411_cftyr","templateId":"mlpn_411_cftyr",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-30T08:28:30.633Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705575891091_22-outro-story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_k66NS_1714465698646_50-memorial-day-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "50-memorial-day-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cLVNC_1714465698823_50-memorial-day-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MpmCR_1714465698821_50-memorial-day-festive-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.9,
+      "noBlur": false,
+      "month": "may",
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     {
       "version": 1,
       "gifUrl": "",

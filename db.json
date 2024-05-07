@@ -784,6 +784,7 @@
       "volume": 0.8,
       "noBlur": true,
       "month": "may",
+      "day":26,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -930,6 +931,7 @@
       "volume": 0.8,
       "noBlur": true,
       "month": "may",
+      "day":26,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -1708,6 +1710,7 @@
       "AddId": "",
       "volume": 0.9,
       "noBlur": false,
+      "day":26,
       "month": "may",
       "isMultipleTemplate": false,
       "previews": []
@@ -1907,6 +1910,7 @@
       "AddId": "",
       "volume": 0.9,
       "noBlur": false,
+      "day":26,
       "month": "may",
       "isMultipleTemplate": false,
       "previews": []
@@ -4298,7 +4302,7 @@
       "version": 1,
       "gifUrl": "",
       "month":"may",
-
+      "day":12,   
       "bgVideoUrl": [
         ""
       ],
@@ -4354,6 +4358,7 @@
       "outroId": null,
       "isTransparent": false,
       "previews": [],
+      
       "id": "E_TVVLUxRv9RU7FCBINZW",
       "templateId": "E_TVVLUxRv9RU7FCBINZW",
       "isMultipleTemplate": false
@@ -4362,7 +4367,7 @@
       "version": 1,
       "gifUrl": "",
       "month":"may",
-
+      "day":12,
       "bgVideoUrl": [
         ""
       ],
@@ -6996,7 +7001,8 @@
     {
       "version": 1,
       "gifUrl": "",
-      "month":"june",
+      "month":"july",
+      "day":4,
 
       "bgVideoUrl": [
         ""
@@ -7195,7 +7201,7 @@
       "version": 2,
       "gifUrl": "",
       "month":"june",
-
+      "day":30,
       "bgVideoUrl": [
         ""
       ],

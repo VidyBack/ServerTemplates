@@ -2,6 +2,438 @@
   "p_occasional": [
     {
       "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_321_cftyrs","templateId":"mlpn_321_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RJKKf_1702275569992_mixkit-stay-with-me-838-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-05-07T14:04:16.157Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705578045857_22 Outro Portrait"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yPMgq_1715090453252_14-festive-offers-us-independence-day-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "14-festive-offers-us-independence-day-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CuHlH_1715090453266_14-festive-offers-us-independence-day-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7UwW-_1715090453264_14-festive-offers-us-independence-day-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": true,
+      "month": "july",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xFIsR_1715090644427_14-festive-offers-us-independence-day-portrait-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ifAe1_1715090648503_14-festive-offers-us-independence-day-portrait-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RifGC_1715090644428_14-festive-offers-us-independence-day-portrait-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WlGov_1715090648505_14-festive-offers-us-independence-day-portrait-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0EmN7_1715090644429_14-festive-offers-us-independence-day-portrait-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9jHYp_1715090648506_14-festive-offers-us-independence-day-portrait-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_s7RV4_1715090644430_14-festive-offers-us-independence-day-portrait-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4qBQ7_1715090648508_14-festive-offers-us-independence-day-portrait-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_X_y4U_1715090644431_14-festive-offers-us-independence-day-portrait-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Caw04_1715090648509_14-festive-offers-us-independence-day-portrait-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_71tfR_1715090644433_14-festive-offers-us-independence-day-portrait-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xtI2S_1715090648511_14-festive-offers-us-independence-day-portrait-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xOld0_1715090644434_14-festive-offers-us-independence-day-portrait-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gMr4-_1715090648513_14-festive-offers-us-independence-day-portrait-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__YOVB_1715090644435_14-festive-offers-us-independence-day-portrait-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__vy4m_1715090648515_14-festive-offers-us-independence-day-portrait-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_f8VUe_1715090644436_14-festive-offers-us-independence-day-portrait-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0fFiw_1715090648517_14-festive-offers-us-independence-day-portrait-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wWTJW_1715090644437_14-festive-offers-us-independence-day-portrait-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D2tor_1715090648519_14-festive-offers-us-independence-day-portrait-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c99BL_1715090644438_14-festive-offers-us-independence-day-portrait-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KPacK_1715090648520_14-festive-offers-us-independence-day-portrait-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_322_cftyrs","templateId":"mlpn_322_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LAvAW_1702275324168_mixkit-blindfolded-194-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-05-06T13:27:12.558Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SvZ6l_1715001806021_16-festive-offers-fathers-day-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "16-festive-offers-fathers-day-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Zfp0g_1715001806338_16-festive-offers-fathers-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LGmQX_1715001806280_16-festive-offers-fathers-day-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.6,
+      "noBlur": true,
+      "month": "june",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9kl3k_1715002018254_16-festive-offers-fathers-day-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JqmMT_1715002027729_16-festive-offers-fathers-day-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P_09D_1715002018256_16-festive-offers-fathers-day-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_guCD0_1715002027732_16-festive-offers-fathers-day-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zLKJy_1715002018258_16-festive-offers-fathers-day-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AY90R_1715002027733_16-festive-offers-fathers-day-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JojBS_1715002018259_16-festive-offers-fathers-day-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__NZuf_1715002027761_16-festive-offers-fathers-day-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u6HYf_1715002018260_16-festive-offers-fathers-day-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WjdF5_1715002027763_16-festive-offers-fathers-day-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QaQb1_1715002018342_16-festive-offers-fathers-day-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2wkvr_1715002027765_16-festive-offers-fathers-day-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xyc21_1715002018369_16-festive-offers-fathers-day-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ddqHT_1715002027766_16-festive-offers-fathers-day-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GIvX-_1715002018370_16-festive-offers-fathers-day-story-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_26pDv_1715002027768_16-festive-offers-fathers-day-story-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ldiO-_1715002018372_16-festive-offers-fathers-day-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bp_xr_1715002027769_16-festive-offers-fathers-day-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JBXxR_1715002018385_16-festive-offers-fathers-day-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dk5I0_1715002027771_16-festive-offers-fathers-day-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U5-if_1715002018386_16-festive-offers-fathers-day-story-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B_Gyu_1715002027772_16-festive-offers-fathers-day-story-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_319_cftyrs","templateId":"mlpn_319_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-05-07T07:51:25.869Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705578045857_22 Outro Portrait"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_i0RiM_1715068097438_13-festive-offers-labor-day-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "13-festive-offers-labor-day-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8Y_Jg_1715068097442_13-festive-offers-labor-day-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_osHxG_1715068097440_13-festive-offers-labor-day-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "noBlur": true,
+      "month": "september",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-Mb-b_1715068275154_13-festive-offers-labor-day-portrait-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yq4GD_1715068278464_13-festive-offers-labor-day-portrait-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yffqJ_1715068275156_13-festive-offers-labor-day-portrait-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KYEtf_1715068278466_13-festive-offers-labor-day-portrait-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G9MsB_1715068275157_13-festive-offers-labor-day-portrait-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ym6s2_1715068278468_13-festive-offers-labor-day-portrait-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_w6vrk_1715068275158_13-festive-offers-labor-day-portrait-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-M1ka_1715068278470_13-festive-offers-labor-day-portrait-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1Gr12_1715068275160_13-festive-offers-labor-day-portrait-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D1gf2_1715068278471_13-festive-offers-labor-day-portrait-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KulRO_1715068275161_13-festive-offers-labor-day-portrait-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_m6Xqt_1715068278473_13-festive-offers-labor-day-portrait-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yJ2ND_1715068275162_13-festive-offers-labor-day-portrait-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xNzPN_1715068278475_13-festive-offers-labor-day-portrait-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bD0xA_1715068275163_13-festive-offers-labor-day-portrait-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KelPW_1715068278477_13-festive-offers-labor-day-portrait-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_czKyz_1715068275164_13-festive-offers-labor-day-portrait-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yVBI6_1715068278478_13-festive-offers-labor-day-portrait-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lP8cW_1715068275165_13-festive-offers-labor-day-portrait-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMqIh_1715068278480_13-festive-offers-labor-day-portrait-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SGQOR_1715068275166_13-festive-offers-labor-day-portrait-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qcrgw_1715068278481_13-festive-offers-labor-day-portrait-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
       "id":"mlpn_318_cftyrs","templateId":"mlpn_318_cftyrs",
       "gifUrl": "",
       "bgVideoUrl": [

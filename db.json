@@ -3,6 +3,150 @@
     {
       "version": 1,
       "gifUrl": "",
+      "id":"mlpn_327_cftyrs","templateId":"mlpn_327_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6BKYF_1713876711262_mixkit-cant-get-you-off-my-mind-1210.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-05-10T08:19:30.750Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705406548658_21-outro-post-with-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_H-oEK_1715328866334_08-festive-offers-memorial-day-square.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "08-festive-offers-memorial-day-square",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fI86s_1715328866591_08-festive-offers-memorial-day-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_peIGq_1715328866517_08-festive-offers-memorial-day-square.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.6,
+      "noBlur": true,
+      "month": "may",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ned2I_1715329154769_08-festive-offers-memorial-day-square-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5fVQs_1715329163360_08-festive-offers-memorial-day-square-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_90Xc5_1715329154770_08-festive-offers-memorial-day-square-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4dCjx_1715329163361_08-festive-offers-memorial-day-square-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U15sL_1715329154772_08-festive-offers-memorial-day-square-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7e_Ug_1715329163363_08-festive-offers-memorial-day-square-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ayYD1_1715329154773_08-festive-offers-memorial-day-square-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_crEee_1715329163366_08-festive-offers-memorial-day-square-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RGGTj_1715329154775_08-festive-offers-memorial-day-square-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_s0i0y_1715329163368_08-festive-offers-memorial-day-square-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yjbwr_1715329154776_08-festive-offers-memorial-day-square-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LPuZg_1715329163369_08-festive-offers-memorial-day-square-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K5brU_1715329154777_08-festive-offers-memorial-day-square-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eeS0-_1715329163371_08-festive-offers-memorial-day-square-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QOduV_1715329154778_08-festive-offers-memorial-day-square-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_za-Qs_1715329163373_08-festive-offers-memorial-day-square-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_g787__1715329154780_08-festive-offers-memorial-day-square-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jBPN9_1715329163374_08-festive-offers-memorial-day-square-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_znB12_1715329154781_08-festive-offers-memorial-day-square-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Uhimy_1715329163375_08-festive-offers-memorial-day-square-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AeNn7_1715329154782_08-festive-offers-memorial-day-square-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WGbmw_1715329163377_08-festive-offers-memorial-day-square-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
       "id":"mlpn_326_cftyrs","templateId":"mlpn_326_cftyrs",
       "bgVideoUrl": [
         ""

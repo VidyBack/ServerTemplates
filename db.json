@@ -73297,6 +73297,73 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
+      "createdOn": "2024-05-30T07:22:56.773Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3dY1Z_1717053772571_template-test-size-reduce-k0001.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "template-test-size-reduce-k0001",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_na"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TxRDT_1717053772577_template-test-size-reduce-k0001.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dMaXZ_1717053772573_template-test-size-reduce-k0001.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.6,
+      "noBlur": true,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "8UgKE_xlDuaAwqG8JjAuPwx3",
+      "templateId": "8UgKE_xlDuaAwqG8JjAuPwx3"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0eelu_1716460298654_beating-break-174.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
       "createdOn": "2024-05-30T06:56:21.007Z",
       "extraComps": [
         {

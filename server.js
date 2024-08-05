@@ -1,10 +1,10 @@
-const jsonServer = require('json-server')
-const clone = require('clone')
-const data = require('./db.json')
+const jsonServer = require('json-server');
+const clone = require('clone');
+const data = require('./db.json');
 const cors = require('cors');
 
 const isProductionEnv = process.env.NODE_ENV === 'production';
-const server = jsonServer.create()
+const server = jsonServer.create();
 server.use(cors({
     origin: '*',
 }));
@@ -25,9 +25,9 @@ const customHeadersMiddleware = (req, res, next) => {
 const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
     _isFake: isProductionEnv
 });
-const middlewares = jsonServer.defaults()
+const middlewares = jsonServer.defaults();
 
-server.use(middlewares)
+server.use(middlewares);
 server.use(customHeadersMiddleware);
 
 // Custom route to update a template
@@ -38,7 +38,7 @@ server.put('/templates/:purpose/:id', (req, res) => {
     const db = router.db; // Get the lowdb instance
 
     // Find the template by id and update it
-    let template = db.get('p_occasional')
+    let template = db.get(purpose)
         .find({ id: id })
         .assign(updatedTemplate)
         .write();
@@ -46,16 +46,30 @@ server.put('/templates/:purpose/:id', (req, res) => {
     res.json(template);
 });
 
+// Custom route to add a new template
+server.post('/templates/:purpose', (req, res) => {
+    const purpose = req.params.purpose;
+    const newTemplate = req.body;
+    const db = router.db; // Get the lowdb instance
+
+    // Add the new template to the database
+    let template = db.get(purpose)
+        .push(newTemplate)
+        .write();
+
+    res.status(201).json(template);
+});
+
 server.use((req, res, next) => {
     if (req.path !== '/')
-        router.db.setState(clone(data))
-    next()
-})
+        router.db.setState(clone(data));
+    next();
+});
 
-server.use(router)
+server.use(router);
 server.listen(process.env.PORT || 8000, () => {
-    console.log('JSON Server is running at : http://localhost:8000')
-})
+    console.log('JSON Server is running at : http://localhost:8000');
+});
 
 // Export the Server API
-module.exports = server
+module.exports = server;

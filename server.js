@@ -9,7 +9,13 @@ server.use(cors({
     origin: '*',
 }));
 server.use((req, res, next) => {
-    res.set("Cross-Origin-Resource-Policy", "cross-origin");
+    res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
+
+    // ✅ Only add Cache-Control for GET requests
+    if (req.method === 'GET') {
+        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
+    }
+
     next();
 });
 const customHeadersMiddleware = (req, res, next) => {

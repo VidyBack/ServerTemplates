@@ -30,6 +30,12 @@ server.use(customHeadersMiddleware);
 // Cache middleware - MUST come after defaults to override json-server's cache headers
 server.use((req, res, next) => {
     if (req.method === 'GET') {
+        // Set Cache-Control headers for Vercel caching
+        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
+        res.removeHeader("Pragma");
+        res.removeHeader("Expires");
+        
+        // ETag implementation
         const originalSend = res.send;
 
         res.send = function (body) {
@@ -78,13 +84,16 @@ server.post('/templates/:purpose', (req, res) => {
     res.status(201).json(template);
 });
 
+// Database reset middleware - only for non-GET requests in production
 server.use((req, res, next) => {
-    if (req.path !== '/')
+    if (isProductionEnv && req.method !== 'GET' && req.path !== '/') {
         router.db.setState(clone(data));
+    }
     next();
 });
 
 server.use(router);
+
 server.listen(process.env.PORT || 8000, () => {
     console.log('JSON Server is running at : http://localhost:8000');
 });

@@ -30,10 +30,20 @@ server.use(customHeadersMiddleware);
 // Cache middleware - MUST come after defaults to override json-server's cache headers
 server.use((req, res, next) => {
     if (req.method === 'GET') {
-        // Override json-server's no-cache headers
-        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
-        res.removeHeader("Pragma");
-        res.removeHeader("Expires");
+        const originalSend = res.send;
+
+        res.send = function (body) {
+            const etag = `W/"${Buffer.byteLength(body)}-${require('crypto').createHash('sha1').update(body).digest('base64')}"`;
+
+            res.setHeader('ETag', etag);
+
+            if (req.headers['if-none-match'] === etag) {
+                res.statusCode = 304;
+                return res.end();
+            }
+
+            return originalSend.call(this, body);
+        };
     }
     next();
 });

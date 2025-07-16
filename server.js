@@ -5,36 +5,38 @@ const cors = require('cors');
 
 const isProductionEnv = process.env.NODE_ENV === 'production';
 const server = jsonServer.create();
+
 server.use(cors({
     origin: '*',
 }));
-server.use((req, res, next) => {
-    res.setHeader("Cross-Origin-Resource-Policy", "cross-origin");
-
-    // ✅ Only add Cache-Control for GET requests
-    if (req.method === 'GET') {
-        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
-    }
-
-    next();
-});
-const customHeadersMiddleware = (req, res, next) => {
-    // Set custom headers
-    res.setHeader('Access-Control-Allow-Origin', '*');
-    res.setHeader('Cross-Origin-Resource-Policy', '*');
-
-    // Continue with the next middleware or route handler
-    next();
-};
 
 // For mocking the POST request, POST request won't make any changes to the DB in production environment
 const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
     _isFake: isProductionEnv
 });
-const middlewares = jsonServer.defaults();
 
+const middlewares = jsonServer.defaults();
 server.use(middlewares);
+
+// Custom headers middleware
+const customHeadersMiddleware = (req, res, next) => {
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
+    next();
+};
+
 server.use(customHeadersMiddleware);
+
+// Cache middleware - MUST come after defaults to override json-server's cache headers
+server.use((req, res, next) => {
+    if (req.method === 'GET') {
+        // Override json-server's no-cache headers
+        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
+        res.removeHeader("Pragma");
+        res.removeHeader("Expires");
+    }
+    next();
+});
 
 // Custom route to update a template
 server.put('/templates/:purpose/:id', (req, res) => {

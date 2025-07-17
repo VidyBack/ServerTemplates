@@ -8,14 +8,15 @@ const server = jsonServer.create();
 
 server.use(cors({
   origin: '*',
+  credentials:false
 }));
 
 const router = jsonServer.router(isProductionEnv ? clone(data) : 'db.json', {
   _isFake: isProductionEnv,
 });
 
-const middlewares = jsonServer.defaults();
-server.use(middlewares);
+// const middlewares = jsonServer.defaults();
+// server.use(middlewares);
 
 // Only add custom headers once
 server.use((req, res, next) => {

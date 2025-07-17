@@ -33,6 +33,7 @@ server.use((req, res, next) => {
     const originalSend = res.send;
     res.send = function (body) {
       const etag = `W/"${Buffer.byteLength(body)}-${require('crypto').createHash('sha1').update(body).digest('base64')}"`;
+      res.setHeader('Access-Control-Allow-Credentials', 'false');
       res.setHeader('ETag', etag);
 
       if (req.headers['if-none-match'] === etag) {

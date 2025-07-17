@@ -31,7 +31,7 @@ server.use(customHeadersMiddleware);
 server.use((req, res, next) => {
     if (req.method === 'GET') {
         // Set Cache-Control headers for Vercel caching
-        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=60");
+        res.setHeader("Cache-Control", "public, s-maxage=86400, stale-while-revalidate=3600");
         res.removeHeader("Pragma");
         res.removeHeader("Expires");
         

@@ -59,7 +59,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_nauto_quote__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
@@ -85,7 +85,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_didUknow__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
@@ -111,7 +111,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_na__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
@@ -137,7 +137,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_mp__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
@@ -163,7 +163,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_basicPromo__page=1__limit=30_isMultipleTemplate_like=false_type_like=Post-204-5.json"
@@ -189,7 +189,7 @@
         {
           "type": "query",
           "key": "type_like",
-          "value": "Post 4:5"
+          "value": "Post%204:5"
         }
       ],
       "dest": "/static/p_nauto_tip__page=1__limit=30_isMultipleTemplate_like=false_type_like=Post-204-5.json"

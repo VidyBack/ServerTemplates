@@ -11,6 +11,16 @@
   ],
   "routes": [
     {
+      "src": "/p_basicPromo",
+      "has": [
+        { "type": "query", "key": "_page" },
+        { "type": "query", "key": "_limit" },
+        { "type": "query", "key": "isMultipleTemplate_like" },
+        { "type": "query", "key": "type_like" }
+      ],
+      "dest": "/static/p_basicPromo_page=:page_limit=:limit_isMultipleTemplate=:isMultipleTemplate_type=:type.json"
+    },
+    {
       "src": "/(.*)",
       "dest": "server.js",
       "headers": {

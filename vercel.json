@@ -22,19 +22,9 @@
           "type": "query",
           "key": "_limit",
           "value": "12"
-        },
-        {
-          "type": "query",
-          "key": "isMultipleTemplate_like",
-          "value": "false"
-        },
-        {
-          "type": "query",
-          "key": "type_like",
-          "value": "Post 4:5"
         }
       ],
-      "dest": "/static/p_basicPromo_page=1_limit=12_isMultipleTemplate=false_type=Post-4-5.json"
+      "dest": "/static/p_basicPromo_page=1_limit=12.json"
     },
     {
       "src": "/(.*)",

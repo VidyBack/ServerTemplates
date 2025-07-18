@@ -1,0 +1,891 @@
+[
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fUq-B_1719917738202_farewell-to-you-903.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-21T07:56:55.584Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705578045857_22 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_MCh5v_1729497192124_03-most-popular-portrait-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-most-popular-portrait-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4Edq-_1729497192128_03-most-popular-portrait-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PfoSe_1729497192126_03-most-popular-portrait-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Accessories": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UAvrk_1729497405654_03-most-popular-portrait-24-naveen-updated-Accessories.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lfCJE_1729497408940_03-most-popular-portrait-24-naveen-updated-Accessories.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthFitness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BeCty_1729497405661_03-most-popular-portrait-24-naveen-updated-HealthFitness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lgF87_1729497408958_03-most-popular-portrait-24-naveen-updated-HealthFitness.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Perfumes": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9K0hl_1729497405662_03-most-popular-portrait-24-naveen-updated-Perfumes.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pVlkc_1729497408960_03-most-popular-portrait-24-naveen-updated-Perfumes.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "BagPurse": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_W0eFE_1729497405663_03-most-popular-portrait-24-naveen-updated-BagPurse.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5-vpo_1729497408962_03-most-popular-portrait-24-naveen-updated-BagPurse.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HealthBeauty": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uuzqA_1729497405664_03-most-popular-portrait-24-naveen-updated-HealthBeauty.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ufSrI_1729497408964_03-most-popular-portrait-24-naveen-updated-HealthBeauty.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "MobileElec": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ngNkP_1729497405665_03-most-popular-portrait-24-naveen-updated-MobileElec.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gG0M1_1729497408965_03-most-popular-portrait-24-naveen-updated-MobileElec.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "ToysHobbie": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jE5b8_1729497405666_03-most-popular-portrait-24-naveen-updated-ToysHobbie.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_V6rnu_1729497408967_03-most-popular-portrait-24-naveen-updated-ToysHobbie.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Footwear": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IMj2__1729497405667_03-most-popular-portrait-24-naveen-updated-Footwear.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dC7D1_1729497408969_03-most-popular-portrait-24-naveen-updated-Footwear.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jewellery": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_usamz_1729497405668_03-most-popular-portrait-24-naveen-updated-Jewellery.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aAGBI_1729497408971_03-most-popular-portrait-24-naveen-updated-Jewellery.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wearables": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SZ-NJ_1729497405669_03-most-popular-portrait-24-naveen-updated-Wearables.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TaYai_1729497408972_03-most-popular-portrait-24-naveen-updated-Wearables.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "HomeDecor": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4Zbtw_1729497405670_03-most-popular-portrait-24-naveen-updated-HomeDecor.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4xKYn_1729497408974_03-most-popular-portrait-24-naveen-updated-HomeDecor.mp4",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Furniture": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sibKs_1729497405671_03-most-popular-portrait-24-naveen-updated-Furniture.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_U9OYh_1729497408977_03-most-popular-portrait-24-naveen-updated-Furniture.mp4",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "xC1lRKAB3u3LnleCUHz7U",
+    "templateId": "xC1lRKAB3u3LnleCUHz7U"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I_Dbc_1726052004786_a-night-to-remember-864.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-21T07:12:02.983Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eYbx4_1729494719560_03-most-popular-portrait-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-most-popular-portrait-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rvz_F_1729494719564_03-most-popular-portrait-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_M7PyV_1729494719563_03-most-popular-portrait-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "oS22jmusrPAn1RNaKeJ25",
+    "templateId": "oS22jmusrPAn1RNaKeJ25"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7qWKv_1719918137774_island-beat-250.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-21T06:55:49.751Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705322724854_19 Brand Outro portrait with elements "
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wlUOD_1729493746623_04-most-popular-portrait-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04-most-popular-portrait-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_258xt_1729493746628_04-most-popular-portrait-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DYXBn_1729493746625_04-most-popular-portrait-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "uzL3Q_ADv27zBtZA9E4px",
+    "templateId": "uzL3Q_ADv27zBtZA9E4px"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_M7aUc_1719921238556_truth-hurts-888.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-18T08:31:10.138Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_BpO1z_1729240266945_04-most-popular-portrait-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04-most-popular-portrait-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U-4pE_1729240266948_04-most-popular-portrait-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_B18AA_1729240266946_04-most-popular-portrait-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "8nxRhyBa362WWwevdDaUe",
+    "templateId": "8nxRhyBa362WWwevdDaUe"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I_Dbc_1726052004786_a-night-to-remember-864.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-18T08:08:23.798Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HQewG_1729238900618_06-most-popular-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "06-most-popular-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ns00H_1729238900621_06-most-popular-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QxDxn_1729238900620_06-most-popular-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "STE3-OMzBQDZXtKB0nJ-h",
+    "templateId": "STE3-OMzBQDZXtKB0nJ-h"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jBPZh_1719917830275_cotton-candy-rb-beat-1094-mid-cut.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-18T07:54:50.156Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XfXTl_1729238086403_06-most-popular-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "06-most-popular-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PBgmt_1729238086406_06-most-popular-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DMcB1_1729238086405_06-most-popular-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "sC8I-VKl3jx-fqPZlYcLk",
+    "templateId": "sC8I-VKl3jx-fqPZlYcLk"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_M7aUc_1719921238556_truth-hurts-888.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-17T11:42:55.855Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SCP1S_1729165372549_02-most-popular-portrait-24-naveen-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "02-most-popular-portrait-24-naveen-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9235t_1729165372552_02-most-popular-portrait-24-naveen-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4YSMz_1729165372550_02-most-popular-portrait-24-naveen-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "WJEFUmSZ2KXzuhwZT6LCv",
+    "templateId": "WJEFUmSZ2KXzuhwZT6LCv"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_blkbt_1719921157383_lord-knows-293.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-17T10:01:06.338Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZLm14_1729159262911_21-most-popular-portrait-template.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "21-most-popular-portrait-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_trp7r_1729159262914_21-most-popular-portrait-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HkR_X_1729159262912_21-most-popular-portrait-template.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "aiZhaYHWHymjUYFTo0VKf",
+    "templateId": "aiZhaYHWHymjUYFTo0VKf"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9tOHL_1726052105315_im-still-waitin-910.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-17T09:08:02.863Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aQSZX_1729156079881_21-most-popular-portrait-template.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "21-most-popular-portrait-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SyI1B_1729156079885_21-most-popular-portrait-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tTuQF_1729156079883_21-most-popular-portrait-template.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": true,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "DI_s52h62rpddTXZcSrOh",
+    "templateId": "DI_s52h62rpddTXZcSrOh"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QIr8M_1726052612377_please-dont-leave-without-me-950.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-17T08:52:28.805Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_uY_1q_1729155145228_20-most-popular-portrait-template.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "20-most-popular-portrait-template",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_q4qTh_1729155145232_20-most-popular-portrait-template.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wMpXz_1729155145230_20-most-popular-portrait-template.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "Q_ooUcwh-tP9u1V8qcH5E",
+    "templateId": "Q_ooUcwh-tP9u1V8qcH5E"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b8vFP_1719389498624_gotta-get.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-09T11:50:31.279Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_d4ap-_1728474628385_09-most-popular-portrait-pr-name-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "09-most-popular-portrait-pr-name-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W_O38_1728474628390_09-most-popular-portrait-pr-name-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7MZSY_1728474628387_09-most-popular-portrait-pr-name-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "G3DV5LFHOlaCrJ0QhrVxs",
+    "templateId": "G3DV5LFHOlaCrJ0QhrVxs"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b8vFP_1719389498624_gotta-get.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-10-09T11:44:03.673Z",
+    "extraComps": [
+      {
+        "index": 4,
+        "compId": "1705578045857_22 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mmzeu_1728474240271_09-most-popular-portrait-pr-name-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "09-most-popular-portrait-pr-name-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_mp"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1CUHR_1728474240276_09-most-popular-portrait-pr-name-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JCd7N_1728474240274_09-most-popular-portrait-pr-name-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "5ZsCnHESg_vaUddnv1S2U",
+    "templateId": "5ZsCnHESg_vaUddnv1S2U"
+  }
+]

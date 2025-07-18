@@ -39,7 +39,7 @@
       "dest": "/static/p_basicPromo_page=1_limit=12_isMultipleTemplate=false_type=Post-4-5.json"
     },
     {
-      "src": "p_nauto_tip",
+      "src": "p_nauto_quote",
       "has": [
         {
           "type": "query",
@@ -62,7 +62,85 @@
           "value": "Post 4:5"
         }
       ],
-      "dest": "/static/p_nauto_tip__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+      "dest": "/static/p_nauto_quote__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+    },
+    {
+      "src": "p_didUknow",
+      "has": [
+        {
+          "type": "query",
+          "key": "_page",
+          "value": "1"
+        },
+        {
+          "type": "query",
+          "key": "_limit",
+          "value": "12"
+        },
+        {
+          "type": "query",
+          "key": "isMultipleTemplate_like",
+          "value": "false"
+        },
+        {
+          "type": "query",
+          "key": "type_like",
+          "value": "Post 4:5"
+        }
+      ],
+      "dest": "/static/p_didUknow__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+    },
+    {
+      "src": "p_na",
+      "has": [
+        {
+          "type": "query",
+          "key": "_page",
+          "value": "1"
+        },
+        {
+          "type": "query",
+          "key": "_limit",
+          "value": "12"
+        },
+        {
+          "type": "query",
+          "key": "isMultipleTemplate_like",
+          "value": "false"
+        },
+        {
+          "type": "query",
+          "key": "type_like",
+          "value": "Post 4:5"
+        }
+      ],
+      "dest": "/static/p_na__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+    },
+    {
+      "src": "p_mp",
+      "has": [
+        {
+          "type": "query",
+          "key": "_page",
+          "value": "1"
+        },
+        {
+          "type": "query",
+          "key": "_limit",
+          "value": "12"
+        },
+        {
+          "type": "query",
+          "key": "isMultipleTemplate_like",
+          "value": "false"
+        },
+        {
+          "type": "query",
+          "key": "type_like",
+          "value": "Post 4:5"
+        }
+      ],
+      "dest": "/static/p_mp__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
     },
     {
       "src": "p_basicPromo",
@@ -75,7 +153,7 @@
         {
           "type": "query",
           "key": "_limit",
-          "value": "12"
+          "value": "30"
         },
         {
           "type": "query",
@@ -88,7 +166,33 @@
           "value": "Post 4:5"
         }
       ],
-      "dest": "/static/p_basicPromo__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+      "dest": "/static/p_basicPromo__page=1__limit=30_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+    },
+    {
+      "src": "p_nauto_tip",
+      "has": [
+        {
+          "type": "query",
+          "key": "_page",
+          "value": "1"
+        },
+        {
+          "type": "query",
+          "key": "_limit",
+          "value": "30"
+        },
+        {
+          "type": "query",
+          "key": "isMultipleTemplate_like",
+          "value": "false"
+        },
+        {
+          "type": "query",
+          "key": "type_like",
+          "value": "Post 4:5"
+        }
+      ],
+      "dest": "/static/p_nauto_tip__page=1__limit=30_isMultipleTemplate_like=false_type_like=Post-204-5.json"
     },
     {
       "src": "/(.*)",

@@ -1,0 +1,335 @@
+[
+  {
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_iK4AD_1717754319976_mixkit-me-and-you-851.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2025-07-02T11:49:18.062Z",
+    "extraComps": [
+      {
+        "index": 3,
+        "compId": "1705581297322_23 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JcdLw_1751456955461_01-portrait-quotes-test-3products.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "01-portrait-quotes-test-3products",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_nauto_quote"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WaRSm_1751456955467_01-portrait-quotes-test-3products.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kqu1q_1751456955465_01-portrait-quotes-test-3products.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "v4TjuwBEvHsnedUCqD-mkabc",
+    "templateId": "v4TjuwBEvHsnedUCqD-mkabc"
+  },
+  {
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2025-03-17T13:32:27.696Z",
+    "extraComps": [
+      {
+        "index": 2,
+        "compId": "1705322724854_19 Brand Outro portrait with elements "
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Iac2S_1742218339827_02-portrait_1080x1350-n-updated-by-naveen-2.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "02-portrait_1080x1350-n-updated-by-naveen-2",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_nauto_quote"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TJzol_1742218339831_02-portrait_1080x1350-n-updated-by-naveen-2.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fOJeJ_1742218339829_02-portrait_1080x1350-n-updated-by-naveen-2.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 0.8,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [],
+    "id": "W6IC4SWcbXxs47pudujm1",
+    "templateId": "W6IC4SWcbXxs47pudujm1"
+  },
+  {
+    "version": 2,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2025-02-04T12:55:16.425Z",
+    "extraComps": [
+      {
+        "index": 2,
+        "compId": "1705322724854_19 Brand Outro portrait with elements "
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NrVPo_1738673570156_03-portrait_1080x1350-n-updated.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "03-portrait_1080x1350-n-updated",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_nauto_quote"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8_Unj_1738673570161_03-portrait_1080x1350-n-updated.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8409p_1738673570158_03-portrait_1080x1350-n-updated.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 0.9,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "previews": [
+      {
+        "Automobile": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xTMZj_1738673706142_03-portrait_1080x1350-n-updated-Automobile.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EF-oH_1738673709168_03-portrait_1080x1350-n-updated-Automobile.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-luke-miller-14231696.jpg-Automobile-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Travel": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o9-kl_1738673706144_03-portrait_1080x1350-n-updated-Travel.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wamLE_1738673709170_03-portrait_1080x1350-n-updated-Travel.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oleksandr-pidvalnyi-2100804.jpg-Travel-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Technology": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_852FS_1738673706145_03-portrait_1080x1350-n-updated-Technology.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MlaTR_1738673709172_03-portrait_1080x1350-n-updated-Technology.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-nemuel-6424590.jpg-Technology-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Wellness": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XHQ6__1738673706147_03-portrait_1080x1350-n-updated-Wellness.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N6zV8_1738673709174_03-portrait_1080x1350-n-updated-Wellness.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-doraklimova-9985483.jpg-Wellness-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Jobs": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_q0F6o_1738673706148_03-portrait_1080x1350-n-updated-Jobs.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bSHdH_1738673709176_03-portrait_1080x1350-n-updated-Jobs.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Two_colleagues_working_together_on_a_project_in_a_modern_office_setting__emphasizing_teamwork_and_cooperation_.jpg-Jobs-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Finance": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZdwbI_1738673706150_03-portrait_1080x1350-n-updated-Finance.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_x9Nlw_1738673709179_03-portrait_1080x1350-n-updated-Finance.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-alesiakozik-6770610.jpg-Finance-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Bunglow": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rPdll_1738673706151_03-portrait_1080x1350-n-updated-Bunglow.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LXWN5_1738673709181_03-portrait_1080x1350-n-updated-Bunglow.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-heyho-7533763.jpg-Bunglow-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      },
+      {
+        "Food": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UY1VZ_1738673706153_03-portrait_1080x1350-n-updated-Food.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Cm7mk_1738673709183_03-portrait_1080x1350-n-updated-Food.mp4",
+          "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-3872366-min.jpg-Food-DomainImage.jpg",
+          "promoHeading": ""
+        }
+      }
+    ],
+    "id": "lE8dhqFxOf0gs2XROBuoF",
+    "templateId": "lE8dhqFxOf0gs2XROBuoF"
+  },
+  {
+    "version": 1,
+    "gifUrl": "",
+    "bgVideoUrl": [
+      ""
+    ],
+    "fontUrl": [
+      ""
+    ],
+    "bgImageUrl": [
+      ""
+    ],
+    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+    "fillEnabled": true,
+    "forWebsites": [],
+    "pro": false,
+    "createdOn": "2024-08-23T11:05:13.269Z",
+    "extraComps": [
+      {
+        "index": 2,
+        "compId": "1705578045857_22 Outro Portrait"
+      }
+    ],
+    "widgetsDefinition": [
+      {
+        "mappingKeyMandatory": false,
+        "Height": "100%",
+        "Width": "100%",
+        "StartTime": 0,
+        "EndTime": -1,
+        "URLS": [],
+        "mappingKeyValue": "",
+        "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pps3V_1724411110085_04-quotes-portrait.json",
+        "X": "0.0%",
+        "Y": "0.0%",
+        "type": "SVG_SINGLE",
+        "duration": 10
+      }
+    ],
+    "type": "Post 4:5",
+    "name": "04-quotes-portrait",
+    "brandEnabled": false,
+    "brandType": "X1",
+    "category": [
+      "p_nauto_quote"
+    ],
+    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xLIzX_1724411110090_04-quotes-portrait.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vC1P4_1724411110088_04-quotes-portrait.jpg",
+    "imageType": "Post 4:5",
+    "outroType": null,
+    "introType": null,
+    "Height": 1350,
+    "Width": 1080,
+    "height": 1350,
+    "width": 1080,
+    "introId": null,
+    "outroId": null,
+    "isTransparent": false,
+    "AddId": "",
+    "noBlur": false,
+    "volume": 1,
+    "month": "january",
+    "isMultipleTemplate": false,
+    "id": "nf48f7fdhe89939w2d_0",
+    "templateId": "nf48f7fdhe89939w2d_0",
+    "previews": []
+  }
+]

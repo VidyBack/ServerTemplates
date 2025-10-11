@@ -101,7 +101,7 @@ server.post("/push-to-github", async (req, res) => {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // ✅ stored in Vercel env vars
     const REPO = "VidyBack/ServerTemplates"; // your repo
     const FILE_PATH = "db.json";
-    const BRANCH = "master";
+    const BRANCH = "main";
 console.log("githubtoken",GITHUB_TOKEN)
     // Read local db.json
     const dbPath = path.join(process.cwd(), "db.json");

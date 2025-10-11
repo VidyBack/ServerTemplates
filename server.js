@@ -99,10 +99,10 @@ server.post("/add-template", async (req, res) => {
 server.post("/push-to-github", async (req, res) => {
   try {
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // ✅ stored in Vercel env vars
-    const REPO = "VidyBack/PostRequestVercel"; // your repo
+    const REPO = "VidyBack/ServerTemplates"; // your repo
     const FILE_PATH = "db.json";
     const BRANCH = "master";
-
+console.log("githubtoken",GITHUB_TOKEN)
     // Read local db.json
     const dbPath = path.join(process.cwd(), "db.json");
     const updatedContent = fs.readFileSync(dbPath, "utf-8");

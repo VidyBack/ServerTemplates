@@ -29,54 +29,67 @@ server.use(middlewares);
 server.use(jsonServer.bodyParser);
 server.use(customHeadersMiddleware);
 
+let dbData;
+
+async function loadDbFromGitHub() {
+  const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+  const REPO = "VidyBack/PostRequestVercel";
+  const FILE_PATH = "db.json";
+  const BRANCH = "master";
+
+  const res = await fetch(`https://api.github.com/repos/${REPO}/contents/${FILE_PATH}?ref=${BRANCH}`, {
+    headers: {
+      Authorization: `token ${GITHUB_TOKEN}`,
+    },
+  });
+
+  const fileData = await res.json();
+
+  if (fileData.content) {
+    const decoded = Buffer.from(fileData.content, "base64").toString("utf-8");
+    dbData = JSON.parse(decoded);
+  } else {
+    dbData = {}; // fallback if file doesn't exist
+  }
+}
+
+
 server.post("/add-template", async (req, res) => {
   try {
+    if (!dbData) {
+  await loadDbFromGitHub();
+}
+
     const template = req.body.template;
-    console.log("template==>", template);
 
     if (!template || Object.keys(template).length === 0) {
       return res.status(400).json({ error: "Template body cannot be empty" });
     }
 
-    // Ensure id and templateId exist
     if (!template.id) {
       const randomId = uuidv4();
       template.id = randomId;
       template.templateId = randomId;
     }
 
-    // Validate category
     const categoryInput = template.category?.[0];
     if (!categoryInput) {
       return res.status(400).json({ error: "Template must have a 'category' field" });
     }
 
-    // Find category ignoring case
-    const allCategories = Object.keys(db.value());
-    let matchedCategory = allCategories.find(
+    // Case-insensitive category
+    let matchedCategory = Object.keys(dbData).find(
       (cat) => cat.toLowerCase() === categoryInput.toLowerCase()
     );
+    if (!matchedCategory) matchedCategory = categoryInput;
 
-    // If no match found, create new category
-    if (!matchedCategory) {
-      matchedCategory = categoryInput;
-      db.set(matchedCategory, []).write();
-    }
-
-    // Add template at top of that category (immutable way)
-    const existingTemplates = db.get(matchedCategory).value() || [];
-    const updatedTemplates = [template, ...existingTemplates];
-
-    db.set(matchedCategory, updatedTemplates).write();
+    dbData[matchedCategory] = [template, ...(dbData[matchedCategory] || [])];
 
     console.log(`✅ Added new template to category '${matchedCategory}'`, template);
 
-    res.status(200).json({
-      message: `Template added to category '${matchedCategory}'.`,
-      template,
-    });
-  } catch (error) {
-    console.error("Error adding template:", error);
+    res.status(200).json({ message: `Template added to category '${matchedCategory}'.`, template });
+  } catch (err) {
+    console.error("Error adding template:", err);
     res.status(500).json({ error: "Internal Server Error" });
   }
 });

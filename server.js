@@ -5,6 +5,8 @@ const middlewares = jsonServer.defaults();
 const low = require("lowdb");
 const FileSync = require("lowdb/adapters/FileSync");
 const { v4: uuidv4 } = require("uuid"); 
+import dotenv from "dotenv";
+dotenv.config();
 
 const path = require("path")
 

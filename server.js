@@ -98,14 +98,16 @@ server.post("/add-template", async (req, res) => {
 
 server.post("/push-to-github", async (req, res) => {
   try {
-    const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // ✅ stored in Vercel env vars
-    const REPO = "VidyBack/ServerTemplates"; // your repo
+    const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+    const REPO = "VidyBack/ServerTemplates";
     const FILE_PATH = "db.json";
     const BRANCH = "main";
-console.log("githubtoken",GITHUB_TOKEN)
-    // Read local db.json
-    const dbPath = path.join(process.cwd(), "db.json");
-    const updatedContent = fs.readFileSync(dbPath, "utf-8");
+
+    if (!dbData) {
+      return res.status(400).json({ error: "No in-memory DB data to push. Add templates first." });
+    }
+
+    console.log("githubtoken", GITHUB_TOKEN);
 
     // 1️⃣ Fetch file metadata (get latest SHA)
     const getFile = await fetch(
@@ -124,8 +126,8 @@ console.log("githubtoken",GITHUB_TOKEN)
       return res.status(500).json({ error: "Failed to get file SHA from GitHub" });
     }
 
-    // 2️⃣ Encode content to base64
-    const encodedContent = Buffer.from(updatedContent).toString("base64");
+    // 2️⃣ Encode in-memory DB to base64
+    const encodedContent = Buffer.from(JSON.stringify(dbData, null, 2)).toString("base64");
 
     // 3️⃣ Commit updated file
     const commit = await fetch(`https://api.github.com/repos/${REPO}/contents/${FILE_PATH}`, {
@@ -159,6 +161,7 @@ console.log("githubtoken",GITHUB_TOKEN)
     res.status(500).json({ error: "Internal Server Error" });
   }
 });
+
 
 
 server.post("/:purpose", (req, res) => {

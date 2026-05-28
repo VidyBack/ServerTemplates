@@ -278928,6 +278928,72 @@
 	"previews": []
 },
 {
+            "version": 1,
+            "gifUrl": "",
+            "bgVideoUrl": [
+              ""
+            ],
+            "fontUrl": [
+              ""
+            ],
+            "bgImageUrl": [
+              ""
+            ],
+            "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
+            "fillEnabled": true,
+            "forWebsites": [],
+            "pro": true,
+            "createdOn": "2023-08-22T12:14:54.742Z",
+            "extraComps": [
+              {
+                "index": 7,
+                "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+              }
+            ],
+            "widgetsDefinition": [
+              {
+                "mappingKeyMandatory": false,
+                "Height": "100%",
+                "Width": "100%",
+                "StartTime": 0,
+                "EndTime": -1,
+                "URLS": [],
+                "mappingKeyValue": "",
+                "URL": "https://cdn.hootout.com/vidyback/quote_template_schema+1.json",
+                "X": "0.0%",
+                "Y": "0.0%",
+                "type": "SVG_SINGLE",
+                "duration": 10
+              }
+            ],
+             "type": "Post 4:5",
+            "name": "13-multiproduct-27-02-2023",
+            "brandEnabled": false,
+            "brandType": "X1",
+            "category": [
+              "p_basicPromo"
+            ],
+              "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O1ncD_1779439496160_14-quote-portrait-new-template-new.mp4",
+    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Jrum3_1779439496156_14-quote-portrait-new-template-new.jpg",
+            "imageType": "Post 4:5",
+            "outroType": null,
+            "introType": null,
+            "Height": 1080,
+            "Width": 1080,
+            "height": 1080,
+            "width": 1080,
+            "introId": null,
+            "outroId": null,
+            "isTransparent": false,
+            "AddId": "",
+            "volume": 0.3,
+            "isMultipleTemplate": true,
+            "isLottieSupported": false,
+           
+            "id": "s20W3F5zYqCQQbwX6B0pJ",
+            "templateId": "s20W3F5zYqCQQbwX6B0pJ"
+          },
+{
 	"version": 2,
 	"gifUrl": "",
 	"bgVideoUrl": [
